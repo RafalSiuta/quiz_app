@@ -1,0 +1,2084 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "________ all the biscuits?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Who did eat",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "Which ate",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "Who ate",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Who ate all the biscuits?",
+                "pl": "Kto zjad\u0142 wszystkie ciastka?"
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest C) Who ate. W zdaniu pytaj\u0105cym o osob\u0119, kt\u00f3ra zjad\u0142a ciastka, u\u017cywamy pytania \"Who\" jako zaimek pytaj\u0105cy o podmiot. W tym przypadku pytamy, kto zjad\u0142 ciastka. Wyb\u00f3r A) \"Who did eat\" jest niepoprawny, poniewa\u017c u\u017cywanie \"did\" nie jest konieczne w pytaniu, a samo \"Who ate\" jest wystarczaj\u0105ce. Wyb\u00f3r B) \"Which ate\" jest r\u00f3wnie\u017c niepoprawny, poniewa\u017c u\u017cywamy \"which\" do pytania o przedmiot lub wyb\u00f3r spo\u015br\u00f3d kilku, a nie o osob\u0119."
+        },
+        {
+            "id": 2,
+            "question": "Could you tell me what time ________?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "the class starts",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "starts the class",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "does the class start",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Could you tell me what time the class starts?",
+                "pl": "Czy mo\u017cesz mi powiedzie\u0107, o kt\u00f3rej godzinie zaczynaj\u0105 si\u0119 zaj\u0119cia?"
+            },
+            "explanation": "W tym pytaniu u\u017cywamy formy pytania po\u015bredniego, kt\u00f3re zaczyna si\u0119 od frazy \"Could you tell me...\", a nast\u0119pnie po nim nast\u0119puje zdanie o\u015bwiadczeniowe (\"what time the class starts\"), a nie typowe zdanie pytaj\u0105ce. Wyb\u00f3r B) \"starts the class\" jest niepoprawny, poniewa\u017c w standardowym angielskim szyk zdania to podmiot + czasownik, nie odwrotnie. Wyb\u00f3r C) \"does the class start\" r\u00f3wnie\u017c jest niepoprawny. W pytaniach bezpo\u015brednich u\u017cyliby\u015bmy formy \"does\" z czasownikiem w formie podstawowej (infinitive), na przyk\u0142ad: \"What time does the class start?\". Ale poniewa\u017c pytanie zaczyna si\u0119 od \"Could you tell me...\", oczekujemy formy zdania o\u015bwiadczeniowego, a nie pytaj\u0105cego."
+        },
+        {
+            "id": 3,
+            "question": "How long ________ each other?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "do you know",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "have you been knowing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "have you known",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "How long have you known each other?",
+                "pl": "Jak d\u0142ugo si\u0119 znacie?"
+            },
+            "explanation": ""
+        },
+        {
+            "id": 4,
+            "question": "Why ________ jazz?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "don\u2019t you like",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "you don\u2019t like",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "you not like",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Why don\u2019t you like jazz?",
+                "pl": "Dlaczego nie lubisz jazzu?"
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) don't you like. W pytaniu, kt\u00f3re pyta dlaczego kto\u015b nie lubi jazzu, u\u017cywamy konstrukcji pytaj\u0105cej z u\u017cyciem odwrotnego szyku czasownika, czyli \"don't you like\". Odpowied\u017a B) \"you don't like\" jest niepoprawna, poniewa\u017c nie jest to pytanie, a zdanie twierdz\u0105ce.Odpowied\u017a C) \"you not like\" jest r\u00f3wnie\u017c niepoprawna,poniewa\u017c w j\u0119zyku angielskim u\u017cywamy formy z u\u017cyciem operatora \"do\" do tworzenia pyta\u0144 i negacji."
+        },
+        {
+            "id": 5,
+            "question": "I don\u2019t speak Italian, but my boyfriend ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "does",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "is",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "speaks",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I don\u2019t speak Italian, but my boyfriend does.",
+                "pl": "Nie m\u00f3wi\u0119 po w\u0142osku, ale m\u00f3j ch\u0142opak tak."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) does. W tym kontek\u015bcie \"does\" s\u0142u\u017cy jako pomocnik, kt\u00f3ry zast\u0119puje pe\u0142ny czasownik (\"speak\") w celu unikni\u0119cia powt\u00f3rzenia. Wiemy, \u017ce chodzi o \"speak\" z pierwszej cz\u0119\u015bci zdania (\"I don't speak Italian\"). Ten typ u\u017cycia jest bardzo powszechny w j\u0119zyku angielskim, aby unikn\u0105\u0107 powt\u00f3rzenia tego samego czasownika. Wyb\u00f3r B) \"is\" jest niepoprawny, poniewa\u017c nie zast\u0119puje pe\u0142nej frazy czasownikowej (\"speak Italian\") poprawnie. Wyb\u00f3r C) \"speaks\" jest technicznie poprawny gramatycznie i oznacza to samo, co \"does\" w tym kontek\u015bcie. Jednak\u017ce, u\u017cywaj\u0105c \"does\", unikamy powt\u00f3rzenia, co czyni zdanie bardziej eleganckim i naturalnym."
+        },
+        {
+            "id": 6,
+            "question": "I didn\u2019t enjoy the film",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "So",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "Neither",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "No",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I didn\u2019t enjoy the film.  Neither did I.",
+                "pl": "Film mi si\u0119 nie podoba\u0142. Mi te\u017c nie."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 w tym przypadku jest opcja B) \"Neither\". W zdaniu powiedzianym: \"I didn't enjoy the film\", u\u017cywamy s\u0142owa \"neither\" jako odpowiedzi, aby wyrazi\u0107, \u017ce r\u00f3wnie\u017c nie cieszymy si\u0119 z czego\u015b lub nie zgadzamy si\u0119 z tym."
+        },
+        {
+            "id": 7,
+            "question": "I did the shopping this morning",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Do",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "Have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "Did",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I did the shopping this morning. Did you? That\u2019s great.",
+                "pl": "Zakupy zrobi\u0142am dzi\u015b rano. zrobi\u0142e\u015b? To wspaniale."
+            },
+            "explanation": "W tym przypadku w\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) did. Pytanie u\u017cywa czasu przesz\u0142ego prostego (\"did\"), kt\u00f3ry jest odpowiedni do opisania czynno\u015bci, kt\u00f3ra mia\u0142a miejsce i zako\u0144czy\u0142a si\u0119 w przesz\u0142o\u015bci. W tym przypadku pytamy, czy rozm\u00f3wca zrobi\u0142 zakupy tego poranka. Wyb\u00f3r A) \"Do\" jest niepoprawny, poniewa\u017c \"do\" jest u\u017cywane do tworzenia pyta\u0144 w czasie tera\u017aniejszym, a nie w czasie przesz\u0142ym. Wyb\u00f3r B) \"Have\" r\u00f3wnie\u017c jest niepoprawny, poniewa\u017c \"have\" s\u0142u\u017cy do tworzenia pyta\u0144 w czasie tera\u017aniejszym perfektywnym (\"Have you done the shopping?\"), a nie w czasie przesz\u0142ym prostym."
+        },
+        {
+            "id": 8,
+            "question": "I\u2019ve lived in this town ________ I was ten years old",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "when",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "for",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "since",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I\u2019ve lived in this town since I was ten years old.",
+                "pl": "Mieszkam w tym mie\u015bcie odk\u0105d sko\u0144czy\u0142em dziesi\u0119\u0107 lat."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest C) since. W zdaniu \"I've lived in this town since I was ten years old\" u\u017cywamy czasownika \"live\" w formie Present Perfect (Czas tera\u017aniejszy dokonany), aby opisa\u0107 dzia\u0142anie, kt\u00f3re rozpocz\u0119\u0142o si\u0119 w przesz\u0142o\u015bci i trwa do teraz. U\u017cywamy \"since\" w tym kontek\u015bcie, aby wskaza\u0107 moment w przesz\u0142o\u015bci, od kt\u00f3rego co\u015b trwa\u0142o. Odpowied\u017a A) \"when\" jest niepoprawna w tym kontek\u015bcie, poniewa\u017c \"when\" u\u017cywamy, gdy pytamy o konkretne chwile lub okoliczno\u015bci, a nie o trwanie czego\u015b przez d\u0142u\u017cszy czas. Odpowied\u017a B) \"for\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c \"for\" u\u017cywamy, gdy m\u00f3wimy o okresie czasu, ale nie podajemy konkretnego momentu, od kt\u00f3rego co\u015b trwa\u0142o."
+        },
+        {
+            "id": 9,
+            "question": "You forgot to lock the door last night",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "did lock it",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "didn\u2019t lock",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lock",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You forgot to lock the door last night. That\u2019s not true, I did lock it it! I remember perfectly.",
+                "pl": "Zapomnia\u0142e\u015b zamkn\u0105\u0107 drzwi zesz\u0142ej nocy. To nieprawda, zamkn\u0105\u0142em je! doskonale pami\u0119tam."
+            },
+            "explanation": "Odpowied\u017a to A) \"did lock it\". W tym kontek\u015bcie, u\u017cywamy \"did\" z czasownikiem g\u0142\u00f3wnym (\"lock\") do podkre\u015blenia czy potwierdzenia czynno\u015bci, kt\u00f3r\u0105 wykonali\u015bmy. Jest to forma czasu przesz\u0142ego prostego i jest cz\u0119sto u\u017cywana w kontek\u015bcie zaprzeczania, wyja\u015bnienia lub korekty, co jest w\u0142a\u015bnie przypadkiem tutaj. Wyb\u00f3r B) \"didn't lock\" jest niepoprawny, poniewa\u017c \"didn't\" oznacza zaprzeczenie, a w tym kontek\u015bcie osoba potwierdza, \u017ce zamkn\u0119\u0142a drzwi. Wyb\u00f3r C) \"lock\" jest r\u00f3wnie\u017c niepoprawny, poniewa\u017c brakuje czasownika pomocniczego \"did\", kt\u00f3ry jest potrzebny do tworzenia zdania w czasie przesz\u0142ym. Bez \"did\", zdanie nie jest poprawne gramatycznie."
+        },
+        {
+            "id": 10,
+            "question": "Sally\u2019s a vegetarian, ________ she?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hasn\u2019t",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "doesn\u2019t",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "isn\u2019t",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Sally\u2019s a vegetarian, isn\u2019t she?",
+                "pl": "Sally jest wegetariank\u0105, prawda?"
+            },
+            "explanation": "W j\u0119zyku angielskim pytania doprecyzowuj\u0105ce (tag questions) s\u0105 tworzone poprzez dodanie kr\u00f3tkiego pytania na ko\u0144cu zdania. Je\u015bli zdanie jest twierdz\u0105ce, pytanie jest przecz\u0105ce (i na odwr\u00f3t). Poniewa\u017c g\u0142\u00f3wne zdanie (\"Sally's a vegetarian\") jest twierdz\u0105ce, dodajemy przecz\u0105ce pytanie (\"isn't she?\"). Wyb\u00f3r A) \"hasn't\" jest niepoprawny, poniewa\u017c nie odnosi si\u0119 do g\u0142\u00f3wnego czasownika w zdaniu (\"is\"). Wyb\u00f3r B) \"doesn't\" jest r\u00f3wnie\u017c niepoprawny, poniewa\u017c \"doesn't\" jest u\u017cywane z czasownikami dzia\u0142ania, a nie z czasownikiem \"to be\", kt\u00f3ry jest u\u017cywany w tym zdaniu."
+        },
+        {
+            "id": 11,
+            "question": "Do you know where________?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Vicky lives",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "does Vicky live",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "Vicky does live",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Do you know where Vicky lives?",
+                "pl": "Czy wiesz, gdzie mieszka Vicky?"
+            },
+            "explanation": "Odpowied\u017a to A) \"Vicky lives\". W tym pytaniu u\u017cywamy formy pytania po\u015bredniego, kt\u00f3re zaczyna si\u0119 od frazy \"Do you know where...\", a nast\u0119pnie po nim nast\u0119puje zdanie o\u015bwiadczeniowe (\"Vicky lives\"), a nie typowe zdanie pytaj\u0105ce. Wyb\u00f3r B) \"does Vicky live\" jest niepoprawny, poniewa\u017c w standardowym angielskim szyk zdania to podmiot + czasownik, nie odwrotnie. W pytaniah bezpo\u015brednich u\u017cyliby\u015bmy formy \"does\" z czasownikiem w formie podstawowej (infinitive), na przyk\u0142ad: \"Where does Vicky live?\". Ale poniewa\u017c pytanie zaczyna si\u0119 od \"Do you know where...\", oczekujemy formy zdania o\u015bwiadczeniowego, a nie pytaj\u0105cego. Wyb\u00f3r C) \"Vicky does live\" jest r\u00f3wnie\u017c niepoprawny. Chocia\u017c \"does\" mo\u017ce by\u0107 u\u017cywane do podkre\u015blenia twierdzenia, nie jest to potrzebne w kontek\u015bcie tego pytania. W pytaniu o miejsce zamieszkania Vicky, wystarczy powiedzie\u0107 \"Vicky lives\"."
+        },
+        {
+            "id": 12,
+            "question": "You look tired! That\u2019s because I ________ tennis all morning",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "played",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "\u2019ve played",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ve been playing",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "You look tired! That\u2019s because I\u2019ve been playing tennis all morning.",
+                "pl": "Wygl\u0105dasz na zm\u0119czonego! To dlatego, \u017ce ca\u0142y ranek gra\u0142em w tenisa."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest C) 've been playing. W drugiej wypowiedzi, kt\u00f3ra wyja\u015bnia, dlaczego osoba wygl\u0105da na zm\u0119czon\u0105, u\u017cywamy konstrukcji czasu Present Perfect Continuous (Czas tera\u017aniejszy ci\u0105g\u0142y dokonany) z u\u017cyciem \"have/has been\" i czasownika z ko\u0144c\u00f3wk\u0105 -ing. Poprawne zdanie brzmi \"That's because I've been playing tennis all morning\", co oznacza, \u017ce osoba gra\u0142a w tenisa przez ca\u0142e przedpo\u0142udnie i dlatego wygl\u0105da na zm\u0119czon\u0105. Odpowied\u017a A) \"played\" jest niepoprawna, poniewa\u017c nie wyra\u017ca ci\u0105g\u0142o\u015bci dzia\u0142ania. Odpowied\u017a B) \"'ve played\" jest r\u00f3wnie\u017c niepoprawna, poniewa\u017c u\u017cywamy Present Perfect Continuous, a nie Present Perfect, aby opisa\u0107 ci\u0105g\u0142e dzia\u0142anie. Dlatego poprawn\u0105 odpowiedzi\u0105 jest C) \"'ve been playing\"."
+        },
+        {
+            "id": 13,
+            "question": "Look at your hand! You ________ yourself",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019ve cut",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "cut",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ve been cutting",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Look at your hand! You \u2019ve cut yourself.",
+                "pl": "Sp\u00f3jrz na swoj\u0105 r\u0119k\u0119! Skaleczy\u0142e\u015b si\u0119."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) 've cut. W zdaniu, kt\u00f3re m\u00f3wi o patrzeniu na r\u0119k\u0119 i wskazuje na to, \u017ce osoba si\u0119 skaleczy\u0142a, u\u017cywamy konstrukcji czasu Present Perfect (Czas tera\u017aniejszy dokonany). Poprawne zdanie brzmi \"You've cut yourself\". Odpowied\u017a B) \"cut\" jest niepoprawna, poniewa\u017c nie wyra\u017ca aspektu dokonanego i nie jest w czasie Present Perfect. Odpowied\u017a C) \"'ve been cutting\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c u\u017cywamy czasu Present Perfect Continuous (Czas tera\u017aniejszy ci\u0105g\u0142y dokonany), gdy chcemy podkre\u015bli\u0107 ci\u0105g\u0142e dzia\u0142anie. Jednak w tym kontek\u015bcie zdanie m\u00f3wi o pojedynczym zdarzeniu skaleczenia. Dlatego poprawn\u0105 odpowiedzi\u0105 jest A) \"'ve cut\"."
+        },
+        {
+            "id": 14,
+            "question": "You can play the violin, ________ you?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "can",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "can\u2019t",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "don\u2019t",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You can play the violin, can\u2019t you?",
+                "pl": "Umiesz gra\u0107 na skrzypcach, czy\u017c nie?"
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest B) can\u2019t. W j\u0119zyku angielskim pytania doprecyzowuj\u0105ce (tag questions) s\u0105 tworzone poprzez dodanie kr\u00f3tkiego pytania na ko\u0144cu zdania. Je\u015bli zdanie jest twierdz\u0105ce, pytanie jest przecz\u0105ce (i na odwr\u00f3t). Poniewa\u017c g\u0142\u00f3wne zdanie (\"You can play the violin\") jest twierdz\u0105ce, dodajemy przecz\u0105ce pytanie (\"can't you?\"). Wyb\u00f3r A) \"can\" jest niepoprawny, poniewa\u017c jest to forma twierdz\u0105ca, a potrzebujemy formy przecz\u0105cej do stworzenia poprawnego pytania doprecyzowuj\u0105cego. Wyb\u00f3r C) \"don't\" jest r\u00f3wnie\u017c niepoprawny, poniewa\u017c \"don't\" nie jest form\u0105 przecz\u0105c\u0105 czasownika \"can\"."
+        },
+        {
+            "id": 15,
+            "question": "The _____ you finish your homework, the sooner you can go out",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "quick",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "more quickly",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "quicker",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The quicker you finish your homework, the sooner you can go out.",
+                "pl": "Im szybciej sko\u0144czysz prac\u0119 domow\u0105, tym szybciej mo\u017cesz wyj\u015b\u0107."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest C) quicker. W zdaniu tym u\u017cywamy konstrukcji \"the... the...\" do wyra\u017cenia zwi\u0105zku przyczynowo-skutkowego. Po \"the\" u\u017cywamy przymiotnika lub przys\u0142\u00f3wka w stopniu wy\u017cszym. W tym przypadku u\u017cywamy \"quicker\", co jest form\u0105 stopnia wy\u017cszego przymiotnika \"quick\". Wyb\u00f3r A) \"quick\" jest niepoprawny, poniewa\u017c po \"the\" potrzebujemy formy stopnia wy\u017cszego, a \"quick\" jest form\u0105 podstawow\u0105. Wyb\u00f3r B) \"more quickly\" r\u00f3wnie\u017c jest niepoprawny, poniewa\u017c w tej konstrukcji u\u017cywamy zazwyczaj kr\u00f3tszej formy stopnia wy\u017cszego (\"quicker\"), a nie \"more quickly\"."
+        },
+        {
+            "id": 16,
+            "question": "It was the most difficult exam ________ in all my life",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "I\u2019ve ever done",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "I ever did",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "I\u2019ve ever been doing",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "It was the most difficult exam I\u2019ve ever done in all my life.",
+                "pl": "To by\u0142 najtrudniejszy egzamin, jaki w \u017cyciu zdawa\u0142em."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) I've ever done. W zdaniu, kt\u00f3re opisuje najtrudniejszy egzamin w czyim\u015b \u017cyciu, u\u017cywamy konstrukcji czasu Present Perfect (Czas tera\u017aniejszy dokonany) wraz z \"ever\" (kiedykolwiek) do wyra\u017cenia, \u017ce jest to najtrudniejszy egzamin do tej pory. Poprawne zdanie brzmi \"It was the most difficult exam I've ever done.\" Odpowied\u017a B) \"I ever did\" jest niepoprawna, poniewa\u017c nie u\u017cywamy czasu przesz\u0142ego prostego (Past Simple) do wyra\u017cenia do\u015bwiadczenia, kt\u00f3re ma wp\u0142yw na tera\u017aniejszo\u015b\u0107. Odpowied\u017a C) \"I've ever been doing\" jest r\u00f3wnie\u017c niepoprawna, poniewa\u017c czas Present Perfect Continuous (Czas tera\u017aniejszy ci\u0105g\u0142y dokonany) nie pasuje do kontekstu opisywania pojedynczego wydarzenia."
+        },
+        {
+            "id": 17,
+            "question": "Do you want to come and play football? No thanks",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "I\u2019ve already played",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "I\u2019ve already been playing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "I\u2019ve been already playing",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Do you want to come and play football? No thanks. I\u2019ve already played twice this week.",
+                "pl": "Chcesz przyj\u015b\u0107 i pogra\u0107 w pi\u0142k\u0119 no\u017cn\u0105? Nie, dzi\u0119kuj\u0119. Gra\u0142em ju\u017c dwa razy w tym tygodniu."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) I've already played. W odpowiedzi na propozycj\u0119 zagrania w pi\u0142k\u0119 no\u017cn\u0105, osoba m\u00f3wi\u0105ca odmawia i wyja\u015bnia, \u017ce ju\u017c gra\u0142a w pi\u0142k\u0119 no\u017cn\u0105 dwukrotnie w tym tygodniu. Poprawne zdanie brzmi \"No thanks. I've already played twice this week.\" Odpowied\u017a B) \"I've already been playing\" jest niepoprawna, poniewa\u017c u\u017cywamy czasu Present Perfect (Czas tera\u017aniejszy dokonany) do opisania do\u015bwiadcze\u0144, kt\u00f3re mia\u0142y miejsce w przesz\u0142o\u015bci, ale maj\u0105 zwi\u0105zek z tera\u017aniejszo\u015bci\u0105. Forma \"been playing\" jest u\u017cywana dla aktywno\u015bci, kt\u00f3re trwaj\u0105 w okre\u015blonym okresie, a nie dla pojedynczych wydarze\u0144. Odpowied\u017a C) \"I've been already playing\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c \"already\" powinno by\u0107 umieszczone przed czasownikiem w konstrukcji Present Perfect."
+        },
+        {
+            "id": 18,
+            "question": "Do you think it\u2019s going to snow? Yes, I ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "am",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "do",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "think",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Do you think it\u2019s going to snow? Yes, I do. The temperature has dropped.",
+                "pl": "My\u015blisz, \u017ce b\u0119dzie pada\u0107 \u015bnieg? Tak. Temperatura spad\u0142a."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest B) do W tym kontek\u015bcie, \"do\" jest u\u017cywane jako czasownik pomocniczy, kt\u00f3ry zast\u0119puje \"think\" w celu unikni\u0119cia powt\u00f3rzenia. Jest to powszechne w j\u0119zyku angielskim, gdzie czasownik pomocniczy zast\u0119puje g\u0142\u00f3wny czasownik w odpowiedzi, aby unikn\u0105\u0107 powt\u00f3rzenia. Wi\u0119c \"Yes, I do\" w pe\u0142ni odpowiada na pytanie \"Do you think it\u2019s going to snow?\". Alternatywnie, \"I think\" r\u00f3wnie\u017c mog\u0142oby by\u0107 poprawne, ale sugerowa\u0142oby, \u017ce m\u00f3wca podaje swoj\u0105 osobist\u0105 opini\u0119, a nie tylko zgadza si\u0119 z sugesti\u0105 pytaj\u0105cego."
+        },
+        {
+            "id": 19,
+            "question": "How many times ________ to Paris?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "have you been",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "did you go",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "have you been going",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "How many times have you been to Paris?",
+                "pl": "Ile razy by\u0142e\u015b w Pary\u017cu?"
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) have you been. W pytaniu, kt\u00f3re pyta o liczb\u0119 razy, jakie osoba by\u0142a w Pary\u017cu, u\u017cywamy czasu Present Perfect (Czas tera\u017aniejszy dokonany) wraz z czasownikiem \"have been\". Poprawne pytanie brzmi \"How many times have you been to Paris?\" Odpowied\u017a B) \"did you go\" jest niepoprawna, poniewa\u017c u\u017cywamy czasu Past Simple (Czas przesz\u0142y prosty) do wyra\u017cania pojedynczych dzia\u0142a\u0144 w przesz\u0142o\u015bci, a nie o liczb\u0119 razy, jakie osoba by\u0142a w Pary\u017cu. Odpowied\u017a C) \"have you been going\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c u\u017cywamy Present Perfect Continuous (Czas tera\u017aniejszy ci\u0105g\u0142y dokonany) do opisywania dzia\u0142alno\u015bci, kt\u00f3ra trwa w okre\u015blonym okresie czasu, a nie do opisywania liczby razy."
+        },
+        {
+            "id": 20,
+            "question": "How long ________ at this language school?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "do you study",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "have you been studying",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "you have been studying",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "How long have you been studying at this language school?",
+                "pl": "Jak d\u0142ugo uczysz si\u0119 w tej szkole j\u0119zykowej?"
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest B) have you been studying. W pytaniu, kt\u00f3re pyta o d\u0142ugo\u015b\u0107 trwania nauki w tej szkole j\u0119zykowej, u\u017cywamy czasu Present Perfect Continuous (Czas tera\u017aniejszy ci\u0105g\u0142y dokonany) wraz z czasownikiem \"have been studying\". Poprawne pytanie brzmi \"How long have you been studying at this language school?\" Odpowied\u017a A) \"do you study\" jest niepoprawna, poniewa\u017c nie odnosi si\u0119 do trwaj\u0105cego procesu, ale pytamy o okres czasu, jaki ju\u017c min\u0105\u0142. Odpowied\u017a C) \"you have been studying\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c nie jest to pe\u0142ne pytanie ani poprawna forma czasownika."
+        },
+        {
+            "id": 21,
+            "question": "Jack\u2019s just bought a ________ sports car",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "red new fantastic",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "fantastic new red",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "new red fantastic",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Jack\u2019s just bought a fantastic new red sports car.",
+                "pl": "Jack w\u0142a\u015bnie kupi\u0142 fantastyczny nowy czerwony samoch\u00f3d sportowy."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 22,
+            "question": "________ are friendly, hard-working people",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "A Pole",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "The Poles",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "Polish",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The Poles are friendly, hard-working people.",
+                "pl": "Polacy to sympatyczni, pracowici ludzie."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest B) The Poles. W zdaniu, kt\u00f3re m\u00f3wi o przyjaznych i pracowitych ludziach, u\u017cywamy formy l.mn. z nazw\u0105 narodowo\u015bci. Poprawne zdanie brzmi \"The Poles are friendly, hard-working people.\"Odpowied\u017a A) \"A Pole\" jest nieodpowiednia, poniewa\u017c u\u017cywamy formy l.mn. dla opisu og\u00f3lnej grupy ludzi z okre\u015blonej narodowo\u015bci. Odpowied\u017a C) \"Polish\" jest nieodpowiednia w tym kontek\u015bcie, poniewa\u017c opisuje j\u0119zyk lub cechy kulturowe, a nie ludzi."
+        },
+        {
+            "id": 23,
+            "question": "Jack ________ because he was so hungry",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "ate quickly",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "quickly ate",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "ate quick",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Jack ate quickly because he was so hungry.",
+                "pl": "Jack jad\u0142 szybko, bo by\u0142 bardzo g\u0142odny."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) ate quickly. W zdaniu opisuj\u0105cym spos\u00f3b, w jaki Jack jad\u0142 z powodu g\u0142odu, u\u017cywamy przymiotnika \"quickly\" (szybko) w formie przys\u0142\u00f3wka. Poprawne zdanie brzmi \"Jack ate quickly because he was so hungry.\" Odpowied\u017a B) \"quickly ate\" jest r\u00f3wnie\u017c poprawna, poniewa\u017c przys\u0142\u00f3wek \"quickly\" mo\u017ce by\u0107 umieszczony zar\u00f3wno przed czasownikiem, jak i po nim. Jednak bardziej naturalne i powszechnie u\u017cywane jest umieszczenie przys\u0142\u00f3wka przed czasownikiem. Odpowied\u017a C) \"ate quick\" jest niepoprawna, poniewa\u017c \"quick\" jest przymiotnikiem i nie pasuje jako przys\u0142\u00f3wek w tym kontek\u015bcie."
+        },
+        {
+            "id": 24,
+            "question": "________ has joined our English class",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "A Chinese",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "Chinese girl",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "A Chinese girl",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "A Chinese girl has joined our English class.",
+                "pl": "Chinka do\u0142\u0105czy\u0142a do naszej klasy angielskiego."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest C) A Chinese girl. Poprawn\u0105 odpowiedzi\u0105 jest C) A Chinese girl. W zdaniu, kt\u00f3re m\u00f3wi o do\u0142\u0105czeniu osoby do klasy angielskiego, u\u017cywamy formy l.poj. z okre\u015bleniem narodowo\u015bci. Poprawne zdanie brzmi \"A Chinese girl has joined our English class.\" Odpowied\u017a A) \"A Chinese\" jest nieodpowiednia, poniewa\u017c nie opisuje p\u0142ci osoby, kt\u00f3ra do\u0142\u0105czy\u0142a do klasy. Odpowied\u017a B) \"Chinese girl\" jest r\u00f3wnie\u017c poprawna, ale dodanie przedimka \"A\" przed okre\u015bleniem narodowo\u015bci sprawia, \u017ce zdanie jest gramatycznie bardziej poprawne i naturalne."
+        },
+        {
+            "id": 25,
+            "question": "I think the ________ skirt suits you best",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "green long silk",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "long green silk",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "silk long green",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I think the long green silk skirt suits you best.",
+                "pl": "My\u015bl\u0119, \u017ce d\u0142uga zielona jedwabna sp\u00f3dnica pasuje do ciebie najlepiej."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest B) long green silk.W zdaniu, kt\u00f3re opisuje sp\u00f3dnic\u0119, u\u017cywamy przymiotnik\u00f3w w odpowiedniej kolejno\u015bci. Kolejno\u015b\u0107 przymiotnik\u00f3w w j\u0119zyku angielskim zwykle jest: opinia/przymiotnik og\u00f3lny, przymiotnik dotycz\u0105cy kszta\u0142tu/rozmiaru/koloru, przymiotnik dotycz\u0105cy materia\u0142u. W tym przypadku poprawna forma to \"long green silk skirt\". Odpowied\u017a A) \"green long silk\" ma odwr\u00f3con\u0105 kolejno\u015b\u0107 przymiotnik\u00f3w. Odpowied\u017a C) \"silk long green\" r\u00f3wnie\u017c ma nieodpowiedni\u0105 kolejno\u015b\u0107 przymiotnik\u00f3w."
+        },
+        {
+            "id": 26,
+            "question": "I didn\u2019t want to go home because the party ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hadn\u2019t been finishing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "didn\u2019t finish",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "hadn\u2019t finished",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I didn\u2019t want to go home because the party hadn\u2019t finished.",
+                "pl": "Nie chcia\u0142em wraca\u0107 do domu, bo impreza jeszcze si\u0119 nie sko\u0144czy\u0142a."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest C) hadn't finished. W zdaniu, kt\u00f3re m\u00f3wi o niech\u0119ci do powrotu do domu z powodu trwaj\u0105cej imprezy, u\u017cywamy czasu Past Perfect (Czas zaprzesz\u0142y) wraz z czasownikiem \"had finished\". Poprawne zdanie brzmi \"I didn't want to go home because the party hadn't finished.\" Odpowied\u017a A) \"hadn't been finishing\" jest niepoprawna, poniewa\u017c u\u017cywamy czasu Past Perfect (Czas zaprzesz\u0142y) w formie prostego czasu przesz\u0142ego, a nie czasu przesz\u0142ego ci\u0105g\u0142ego. Odpowied\u017a B) \"didn't finish\" r\u00f3wnie\u017c jest gramatycznie poprawna, ale nie oddaje znaczenia, \u017ce impreza jeszcze trwa\u0142a w momencie niech\u0119ci do powrotu do domu."
+        },
+        {
+            "id": 27,
+            "question": "My sister ________coffee",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "doesn\u2019t usually drink",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "doesn\u2019t drink usually",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "usually doesn\u2019t drink",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My sister doesn\u2019t usually drink coffee.",
+                "pl": "Moja siostra zazwyczaj nie pije kawy."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest A) doesn't usually drink. W zdaniu przecz\u0105cym u\u017cywaj\u0105cym czasownika \"do\" do tworzenia przeczenia (tak jak w tym przyk\u0142adzie), przys\u0142\u00f3wek cz\u0119stotliwo\u015bci (tak jak \"usually\") umieszcza si\u0119 po przeczeniu. Dlatego poprawna kolejno\u015b\u0107 s\u0142\u00f3w to \"doesn't usually drink\". Wyb\u00f3r B) \"doesn't drink usually\" jest niepoprawny, poniewa\u017c przys\u0142\u00f3wek \"usually\" powinien by\u0107 umieszczony pomi\u0119dzy \"doesn't\" a \"drink\". Wyb\u00f3r C) \"usually doesn't drink\" nie jest zasadniczo niegramatyczny, ale jest mniej typowy i mo\u017ce sugerowa\u0107 nacisk na \"doesn't drink\", co mo\u017ce nie by\u0107 zamierzone. Z regu\u0142y, \"usually\" jest umieszczone po \"doesn't\" w standardowym angielskim."
+        },
+        {
+            "id": 28,
+            "question": "Michael\u2019s ________ for work",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "always late",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "late always",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lately always",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Michael\u2019s always late for work.",
+                "pl": "Michael zawsze sp\u00f3\u017ania si\u0119 do pracy."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 29,
+            "question": "My grandparents have a(n) ________ cottage in the country",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "old lovely little",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "lovely little old",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "little old lovely",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My grandparents have a lovely little old cottage in the country.",
+                "pl": "Moi dziadkowie maj\u0105 pi\u0119kny ma\u0142y stary domek na wsi."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) lovely little old. W zdaniu, kt\u00f3re opisuje domek dziadk\u00f3w, u\u017cywamy przymiotnik\u00f3w w odpowiedniej kolejno\u015bci. Kolejno\u015b\u0107 przymiotnik\u00f3w w j\u0119zyku angielskim zwykle jest: opinia/przymiotnik og\u00f3lny, przymiotnik dotycz\u0105cy rozmiaru, przymiotnik dotycz\u0105cy wieku. Poprawna forma to \"lovely little old cottage\". Odpowied\u017a A) \"old lovely little\" ma odwr\u00f3con\u0105 kolejno\u015b\u0107 przymiotnik\u00f3w. Odpowied\u017a C) \"little old lovely\" r\u00f3wnie\u017c ma nieodpowiedni\u0105 kolejno\u015b\u0107 przymiotnik\u00f3w."
+        },
+        {
+            "id": 30,
+            "question": "Ben ________ with Karen for two years when he asked her to marry him",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had gone out",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had been going out",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "has been going out",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Ben had been going out with Karen for two years when he asked her to marry him.",
+                "pl": "Ben spotyka\u0142 si\u0119 z Karen przez dwa lata, kiedy poprosi\u0142 j\u0105 o r\u0119k\u0119."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) had been going out. W zdaniu, kt\u00f3re opisuje relacj\u0119 Bena z Karen w przesz\u0142o\u015bci, u\u017cywamy czasu Past Perfect Continuous (Czas zaprzesz\u0142y ci\u0105g\u0142y dokonany) wraz z czasownikiem \"had been going out\". Poprawne zdanie brzmi \"Ben had been going out with Karen for two years when he asked her to marry him.\" Odpowied\u017a A) \"had gone out\" jest niepoprawna, poniewa\u017c nie oddaje ci\u0105g\u0142ej natury relacji mi\u0119dzy Benem a Karen. Odpowied\u017a C) \"has been going out\" jest niepoprawna, poniewa\u017c u\u017cywamy czasu Past Perfect Continuous, a nie Present Perfect Continuous, do opisania relacji w przesz\u0142o\u015bci."
+        },
+        {
+            "id": 31,
+            "question": "When I got to the theatre, I realized I ________ the tickets at home",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had left",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "had been leaving",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "left",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "When I got to the theatre, I realized I had left the tickets at home.",
+                "pl": "Kiedy dotar\u0142em do teatru, zda\u0142em sobie spraw\u0119, \u017ce zostawi\u0142em bilety w domu."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) had left. U\u017cywamy czasu Past Perfect (\"had left\") do opisania czynno\u015bci, kt\u00f3ra zako\u0144czy\u0142a si\u0119 przed inn\u0105 czynno\u015bci\u0105 w przesz\u0142o\u015bci.W tym przypadku, zostawienie bilet\u00f3w w domu zdarzy\u0142o si\u0119 przed dotarciem do teatru, wi\u0119c u\u017cywamy \"had left\". Wyb\u00f3r B) \"had been leaving\" jest niepoprawny, poniewa\u017c czas Past Perfect Continuous (\"had been leaving\") jest u\u017cywany do opisania czynno\u015bci, kt\u00f3ra zacz\u0119\u0142a si\u0119 i kontynuowa\u0142a przez jaki\u015b czas w przesz\u0142o\u015bci, co nie jest odpowiednie w tym kontek\u015bcie. Wyb\u00f3r C) \"left\" r\u00f3wnie\u017c jest niepoprawny, poniewa\u017c czas Simple Past (\"left\") nie pokazuje, \u017ce czynno\u015b\u0107 zako\u0144czy\u0142a si\u0119 przed inn\u0105 czynno\u015bci\u0105 w przesz\u0142o\u015bci."
+        },
+        {
+            "id": 32,
+            "question": "My little brother ________ about his birthday party",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "extremely excited is",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "is excited extremely",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "is extremely excited",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "My little brother is extremely excited  about his birthday party.",
+                "pl": "M\u00f3j m\u0142odszy brat jest bardzo podekscytowany swoim przyj\u0119ciem urodzinowym."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) is extremely excited. W zdaniu, kt\u00f3re opisuje ekscytacj\u0119 m\u0142odszego brata z powodu przyj\u0119cia urodzinowego, u\u017cywamy przymiotnika \"extremely\" do okre\u015blenia stopnia ekscytacji. Poprawne zdanie brzmi \"My little brother is extremely excited about his birthday party.\" Odpowied\u017a A) \"extremely excited is\" ma odwr\u00f3con\u0105 kolejno\u015b\u0107 s\u0142\u00f3w i nie jest gramatycznie poprawna. Odpowied\u017a B) \"is excited extremely\" r\u00f3wnie\u017c ma odwr\u00f3con\u0105 kolejno\u015b\u0107 s\u0142\u00f3w i nie jest gramatycznie poprawna."
+        },
+        {
+            "id": 33,
+            "question": "I met my husband when I ________ English in Lithuania",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "taught",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had taught",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "was teaching",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I met my husband when I was teaching English in Lithuania.",
+                "pl": "Mojego m\u0119\u017ca pozna\u0142am, kiedy uczy\u0142am j\u0119zyka angielskiego na Litwie."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 34,
+            "question": "He got out of the car and ________ into the bank",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "was running",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had run",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "ran",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "He got out of the car and ran into the bank.",
+                "pl": "Wysiad\u0142 z samochodu i pobieg\u0142 do banku."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) ran. W zdaniu, kt\u00f3re opisuje, jak osoba wysz\u0142a z samochodu i wszed\u0142 do banku, u\u017cywamy czasu Past Simple (Czas przesz\u0142y prosty) i czasownika \"ran\" (bieg\u0142). Poprawne zdanie brzmi \"He got out of the car and ran into the bank.\" Odpowied\u017a A) \"was running\" u\u017cywamy, gdy chcemy opisa\u0107 ci\u0105g\u0142e dzia\u0142anie w przesz\u0142o\u015bci. W tym przypadku opisuje si\u0119 pojedyncze zdarzenie, dlatego czas Past Simple jest odpowiedni. Odpowied\u017a B) \"had run\" u\u017cywamy czasu Past Perfect (Czas zaprzesz\u0142y), gdy mamy dwie akcje w przesz\u0142o\u015bci, ale w tym zdaniu jest tylko jedno zdarzenie, wi\u0119c czas Past Simple jest wystarczaj\u0105cy."
+        },
+        {
+            "id": 35,
+            "question": "We ________ the exam for about an hour, when the fire alarm went off",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019done",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "\u2019d been doing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "were doing",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We were doing the exam for about an hour, when the fire alarm went off.",
+                "pl": "Robili\u015bmy egzamin przez oko\u0142o godzin\u0119, kiedy w\u0142\u0105czy\u0142 si\u0119 alarm przeciwpo\u017carowy."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) were doing. W zdaniu, kt\u00f3re opisuje trwanie egzaminu przez oko\u0142o godzin\u0119, zanim zadzwoni\u0142 alarm przeciwpo\u017carowy, u\u017cywamy czasu Past Continuous (Czas przesz\u0142y ci\u0105g\u0142y) wraz z czasownikiem \"were doing\". Poprawne zdanie brzmi \"We were doing the exam for about an hour when the fire alarm went off.\" Odpowied\u017a A) \"'done\" jest niepoprawna, poniewa\u017c nie jest pe\u0142nym czasem przesz\u0142ym. Odpowied\u017a B) \"'d been doing\" u\u017cywamy czasu Past Perfect Continuous (Czas zaprzesz\u0142y ci\u0105g\u0142y dokonany) do opisania dzia\u0142ania, kt\u00f3re rozpocz\u0119\u0142o si\u0119 w przesz\u0142o\u015bci i trwa\u0142o do innego momentu w przesz\u0142o\u015bci. W tym zdaniu nie ma potrzeby u\u017cycia Past Perfect Continuous. Dlatego poprawn\u0105 odpowiedzi\u0105 jest C) \"were doing\"."
+        },
+        {
+            "id": 36,
+            "question": "The government should do more to help ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "poor",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "the poor",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "the poor people",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The government should do more to help the poor.",
+                "pl": "Rz\u0105d powinien zrobi\u0107 wi\u0119cej, aby pom\u00f3c biednym."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) the poor. W zdaniu, kt\u00f3re m\u00f3wi o potrzebie wi\u0119kszej pomocy dla ubogich, u\u017cywamy okre\u015blenia \"the poor\" jako zdefiniowanej grupy ludzi, dlatego poprawne zdanie brzmi \"The government should do more to help the poor.\" Odpowied\u017a A) \"poor\" jest nieokre\u015blonym przymiotnikiem, kt\u00f3ry nie odnosi si\u0119 bezpo\u015brednio do konkretnej grupy ludzi. Odpowied\u017a C) \"the poor people\" jest r\u00f3wnie\u017c poprawna, ale zb\u0119dne u\u017cycie s\u0142owa \"people\", poniewa\u017c \"the poor\" samo w sobie ju\u017c odnosi si\u0119 do grupy ludzi."
+        },
+        {
+            "id": 37,
+            "question": "I\u2019ll take ________, please",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "the green ones",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "the green",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "the ones green",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I\u2019ll take the green ones, please.",
+                "pl": "Wezm\u0119 te zielone, prosz\u0119."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 38,
+            "question": "I worked ________ that I finished the job early",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "such hard",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "so hard",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "so hardly",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I worked so hard that I finished the job early.",
+                "pl": "Pracowa\u0142em tak ci\u0119\u017cko, \u017ce sko\u0144czy\u0142em prac\u0119 wcze\u015bniej."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) so hard. W zdaniu, kt\u00f3re opisuje ci\u0119\u017ck\u0105 prac\u0119, kt\u00f3ra doprowadzi\u0142a do wcze\u015bniejszego zako\u0144czenia pracy, u\u017cywamy wyra\u017cenia \"so hard\" (tak ci\u0119\u017cko). Poprawne zdanie brzmi \"I worked so hard that I finished the job early.\" Odpowied\u017a A) \"such hard\" jest niepoprawna, poniewa\u017c \"such\" jest u\u017cywane w po\u0142\u0105czeniu z rzeczownikiem, a tutaj mamy przymiotnik \"hard\". Odpowied\u017a C) \"so hardly\" jest r\u00f3wnie\u017c niepoprawna, poniewa\u017c \"hardly\" oznacza \"prawie nie\" lub \"z trudem\", co nie pasuje do kontekstu zdania."
+        },
+        {
+            "id": 39,
+            "question": "I was at work ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "all yesterday day",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "yesterday all day",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "all day yesterday",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I was at work all day yesterday.",
+                "pl": "Wczoraj ca\u0142y dzie\u0144 by\u0142em w pracy."
+            },
+            "explanation": "Odpowied\u017a B) \"yesterday all day\" jak i odpowied\u017a C) \"all day yesterday\" s\u0105 gramatycznie poprawne i maj\u0105 prawid\u0142owe znaczenie. Odpowied\u017a B) \"yesterday all day\" oznacza dok\u0142adnie to samo co odpowied\u017a C) \"all day yesterday\", ale ma odwr\u00f3con\u0105 kolejno\u015b\u0107 s\u0142\u00f3w. Oba wyra\u017cenia wyra\u017caj\u0105, \u017ce osoba by\u0142a w pracy przez ca\u0142y dzie\u0144 poprzedzaj\u0105cy ten. Wi\u0119c w tym przypadku zar\u00f3wno odpowied\u017a B) jak i C) s\u0105 poprawne."
+        },
+        {
+            "id": 40,
+            "question": "That was ________ amazing play \u2013 I\u2019ll have to go and see it again",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "a so",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "a such",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "such an",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "That was such an amazing play \u2013 I\u2019ll have to go and see it again.",
+                "pl": "To by\u0142o takie niesamowite przedstawienie \u2013 musz\u0119 i\u015b\u0107 i zobaczy\u0107 to jeszcze raz."
+            },
+            "explanation": "Odpowied\u017a to C) \"such an\". W zdaniu \"That was ________ amazing play\", u\u017cywamy frazy \"such an\" (taki niesamowity) przed przymiotnikiem \"amazing\" (niesamowity), aby opisa\u0107 stopie\u0144 niesamowito\u015bci przedstawienia. W zdaniu, kt\u00f3re opisuje niesamowit\u0105 sztuk\u0119 teatraln\u0105, u\u017cywamy wyra\u017cenia \"such an\" przed przymiotnikiem \"amazing\". Poprawne zdanie brzmi \"That was such an amazing play \u2013 I'll have to go and see it again.\" Odpowied\u017a A) \"a so\" jest niepoprawna, poniewa\u017c nie jest to poprawna konstrukcja gramatyczna w tym kontek\u015bcie. Odpowied\u017a B) \"a such\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c u\u017cywamy wyra\u017cenia \"such an\" zamiast \"a such\"."
+        },
+        {
+            "id": 41,
+            "question": "If I ________ you by Sunday, go to the match without me",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019m not phoning",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "haven\u2019t phoned",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "won\u2019t phone",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If I haven\u2019t phoned you by Sunday, go to the match without me.",
+                "pl": "Je\u015bli nie zadzwoni\u0119 do ciebie do niedzieli, id\u017a na mecz beze mnie."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) haven't phoned. W zdaniu, kt\u00f3re wyra\u017ca warunek dotycz\u0105cy niezadzwonienia do kogo\u015b do niedzieli, u\u017cywamy czasu Present Perfect (Czas tera\u017aniejszy dokonany) z czasownikiem \"haven't phoned\". Poprawne zdanie brzmi \"If I haven't phoned you by Sunday, go to the match without me.\" Odpowied\u017a A) \"'m not phoning\" jest niepoprawna, poniewa\u017c nie odnosi si\u0119 do czasu przesz\u0142ego ani czasu przesz\u0142ego dokonanego. Odpowied\u017a C) \"won't phone\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c jest to forma przysz\u0142ej odmiany, a zdanie opisuje brak dzia\u0142a\u0144 w przesz\u0142o\u015bci."
+        },
+        {
+            "id": 42,
+            "question": "If you like crime stories, you ________ the book I\u2019m reading",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had love",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "love",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ll love",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "If you like crime stories, you \u2019ll love the book I\u2019m reading.",
+                "pl": "Je\u015bli lubisz krymina\u0142y, pokochasz ksi\u0105\u017ck\u0119, kt\u00f3r\u0105 czytam."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 43,
+            "question": "The burglars ________ to prison for a very long time",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "were sending",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "will be sent",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "will send",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The burglars will be sent to prison for a very long time.",
+                "pl": "W\u0142amywacze trafi\u0105 do wi\u0119zienia na bardzo d\u0142ugi czas."
+            },
+            "explanation": "Poprawn\u0105 odpowiedzi\u0105 jest B) \"will be sent\". Zdanie \"The burglars will be sent to prison for a very long time\" opisuje przysz\u0142e dzia\u0142anie wys\u0142ania w\u0142amywaczy do wi\u0119zienia na d\u0142ugi czas. U\u017cywamy konstrukcji \"will be + czasownik w stronie biernikowej\" w czasie przysz\u0142ym, aby wyrazi\u0107 czynno\u015b\u0107 wykonan\u0105 na podmiocie. Odpowied\u017a A) \"were sending\" jest niepoprawna w kontek\u015bcie tego zdania, poniewa\u017c u\u017cywamy czasu przesz\u0142ego ci\u0105g\u0142ego, co sugeruje regularne dzia\u0142anie, kt\u00f3re nie jest zgodne z tym zdaniem. Odpowied\u017a C) \"will send\" jest nieodpowiednia, poniewa\u017c u\u017cywamy czasu przysz\u0142ego prostego, kt\u00f3ry nie oddaje formy strony biernikowej."
+        },
+        {
+            "id": 44,
+            "question": "The man ________ to prison for several years",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "will go probably",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "will likely go",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "will probably go",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The man will probably go to prison for several years.",
+                "pl": "M\u0119\u017cczyzna prawdopodobnie trafi do wi\u0119zienia na kilka lat."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) will probably go. W zdaniu, kt\u00f3re m\u00f3wi o m\u0119\u017cczy\u017anie, kt\u00f3ry prawdopodobnie p\u00f3jdzie do wi\u0119zienia na kilka lat, u\u017cywamy konstrukcji \"will probably\" (prawdopodobnie) przed czasownikiem \"go\". Poprawne zdanie brzmi \"The man will probably go to prison for several years.\" Odpowied\u017a A) \"will go probably\" ma odwr\u00f3con\u0105 kolejno\u015b\u0107 s\u0142\u00f3w i nie jest poprawna gramatycznie. Odpowied\u017a B) \"will likely go\" r\u00f3wnie\u017c jest gramatycznie poprawna, ale \"probably\" jest bardziej powszechnie u\u017cywane w tym kontek\u015bcie."
+        },
+        {
+            "id": 45,
+            "question": "It ________ that the murderer escaped in stolen car",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "is believing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "is believed",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "believes",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "It is believed that the murderer escaped in stolen car.",
+                "pl": "Uwa\u017ca si\u0119, \u017ce morderca uciek\u0142 skradzionym samochodem."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) is believed. W zdaniu, kt\u00f3re m\u00f3wi o przekonaniu lub przypuszczeniu, \u017ce morderca uciek\u0142 skradzionym samochodem, u\u017cywamy konstrukcji \"is believed\" (jest wierzone) w czasie Present Simple Passive (czas tera\u017aniejszy prosty strona bierna). Poprawne zdanie brzmi \"It is believed that the murderer escaped in a stolen car.\" Odpowied\u017a A) \"is believing\" jest niepoprawna, poniewa\u017c nie jest to w\u0142a\u015bciwa struktura w czasie Present Simple Passive. Odpowied\u017a C) \"believes\" jest niepoprawna, poniewa\u017c nie oddaje formy strony biernej, kt\u00f3ra jest potrzebna w tym zdaniu."
+        },
+        {
+            "id": 46,
+            "question": "They ________ building the new shopping centre by the end of the year",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019ll be finish",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "\u2019ll have finished",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ve been finished",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They \u2019ll have finished building the new shopping centre by the end of the year.",
+                "pl": "Do ko\u0144ca roku zako\u0144cz\u0105 budow\u0119 nowego centrum handlowego."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 47,
+            "question": "By the time you read this message, ________ on the beach in Spain",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "I\u2019m going to lie",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "I\u2019ll be lying",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "I\u2019ll lie",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "By the time you read this message, I\u2019ll be lying on the beach in Spain.",
+                "pl": "Kiedy b\u0119dziesz czyta\u0107 t\u0119 wiadomo\u015b\u0107, b\u0119d\u0119 ju\u017c le\u017ce\u0107 na pla\u017cy w Hiszpanii."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 48,
+            "question": "Six paintings ________ from the art gallery late last night",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "are being stolen",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "were stolen",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "have been stolen",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Six paintings were stolen from the art gallery late last night.",
+                "pl": "Zesz\u0142ej nocy z galerii sztuki skradziono sze\u015b\u0107 obraz\u00f3w."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) were stolen. W j\u0119zyku angielskim u\u017cywamy czasu Past Simple w stronie biernej (\"were stolen\") do opisania zdarze\u0144, kt\u00f3re mia\u0142y miejsce w okre\u015blonym czasie w przesz\u0142o\u015bci. W tym przypadku, zdarzenie mia\u0142o miejsce \"late last night\", wi\u0119c u\u017cywamy \"were stolen\". Wyb\u00f3r A) \"are being stolen\" jest niepoprawny, poniewa\u017c u\u017cywa tera\u017aniejszego czasu ci\u0105g\u0142ego w stronie biernej, co sugerowa\u0142oby, \u017ce obrazy s\u0105 w\u0142a\u015bnie kradzione - a to nie jest zgodne z podanym kontekstem. Wyb\u00f3r C) \"have been stolen\" jest r\u00f3wnie\u017c niepoprawny w tym kontek\u015bcie, poniewa\u017c u\u017cywa czasu Present Perfect w stronie biernej, co sugerowa\u0142oby, \u017ce obrazy zosta\u0142y skradzione w nieokre\u015blonym czasie w przesz\u0142o\u015bci lub \u017ce kradzie\u017c ma wp\u0142yw na tera\u017aniejszo\u015b\u0107. Jednak tutaj mamy okre\u015blony moment w przesz\u0142o\u015bci - \"late last night\"."
+        },
+        {
+            "id": 49,
+            "question": "The bank ________ three times this year",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "has been robbed",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "is robbed",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "has robbed",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The bank has been robbed three times this year.",
+                "pl": "W tym roku bank zosta\u0142 okradziony trzy razy."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) has been robbed. W zdaniu, kt\u00f3re m\u00f3wi o trzech napadach na bank w tym roku, u\u017cywamy czasu Present Perfect Passive (Czas tera\u017aniejszy dokonany strona bierna) z czasownikiem \"has been robbed\". Poprawne zdanie brzmi \"The bank has been robbed three times this year.\" Odpowied\u017a B) \"is robbed\" jest nieodpowiednia, poniewa\u017c u\u017cywamy czasu Present Simple Passive (Czas tera\u017aniejszy prosty strona bierna), a nie opisujemy og\u00f3lnego stanu. Odpowied\u017a C) \"has robbed\" jest nieodpowiednia, poniewa\u017c w zdaniu m\u00f3wimy o napadach na bank, a nie o banku pope\u0142niaj\u0105cym napady."
+        },
+        {
+            "id": 50,
+            "question": "I\u2019ll come with you to Dan\u2019s party if I ________anything else to do",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "wouldn\u2019t have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "don\u2019t have",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "won\u2019t have",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I\u2019ll come with you to Dan\u2019s party if I don\u2019t have anything else to do.",
+                "pl": "P\u00f3jd\u0119 z tob\u0105 na przyj\u0119cie Dana, je\u015bli nie b\u0119d\u0119 mia\u0142 nic innego do roboty."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) don't have. W zdaniu, kt\u00f3re wyra\u017ca warunek dotycz\u0105cy towarzyszenia na przyj\u0119ciu, u\u017cywamy czasu Present Simple (Czas tera\u017aniejszy prosty) z czasownikiem \"don't have\". Poprawne zdanie brzmi \"I'll come with you to Dan's party if I don't have anything else to do.\" Odpowied\u017a A) \"wouldn't have\" u\u017cywamy, gdy m\u00f3wimy o nieodrealnionym warunku w przesz\u0142o\u015bci, co nie pasuje do tego zdania. Odpowied\u017a C) \"won't have\" u\u017cywamy czasu Future Simple (Czas przysz\u0142y prosty), kt\u00f3ry nie oddaje odpowiednio warunku dotycz\u0105cego obecnej sytuacji."
+        },
+        {
+            "id": 51,
+            "question": "Don\u2019t come round at the weekend because I ________ for my exams",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019ll have studied",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "\u2019ll study",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ll be studying",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Don\u2019t come round at the weekend because I\u2019ll be studying for my exams.",
+                "pl": "Nie przychod\u017a w weekend, bo b\u0119d\u0119 si\u0119 uczy\u0107 do egzamin\u00f3w."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) 'll be studying. W zdaniu, kt\u00f3re m\u00f3wi o niezalecanej wizycie w weekend ze wzgl\u0119du na nauk\u0119 na egzaminy, u\u017cywamy konstrukcji \"will be + czasownik+ing\" (b\u0119d\u0119 si\u0119 uczy\u0142/uczy\u0142a) w czasie Future Continuous (czas przysz\u0142y ci\u0105g\u0142y). Poprawne zdanie brzmi \"Don't come round at the weekend because I'll be studying for my exams.\" Odpowied\u017a A) \"'ll have studied\" jest nieodpowiednia, poniewa\u017c odnosi si\u0119 do zako\u0144czenia nauki przed weekendem, podczas gdy zdanie m\u00f3wi o trwaj\u0105cej nauce w przysz\u0142o\u015bci. Odpowied\u017a B) \"'ll study\" jest r\u00f3wnie\u017c nieodpowiednia, poniewa\u017c nie oddaje trwaj\u0105cego charakteru nauki w tym kontek\u015bcie."
+        },
+        {
+            "id": 52,
+            "question": "If you ________ red and white, you get pink",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "will mix",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "mix",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "are mixing",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If you mix red and white, you get pink.",
+                "pl": "Je\u015bli zmieszasz czerwony i bia\u0142y, otrzymasz r\u00f3\u017cowy."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) mix. W zdaniu, kt\u00f3re opisuje mieszanie kolor\u00f3w czerwonego i bia\u0142ego w celu uzyskania r\u00f3\u017cowego, u\u017cywamy czasu Present Simple (Czas tera\u017aniejszy prosty) z czasownikiem \"mix\". Poprawne zdanie brzmi \"If you mix red and white, you get pink.\" Odpowied\u017a A) \"will mix\" jest nieodpowiednia, poniewa\u017c u\u017cywamy czasu przysz\u0142ego prostego, podczas gdy zdanie odnosi si\u0119 do og\u00f3lnych prawdziwo\u015bci lub instrukcji. Odpowied\u017a C) \"are mixing\" jest r\u00f3wnie\u017c nieodpowiednia, poniewa\u017c u\u017cywamy czasu Present Continuous (Czas tera\u017aniejszy ci\u0105g\u0142y), kt\u00f3ry nie pasuje do og\u00f3lnego stwierdzenia o mieszaniu kolor\u00f3w."
+        },
+        {
+            "id": 53,
+            "question": "This time next year, Sue and Jeff ________ for 50 years",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "will be marrying",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "will have been married",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "will be married",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "This time next year, Sue and Jeff will be married for 50 years.",
+                "pl": "W przysz\u0142ym roku o tej porze Sue i Jeff b\u0119d\u0105 ma\u0142\u017ce\u0144stwem 50 lat."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) will have been married.Czas Future Perfect Continuous (\"will have been\" + czasownik z ko\u0144c\u00f3wk\u0105 \"-ed\") jest u\u017cywany do opisania czynno\u015bci, kt\u00f3ra zacznie si\u0119 w przesz\u0142o\u015bci, tera\u017aniejszo\u015bci lub przysz\u0142o\u015bci, i b\u0119dzie kontynuowana do pewnego momentu w przysz\u0142o\u015bci. W tym przypadku, Sue i Jeff zacz\u0119li by\u0107 ma\u0142\u017ce\u0144stwem 50 lat temu i b\u0119d\u0105 kontynuowali to ma\u0142\u017ce\u0144stwo do tego momentu w przysz\u0142ym roku. Wyb\u00f3r A) \"will be marrying\" jest niepoprawny, poniewa\u017c sugeruje, \u017ce Sue i Jeff b\u0119d\u0105 w trakcie ceremonii \u015blubnej w tym momencie w przysz\u0142ym roku, co nie jest zgodne z kontekstem. Wyb\u00f3r C) \"will be married\" jest r\u00f3wnie\u017c niepoprawny, poniewa\u017c u\u017cywa czasu Future Simple w stronie biernej, co sugeruje, \u017ce Sue i Jeff b\u0119d\u0105 ju\u017c ma\u0142\u017ce\u0144stwem w tym momencie w przysz\u0142ym roku, ale nie okre\u015bla jak d\u0142ugo s\u0105 ma\u0142\u017ce\u0144stwem, co jest kluczowym punktem w tym pytaniu."
+        },
+        {
+            "id": 54,
+            "question": "We ________ to France next weekend",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019ll be gone",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "\u2019ll have gone",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ll be going",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We\u2019ll be going to France next weekend. Do you want me to bring you anything back?",
+                "pl": "W nast\u0119pny weekend jedziemy do Francji. Chcesz, \u017cebym ci co\u015b przywi\u00f3z\u0142?"
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) 'll be going. W zdaniu, kt\u00f3re m\u00f3wi o planowanym wyje\u017adzie do Francji w przysz\u0142y weekend, u\u017cywamy konstrukcji \"will be going\" (b\u0119dziemy jecha\u0107) w czasie Future Continuous (czas przysz\u0142y ci\u0105g\u0142y). Poprawne zdanie brzmi \"We'll be going to France next weekend. Do you want me to bring you anything back?\" Odpowied\u017a A) \"'ll be gone\" sugeruje przysz\u0142y czas ci\u0105g\u0142y, ale nie oddaje celu wyjazdu ani pro\u015bby o przyniesienie czego\u015b z powrotem. Odpowied\u017a B) \"'ll have gone\" opisuje czynno\u015b\u0107 zako\u0144czon\u0105 przed przysz\u0142ym weekendem, co nie pasuje do kontekstu zdania."
+        },
+        {
+            "id": 55,
+            "question": "The thieves are thought ________ at least five million dollars",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "to have taken",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "to take",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "that they have taken",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The thieves are thought to have taken at least five million dollars.",
+                "pl": "Uwa\u017ca si\u0119, \u017ce z\u0142odzieje zabrali co najmniej pi\u0119\u0107 milion\u00f3w dolar\u00f3w."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) to have taken. W zdaniu, kt\u00f3re m\u00f3wi o przypuszczeniu, \u017ce z\u0142odzieje ukradli co najmniej pi\u0119\u0107 milion\u00f3w dolar\u00f3w, u\u017cywamy konstrukcji \"to have + czasownik w stronie czynnej\" w czasie Infinitive Perfect (bezokolicznik dokonany). Poprawne zdanie brzmi \"The thieves are thought to have taken at least five million dollars.\" Odpowied\u017a B) \"to take\" nie oddaje czasu przesz\u0142ego i sugeruje og\u00f3ln\u0105 zdolno\u015b\u0107 do kradzie\u017cy, a nie konkretn\u0105 czynno\u015b\u0107 w przesz\u0142o\u015bci. Odpowied\u017a C) \"that they have taken\" sugeruje, \u017ce z\u0142odzieje potwierdzili kradzie\u017c, ale zdanie m\u00f3wi o przypuszczeniu, a nie o pewnej informacji."
+        },
+        {
+            "id": 56,
+            "question": "We ________ the exam by three o\u2019clock, so I\u2019ll meet you at 3",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019ll have finished",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "\u2019ve been finishing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ll finish",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We \u2019ll have finished the exam by three o\u2019clock, so I\u2019ll meet you at 3.30.",
+                "pl": "Egzamin sko\u0144czymy o trzeciej, wi\u0119c spotkajmy si\u0119 o 15:30."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 57,
+            "question": "If you ________ a tiger, you can\u2019t imagine how scary they are",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "\u2019ve never seen",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "will never see",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "don\u2019t see",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If you \u2019ve never seen a tiger, you can\u2019t imagine how scary they are.",
+                "pl": "Je\u015bli nigdy nie widzia\u0142e\u015b tygrysa, nie mo\u017cesz sobie wyobrazi\u0107, jakie s\u0105 przera\u017caj\u0105ce."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) 've never seen. W zdaniu, kt\u00f3re opisuje warunek dotycz\u0105cy niezaznajomienia si\u0119 z tygrysem, u\u017cywamy konstrukcji \"have never + czasownik w stronie biernikowej\" w czasie Present Perfect (czas tera\u017aniejszy dokonany). Poprawne zdanie brzmi \"If you've never seen a tiger, you can't imagine how scary they are.\"Odpowied\u017a B) \"will never see\" u\u017cywamy, gdy chcemy wyrazi\u0107 przekonanie, \u017ce co\u015b nigdy nie nast\u0105pi w przysz\u0142o\u015bci, ale zdanie odnosi si\u0119 do przesz\u0142ego do\u015bwiadczenia. Odpowied\u017a C) \"don't see\" jest nieodpowiednia, poniewa\u017c nie odnosi si\u0119 do przesz\u0142ego do\u015bwiadczenia."
+        },
+        {
+            "id": 58,
+            "question": "Take some sandwiches as you\u2019re ________ hungry on the journey",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "probably to get",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "likely get",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "likely to get",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Take some sandwiches as you\u2019re likely to get hungry on the journey.",
+                "pl": "We\u017a kanapki, poniewa\u017c prawdopodobnie zg\u0142odniejesz w podr\u00f3\u017cy."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) likely to get. W zdaniu, kt\u00f3re m\u00f3wi o prawdopodobnym uczuciu g\u0142odu w podr\u00f3\u017cy, u\u017cywamy konstrukcji \"likely to + czasownik\" w czasie Present Simple (Czas tera\u017aniejszy prosty). Poprawne zdanie brzmi \"Take some sandwiches as you're likely to get hungry on the journey.\" Odpowied\u017a A) \"probably to get\" jest niepoprawna, poniewa\u017c u\u017cywamy \"likely to\" zamiast \"probably to\" w tym kontek\u015bcie. Odpowied\u017a B) \"likely get\" r\u00f3wnie\u017c jest niepoprawna, poniewa\u017c brakuje \"to\" po \"likely\" w konstrukcji."
+        },
+        {
+            "id": 59,
+            "question": "You won\u2019t get in to university ________ you pass your exams",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "unless",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "after",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "in case",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You won\u2019t get in to university unless you pass your exams.",
+                "pl": "Nie dostaniesz si\u0119 na uniwersytet, je\u015bli nie zdasz egzamin\u00f3w."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) unless. W zdaniu, kt\u00f3re wyra\u017ca warunek dotycz\u0105cy dostania si\u0119 na uniwersytet, u\u017cywamy s\u0142owa \"unless\" (chyba \u017ce). Poprawne zdanie brzmi \"You won't get into university unless you pass your exams.\" Odpowied\u017a B) \"after\" oznacza \"po\", co nie oddaje warunku w zdaniu. Odpowied\u017a C) \"in case\" oznacza \"na wypadek\", co nie pasuje do kontekstu zdania."
+        },
+        {
+            "id": 60,
+            "question": "Take your coat with you ________ it gets colder later",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "in case",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "until",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "unless",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Take your coat with you in case it gets colder later.",
+                "pl": "We\u017a ze sob\u0105 p\u0142aszcz na wypadek, gdyby p\u00f3\u017aniej zrobi\u0142o si\u0119 zimniej."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) in case. W zdaniu, kt\u00f3re m\u00f3wi o zabraniu p\u0142aszcza na wypadek, gdy p\u00f3\u017aniej stanie si\u0119 zimniej, u\u017cywamy wyra\u017cenia \"in case\" (na wypadek). Poprawne zdanie brzmi \"Take your coat with you in case it gets colder later.\" Odpowied\u017a B) \"until\" oznacza \"a\u017c do\", co nie oddaje konkretnego kontekstu zdania. Odpowied\u017a C) \"unless\" oznacza \"chyba \u017ce\", co nie pasuje do warunku zwi\u0105zanych ze zmian\u0105 temperatury."
+        },
+        {
+            "id": 61,
+            "question": "If I ________ feeling so ill, I\u2019d go to work",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "wasn\u2019t",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "wouldn\u2019t be",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019m not",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If I wasn\u2019t feeling so ill, I\u2019d go to work.",
+                "pl": "Gdybym nie czu\u0142 si\u0119 tak \u017ale, poszed\u0142bym do pracy."
+            },
+            "explanation": "W zdaniu A (\"If I wasn\u2019t feeling so ill, I\u2019d go to work\"), u\u017cywamy warunkowego zdania typu 2 (second conditional), kt\u00f3re opisuje warunek nierealny lub ma\u0142o prawdopodobny w tera\u017aniejszo\u015bci. U\u017cywamy czasu Past Simple (czasu przesz\u0142ego prostego) w zdaniu warunkowym (\"If I wasn't feeling so ill\"), aby wskaza\u0107 nierealny stan zdrowia."
+        },
+        {
+            "id": 62,
+            "question": "I wouldn\u2019t study languages if I ________ enjoy them",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "wouldn\u2019t",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "didn\u2019t",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "don\u2019t",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I wouldn\u2019t study languages if I didn\u2019t enjoy them.",
+                "pl": "Nie uczy\u0142bym si\u0119 j\u0119zyk\u00f3w, gdybym ich nie lubi\u0142."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 63,
+            "question": "If I ________ you, I wouldn\u2019t buy a bigger car",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "am",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "was",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "were",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "If I were you, I wouldn\u2019t buy a bigger car.",
+                "pl": "Gdybym by\u0142 tob\u0105, nie kupi\u0142bym wi\u0119kszego samochodu."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) were. W zdaniu warunkowym typu drugiego (if + Past Simple), u\u017cywamy czasownika \"were\" jako formy warunkowej dla wszystkich os\u00f3b w liczbie pojedynczej (I, he, she, it). Jest to wyj\u0105tek od standardowej formy czasownika \"be\", gdzie w pierwszej osobie liczby pojedynczej u\u017cywamy \"was\", a w pozosta\u0142ych osobach \"were\". W tym przypadku, \"If I were you\" jest poprawnym wyra\u017ceniem, oznaczaj\u0105cym hipotetyczn\u0105 sytuacj\u0119. Wyb\u00f3r A) \"am\" jest niepoprawny, poniewa\u017c u\u017cywamy formy warunkowej \"were\" zamiast \"am\" w tym kontek\u015bcie. Wyb\u00f3r B) \"was\" jest r\u00f3wnie\u017c niepoprawny w przypadku pierwszej osoby liczby pojedynczej. Mimo \u017ce bywa akceptowana w j\u0119zyku potocznym, to \"were\" jest bardziej formalne i gramatycznie poprawne."
+        },
+        {
+            "id": 64,
+            "question": "Why are you so hot? You look ________ you\u2019ve been running a marathon!",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "if",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "as if",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "as",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Why are you so hot? You look as if you\u2019ve been running a marathon!",
+                "pl": "Dlaczego jeste\u015b taki gor\u0105cy? Wygl\u0105dasz, jakby\u015b przebieg\u0142a maraton!"
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) as if. W zdaniu, kt\u00f3re opisuje wygl\u0105d osoby, sugeruj\u0105c, \u017ce wygl\u0105da jakby w\u0142a\u015bnie uko\u0144czy\u0142a maraton, u\u017cywamy konstrukcji \"as if\" (jakby). Poprawne zdanie brzmi \"Why are you so hot? You look as if you've been running a marathon!\" Odpowied\u017a A) \"if\" jest nieodpowiednia, poniewa\u017c brakuje drugiej cz\u0119\u015bci por\u00f3wnania w zdaniu. Odpowied\u017a C) \"as\" r\u00f3wnie\u017c jest nieodpowiednia, poniewa\u017c brakuje por\u00f3wnania z drug\u0105 czynno\u015bci\u0105 w zdaniu."
+        },
+        {
+            "id": 65,
+            "question": "Tim\u2019s very quiet",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "might think",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "thought",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "\u2019ll think",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Tim\u2019s very quiet. If you didn\u2019t know him, you might think he was unfriendly.",
+                "pl": "Tim jest bardzo cichy. Gdyby\u015b go nie zna\u0142, m\u00f3g\u0142by\u015b pomy\u015ble\u0107, \u017ce by\u0142 nieprzyjazny."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) might think. W zdaniu, kt\u00f3re m\u00f3wi o Timie jako cichej osobie i sugeruje, \u017ce bez znajomo\u015bci go mo\u017cna by pomy\u015ble\u0107, \u017ce jest nieprzyjazny, u\u017cywamy konstrukcji \"might think\" w czasie Past Simple (Czas przesz\u0142y prosty) z czasownikiem modalnym \"might\". Poprawne zdanie brzmi \"Tim's very quiet. If you didn't know him, you might think he was unfriendly.\" Odpowied\u017a B) \"thought\" jest nieodpowiednia, poniewa\u017c brakuje modalnego \"might\" w konstrukcji warunkowej. Odpowied\u017a C) \"'ll think\" jest r\u00f3wnie\u017c nieodpowiednia, poniewa\u017c u\u017cywamy czasu przysz\u0142ego, podczas gdy zdanie odnosi si\u0119 do przesz\u0142ej sytuacji."
+        },
+        {
+            "id": 66,
+            "question": "I ________ Mary if I had arrived five minutes later",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hadn\u2019t seen",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "wouldn\u2019t have seen",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "didn\u2019t see",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I wouldn\u2019t have seen Mary if I had arrived five minutes later.",
+                "pl": "Nie zobaczy\u0142bym Mary, gdybym przyjecha\u0142 pi\u0119\u0107 minut p\u00f3\u017aniej."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) wouldn't have seen. W zdaniu, kt\u00f3re m\u00f3wi o zobaczeniu Mary, sugeruj\u0105c, \u017ce gdyby osoba przyby\u0142a pi\u0119\u0107 minut p\u00f3\u017aniej, nie dosz\u0142oby do spotkania, u\u017cywamy konstrukcji \"wouldn't have seen\" w czasie Past Perfect (Czas przesz\u0142y dokonany) z czasownikiem modalnym \"would\". Poprawne zdanie brzmi \"I wouldn't have seen Mary if I had arrived five minutes later.\" Odpowied\u017a A) \"hadn't seen\" jest nieodpowiednia, poniewa\u017c brakuje modalnego \"would\" w konstrukcji warunkowej. Odpowied\u017a C) \"didn't see\" jest r\u00f3wnie\u017c nieodpowiednia, poniewa\u017c u\u017cywamy czasu Przesz\u0142ego Prostego, podczas gdy zdanie odnosi si\u0119 do hipotetycznej sytuacji w przesz\u0142o\u015bci."
+        },
+        {
+            "id": 67,
+            "question": "You ________ seen Tom",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "must have",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "can\u2019t have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "couldn\u2019t have",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You must have seen Tom. He walked right past you.",
+                "pl": "Musia\u0142e\u015b widzie\u0107 Toma. Przeszed\u0142 obok ciebie."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) must have. W zdaniu, kt\u00f3re wyra\u017ca przekonanie, \u017ce osoba musia\u0142a zobaczy\u0107 Toma, u\u017cywamy konstrukcji \"must have\" w czasie Present Perfect (Czas tera\u017aniejszy dokonany) z czasownikiem modalnym \"must\". Poprawne zdanie brzmi \"You must have seen Tom. He walked right past you.\" Odpowied\u017a B) \"can't have\" jest nieodpowiednia, poniewa\u017c sugeruje przekonanie, \u017ce osoba nie mog\u0142a zobaczy\u0107 Toma, co nie pasuje do kontekstu zdania. Odpowied\u017a C) \"couldn't have\" r\u00f3wnie\u017c jest nieodpowiednia, poniewa\u017c nie sugeruje przekonania o zobaczeniu Toma, ale raczej wyklucza tak\u0105 mo\u017cliwo\u015b\u0107."
+        },
+        {
+            "id": 68,
+            "question": "You ________ you\u2019ve seen a ghost! Are you OK?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "look like",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "look",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "look as like",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You look like you\u2019ve seen a ghost! Are you OK?",
+                "pl": "Wygl\u0105dasz, jakby\u015b zobaczy\u0142 ducha! Nic ci nie jest?"
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) look like. \"You look like you\u2019ve seen a ghost\" - W tej cz\u0119\u015bci zdania u\u017cywamy konstrukcji \"look like\", kt\u00f3ra oznacza, \u017ce osoba wygl\u0105da podobnie do kogo\u015b lub czego\u015b. W tym przypadku por\u00f3wnujemy wygl\u0105d osoby do osoby, kt\u00f3ra zobaczy\u0142a ducha. U\u017cywamy struktury \"look like\" + rzeczownik lub zaimkownik, aby wyrazi\u0107 to por\u00f3wnanie. Odpowied\u017a C) \"look as like\" jest niepoprawna gramatycznie. W zdaniu por\u00f3wnawczym u\u017cywamy konstrukcji \"as + przymiotnik + as\" lub \"like + rzeczownik\"."
+        },
+        {
+            "id": 69,
+            "question": "Something ________ delicious",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "looks",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "smells",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "feels",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Something smells delicious. Have you been making cakes?",
+                "pl": "Co\u015b pachnie pysznie. Robi\u0142e\u015b ciasta?"
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) smells. W zdaniu, kt\u00f3re m\u00f3wi o wra\u017ceniu zapachowym, sugeruj\u0105c, \u017ce co\u015b pachnie pysznie, u\u017cywamy czasownika \"smells\". Poprawne zdanie brzmi \"Something smells delicious. Have you been making cakes?\" Odpowied\u017a A) \"looks\" odnosi si\u0119 do wra\u017cenia wzrokowego, a nie zapachowego. Odpowied\u017a C) \"feels\" odnosi si\u0119 do wra\u017cenia dotykowego, a nie zapachowego."
+        },
+        {
+            "id": 70,
+            "question": "They ________ gone out",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "must have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "can\u2019t have",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "might have",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They can\u2019t have gone out. Their car is outside the house.",
+                "pl": "Nie mogli wyj\u015b\u0107. Ich samoch\u00f3d stoi przed domem."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) can\u2019t have.np: Je\u015bli zdanie jest odpowiedzi\u0105 na pytanie o obecno\u015b\u0107 innych cz\u0142onk\u00f3w spotkania, a organizator wskazuje, \u017ce samoch\u00f3d tych os\u00f3b nadal jest przed domem, to mo\u017cna przypuszcza\u0107, \u017ce musz\u0105 by\u0107 gdzie\u015b w \u015brodku. Mo\u017cna to interpretowa\u0107 jako dow\u00f3d na to, \u017ce nie mogli znikn\u0105\u0107 z miejsca spotkania. W takim kontek\u015bcie, odpowied\u017a B) \"can't have\" r\u00f3wnie\u017c mo\u017ce by\u0107 poprawna, poniewa\u017c sugeruje niemo\u017cliwo\u015b\u0107 ich odej\u015bcia, gdy\u017c ich samoch\u00f3d jest nadal na zewn\u0105trz."
+        },
+        {
+            "id": 71,
+            "question": "Paul\u2019s train ________ cancelled",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "might have been",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "can\u2019t have been",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "may not have been",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Paul\u2019s train might have been cancelled. There have been problems on the railway recently.",
+                "pl": "Poci\u0105g Paula m\u00f3g\u0142 zosta\u0107 odwo\u0142any. Ostatnio na kolei by\u0142y problemy."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) might have been. W zdaniu, kt\u00f3re sugeruje mo\u017cliwo\u015b\u0107, \u017ce poci\u0105g Paula zosta\u0142 odwo\u0142any, u\u017cywamy konstrukcji \"might have been\" w czasie Past Perfect (Czas przesz\u0142y dokonany) z czasownikiem modalnym \"might\". Poprawne zdanie brzmi \"Paul's train might have been cancelled. There have been problems on the railway recently.\" Odpowied\u017a B) \"can't have been\" jest nieodpowiednia, poniewa\u017c wyklucza mo\u017cliwo\u015b\u0107 odwo\u0142ania poci\u0105gu, co nie jest zgodne z kontekstem zdania. Odpowied\u017a C) \"may not have been\" sugeruje mo\u017cliwo\u015b\u0107, \u017ce poci\u0105g nie zosta\u0142 odwo\u0142any, ale nie daje pewno\u015bci."
+        },
+        {
+            "id": 72,
+            "question": "We wouldn\u2019t have missed the start of the concert if you ________ on time",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had arrived",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "would have arrived",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "arrived",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We wouldn\u2019t have missed the start of the concert if you had arrived on time.",
+                "pl": "Nie przegapiliby\u015bmy pocz\u0105tku koncertu, gdyby\u015bcie przybyli punktualnie."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) had arrived. W zdaniu, kt\u00f3re m\u00f3wi o hipotetycznej sytuacji, w kt\u00f3rej nie przegapiliby\u015bmy pocz\u0105tku koncertu, gdyby osoba przyby\u0142a na czas, u\u017cywamy konstrukcji \"had arrived\" w czasie Past Perfect (Czas przesz\u0142y dokonany) w konstrukcji warunkowej typu 3. Poprawne zdanie brzmi \"We wouldn't have missed the start of the concert if you had arrived on time.\" Odpowied\u017a B) \"would have arrived\" jest nieodpowiednia, poniewa\u017c nie u\u017cywamy czasownika modalnego \"would\" w tym zdaniu, gdy\u017c jest ju\u017c u\u017cyty w zdaniu g\u0142\u00f3wnym. C) We wouldn\u2019t have missed the start of the concert if you arrived on time. W tym zdaniu u\u017cywamy konstrukcji zdania warunkowego typu 2 (second conditional). Cz\u0119\u015b\u0107 warunkowa zdania zawiera czas Past Simple (\"arrived\"), kt\u00f3ry wskazuje na mo\u017cliwe, ale niezrealizowane wydarzenie w przesz\u0142o\u015bci, czyli przybycie na czas. Cz\u0119\u015b\u0107 wynikowa zdania zawiera\u0142aby czas Modal + Infinitive (\"wouldn't have missed\"), co wskazuje na nierealn\u0105 konsekwencj\u0119."
+        },
+        {
+            "id": 73,
+            "question": "We\u2019re lost! I ________ a map",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "should bring",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "should brought",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "should have brought",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We\u2019re lost! I should have brought a map.",
+                "pl": "zgubili\u015bmy si\u0119! Powinienem by\u0142 przynie\u015b\u0107 map\u0119."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest C) should have brought. W zdaniu u\u017cywamy konstrukcji \"should have + czasownik w formie trzeciej (past participle)\" do wyra\u017cenia, \u017ce co\u015b powinno by\u0107 zrobione w przesz\u0142o\u015bci, ale nie zosta\u0142o zrobione. W tym przypadku, osoba m\u00f3wi\u0105ca powinna by\u0142a przynie\u015b\u0107 map\u0119, ale nie zrobi\u0142a tego. \"Brought\" jest form\u0105 przesz\u0142\u0105 czasownika \"bring\". Odpowied\u017a A) \"should bring\" jest niepoprawna, poniewa\u017c u\u017cywamy konstrukcji \"should have + past participle\" do wyra\u017cenia zdarzenia, kt\u00f3re powinno si\u0119 ju\u017c wydarzy\u0107 w przesz\u0142o\u015bci. Odpowied\u017a B) \"should brought\" jest r\u00f3wnie\u017c niepoprawna, poniewa\u017c nie u\u017cywamy formy przesz\u0142ej czasownika \"bring\" w konstrukcji \"should have + czasownik w formie trzeciej\". Odpowied\u017a A) should bring nie odnosi si\u0119 do przesz\u0142o\u015bci, ale do tera\u017aniejszo\u015bci lub przysz\u0142o\u015bci. Jest to forma czasu tera\u017aniejszego prostego w konstrukcji \"should + czasownik w formie podstawowej\", u\u017cywana do wyra\u017cenia sugestii, rady lub obowi\u0105zku. W tym przypadku, osoba m\u00f3wi\u0105ca uwa\u017ca, \u017ce w obecnej chwili lub w przysz\u0142o\u015bci powinna przynie\u015b\u0107 map\u0119, aby rozwi\u0105za\u0107 problem zgubienia si\u0119. Gramatycznie forma \"should bring\" jest poprawna. Jest to forma czasu tera\u017aniejszego prostego zastosowana z czasownikiem w formie podstawowej."
+        },
+        {
+            "id": 74,
+            "question": "I ________ bought these shoes",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "shouldn\u2019t have",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "can\u2019t have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "might not have",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I shouldn\u2019t have bought these shoes. They were too expensive.",
+                "pl": "Nie powinienem by\u0142 kupowa\u0107 tych but\u00f3w. By\u0142y zbyt drogie."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) shouldn't have. W zdaniu, kt\u00f3re wyra\u017ca \u017cal lub rozczarowanie z powodu zakupu zbyt drogich but\u00f3w, u\u017cywamy konstrukcji \"shouldn't have + czasownik w stronie trzeciej\" w czasie Past Simple (Czas przesz\u0142y prosty) z czasownikiem modalnym \"should\". Poprawne zdanie brzmi \"I shouldn't have bought these shoes. They were too expensive.\" Odpowied\u017a B) \"can't have\" jest nieodpowiednia, poniewa\u017c nie wyklucza mo\u017cliwo\u015bci dokonania zakupu, co jest sprzeczne z tre\u015bci\u0105 zdania. Odpowied\u017a C) \"might not have\" sugeruje mo\u017cliwo\u015b\u0107, \u017ce osoba nie dokona\u0142a zakupu, ale nie daje pewno\u015bci."
+        },
+        {
+            "id": 75,
+            "question": "These shoes ________ really comfortable",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "feel as if",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "feel",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "feel like",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "These shoes feel really comfortable. I think I\u2019ll buy them.",
+                "pl": "Te buty s\u0105 naprawd\u0119 wygodne. My\u015bl\u0119, \u017ce je kupi\u0119."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) feel . W zdaniu podmiotowym, u\u017cywamy czasownika \"feel\" bez dodatkowych zwrot\u00f3w takich jak \"as if\" lub \"like\", aby opisa\u0107 odczucia lub wra\u017cenia zwi\u0105zane z czym\u015b. W tym przypadku, zdanie \"These shoes feel really comfortable\" jest wystarczaj\u0105ce, aby wyrazi\u0107, \u017ce buty s\u0105 wygodne. Wyb\u00f3r A) \"feel as if\" jest niepotrzebny w tym kontek\u015bcie, poniewa\u017c zdanie ju\u017c wyra\u017ca odczucie komfortu bez dodatkowych zwrot\u00f3w. Wyb\u00f3r C) \"feel like\" r\u00f3wnie\u017c jest mo\u017cliwy do u\u017cycia, ale nie jest konieczny w tym zdaniu. Mo\u017cemy powiedzie\u0107 \"These shoes feel like they are really comfortable\", ale w przypadku prostszego wyra\u017cenia, \"feel\" jest wystarczaj\u0105ce."
+        },
+        {
+            "id": 76,
+            "question": "This sofa looks ________ the one at my parents\u2019 house",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "like",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "as if",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "(\u2013",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "This sofa looks like the one at my parents\u2019 house.",
+                "pl": "Ta sofa wygl\u0105da jak ta z domu moich rodzic\u00f3w."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) like. W zdaniu, kt\u00f3re por\u00f3wnuje wygl\u0105d sofy do sofy w domu rodzic\u00f3w, u\u017cywamy s\u0142owa \"like\". Poprawne zdanie brzmi \"This sofa looks like the one at my parents' house.\" Odpowied\u017a B) \"as if\" sugeruje por\u00f3wnanie do jakiego\u015b warunku lub sytuacji, a nie wygl\u0105du."
+        },
+        {
+            "id": 77,
+            "question": "Would you ________ eat in or go to a restaurant?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "rather",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "better",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "like",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Would you rather eat in or go to a restaurant?",
+                "pl": "Wolisz zje\u015b\u0107 w lokalu czy p\u00f3j\u015b\u0107 do restauracji?"
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest A) rather. W zdaniu, kt\u00f3re pyta o preferencj\u0119 dotycz\u0105c\u0105 jedzenia w domu lub p\u00f3j\u015bcia do restauracji, u\u017cywamy s\u0142owa \"rather\" w celu wyra\u017cenia preferencji. Poprawne zdanie brzmi \"Would you rather eat in or go to a restaurant?\" Odpowied\u017a B) \"better\" jest nieodpowiednia, poniewa\u017c nie odnosi si\u0119 do preferencji dotycz\u0105cych jedzenia w tym kontek\u015bcie. Odpowied\u017a C) \"like\" by\u0142aby mo\u017cliwa, ale brakowa\u0142oby pe\u0142nego wyra\u017cenia preferencji w zdaniu. Poprawne zdanie brzmia\u0142oby \"Would you like to eat in or go to a restaurant?\""
+        },
+        {
+            "id": 78,
+            "question": "If you hadn\u2019t been rude to Liz, she ________ talking to you",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hadn\u2019t stopped",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "wouldn\u2019t have stopped",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "wouldn\u2019t stop",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If you hadn\u2019t been rude to Liz, she wouldn\u2019t have stopped talking to you.",
+                "pl": "Gdyby\u015b nie by\u0142 niemi\u0142y dla Liz, nie przesta\u0142aby z tob\u0105 rozmawia\u0107."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) wouldn't have stopped. W zdaniu, kt\u00f3re opisuje hipotetyczn\u0105 sytuacj\u0119, w kt\u00f3rej osoba by\u0142a niegrzeczna wobec Liz, u\u017cywamy konstrukcji warunkowej typu 3 z czasownikiem modalnym \"would\" i czasem Past Perfect (Czas przesz\u0142y dokonany). Poprawne zdanie brzmi \"If you hadn't been rude to Liz, she wouldn't have stopped talking to you.\" Odpowied\u017a A) \"hadn't stopped\" jest nieodpowiednia, poniewa\u017c brakuje modalnego \"would\" w konstrukcji warunkowej typu 3. Odpowied\u017a C) \"wouldn't stop\" nie pasuje do kontekstu, poniewa\u017c opisuje dzisiejsz\u0105 sytuacj\u0119, a nie hipotetyczn\u0105 przesz\u0142o\u015b\u0107."
+        },
+        {
+            "id": 79,
+            "question": "________ call them before we go to make sure they\u2019re at home",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "We\u2019d better not",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "We\u2019d better",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "We\u2019d rather",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We\u2019d better call them before we go to make sure they\u2019re at home.",
+                "pl": "Lepiej zadzwo\u0144my do nich przed wyjazdem, aby upewni\u0107 si\u0119, \u017ce s\u0105 w domu."
+            },
+            "explanation": "W\u0142a\u015bciw\u0105 odpowiedzi\u0105 jest B) We'd better. W zdaniu, kt\u00f3re sugeruje, \u017ce powinni\u015bmy zadzwoni\u0107 do nich przed wyj\u015bciem, aby upewni\u0107 si\u0119, \u017ce s\u0105 w domu, u\u017cywamy wyra\u017cenia \"We'd better\" (skr\u00f3t od \"We had better\"). Poprawne zdanie brzmi \"We'd better call them before we go to make sure they're at home.\" Odpowied\u017a A) \"We'd better not\" sugeruje, \u017ce lepiej nie robimy czego\u015b, co nie jest odpowiednie w tym kontek\u015bcie. Odpowied\u017a C) \"We'd rather\" wyra\u017ca preferencj\u0119, ale nie jest odpowiednie w kontek\u015bcie sprawdzania, czy kto\u015b jest w domu."
+        },
+        {
+            "id": 80,
+            "question": "They ________ have got lost",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "might",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "mustn\u2019t",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "can\u2019t",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "They can\u2019t have got lost. I drew them a very clear map.",
+                "pl": "Nie mog\u0142y si\u0119 zgubi\u0107. Narysowa\u0142em im bardzo wyra\u017an\u0105 map\u0119."
+            },
+            "explanation": "Odpowied\u017a C) \"can't\" jest w\u0142a\u015bciwa. Uzasadnienie: W tym zdaniu m\u00f3wi\u0105cy sugeruje, \u017ce nie jest mo\u017cliwe, aby si\u0119 zgubili. U\u017cycie \"can't\" wskazuje na brak mo\u017cliwo\u015bci lub nieprawdopodobie\u0144stwo danego zdarzenia. M\u00f3wi\u0105cy stwierdza, \u017ce nie ma mo\u017cliwo\u015bci, \u017ceby si\u0119 zgubili, poniewa\u017c osoba m\u00f3wi\u0105ca przygotowa\u0142a dla nich bardzo klarown\u0105 map\u0119."
+        }
+    ]
+}

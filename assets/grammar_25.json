@@ -1,0 +1,654 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What ______ at nine o'clock last night? I tried to ring you, but there was no answer",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "were you doing",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "did you do",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "had you done",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "What were you doing at nine o'clock last night? I tried to ring you, but there was no answer.",
+                "pl": "Co robi\u0142e\u015b wczoraj o dziewi\u0105tej wieczorem? Pr\u00f3bowa\u0142em do ciebie zadzwoni\u0107, ale nie by\u0142o odpowiedzi."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 2,
+            "question": "They ______ a new cinema in the centre of town last year",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'ve build",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had built",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "built",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "They built a new cinema in the center of town last year.",
+                "pl": "W zesz\u0142ym roku zbudowali nowe kino w centrum miasta."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 3,
+            "question": "Is Mark ______ to Greece this year?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "going",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "gone",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "go",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Is Mark going to Greece this year?",
+                "pl": "Czy Mark jedzie w tym roku do Grecji?"
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 4,
+            "question": "Where's Jack? He ______ to the library",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "been",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "'s gone",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "going",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Where's Jack? He 's gone to the library. He'll be back soon.",
+                "pl": "Gdzie jest Jack? Poszed\u0142 do biblioteki. Nied\u0142ugo wr\u00f3ci."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 5,
+            "question": "My brother ______ in Peru for three months He's really enjoying himself",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "is living",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "has been living",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "was living",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My brother has been living in Peru for three months He's really enjoying himself.",
+                "pl": "M\u00f3j brat mieszka w Peru od trzech miesi\u0119cy. Naprawd\u0119 dobrze si\u0119 bawi."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 6,
+            "question": "Please drive more ______ We're near a school",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "slow",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "slower",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "slowly",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Please drive more slowly. We're near a school.",
+                "pl": "Prosz\u0119 jecha\u0107 wolniej. Jeste\u015bmy blisko szko\u0142y."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 7,
+            "question": "Students ______ talk during the exam",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "couldn't",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "mustn't",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "shouldn't",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Students mustn't talk during the exam. It's against the rules.",
+                "pl": "Studentom nie wolno rozmawia\u0107 podczas egzaminu. To wbrew zasadom."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 8,
+            "question": "I'd love to ______ speak better French-I've been studying the language for five years now",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "be able",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "able to",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "be able to",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I'd love to be able to speak better French-I've been studying the language for five years now.",
+                "pl": "Bardzo chcia\u0142bym m\u00f3c lepiej m\u00f3wi\u0107 po francusku \u2013 ucz\u0119 si\u0119 tego j\u0119zyka ju\u017c od pi\u0119ciu lat."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 9,
+            "question": "Ican't go out ______ I finish my maths homework",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "unless",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "if",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "when",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Ican't go out unless I finish my maths homework.",
+                "pl": "Nie mog\u0119 wyj\u015b\u0107, dop\u00f3ki nie sko\u0144cz\u0119 pracy domowej z matematyki."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 10,
+            "question": "If I ______ you, I wouldn't go on holiday until after my exams",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "was",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "am",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "were",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "If I were you, I wouldn't go on holiday until after my exams.",
+                "pl": "Na twoim miejscu nie jecha\u0142bym na wakacje przed egzaminami."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 11,
+            "question": "I ______ go out a lot at weekends, but now I stay at home",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "use to",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "used to",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "used",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I used to go out a lot at weekends, but now I stay at home.",
+                "pl": "Kiedy\u015b cz\u0119sto wychodzi\u0142em w weekendy, ale teraz zostaj\u0119 w domu."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 12,
+            "question": "There's only a ______ milk left",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "few",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "much",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "little",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "There's only a little milk left. Shall I buy some more?",
+                "pl": "Zosta\u0142o tylko troch\u0119 mleka. Mam kupi\u0107 troch\u0119 wi\u0119cej?"
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 13,
+            "question": "Tom really believes that ______ women can't drive very well!",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "(",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "the",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "a",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Tom really believes that (-) women can't drive very well!",
+                "pl": "Tom naprawd\u0119 wierzy, \u017ce (-) kobiety nie potrafi\u0105 dobrze prowadzi\u0107!"
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 14,
+            "question": "I think ______ languages is very important",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "studying",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "study",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "studies",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I think studying languages is very important.",
+                "pl": "My\u015bl\u0119, \u017ce nauka j\u0119zyk\u00f3w jest bardzo wa\u017cna."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 15,
+            "question": "James asked me if I ______ Liz that morning",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "have seen",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had seen",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "saw",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "James asked me if I had seen Liz that morning.",
+                "pl": "James zapyta\u0142 mnie, czy widzia\u0142em Liz tego ranka."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 16,
+            "question": "The exams are next month",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "have been given",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "are given",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "'ll be given",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The exams are next month. You 'll be given a timetable next Week.",
+                "pl": "Egzaminy s\u0105 w przysz\u0142ym miesi\u0105cu. Dostaniesz harmonogram w przysz\u0142ym tygodniu."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 17,
+            "question": "He's the boy ______ brother is in my class",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "who's",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "that's",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "whose",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "He's the boy whose brother is in my class.",
+                "pl": "To ch\u0142opak, kt\u00f3rego brat jest w mojej klasie."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 18,
+            "question": "I would have gone to the party if I ______ you were there",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had known",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "would have known",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "known",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I would have gone to the party if I had known you were there.",
+                "pl": "Poszed\u0142bym na przyj\u0119cie, gdybym wiedzia\u0142, \u017ce tam jeste\u015b."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 19,
+            "question": "You're from Italy ______?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "are you",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "isn't you",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "aren't you",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "You're from Italy aren't you?",
+                "pl": "Jeste\u015b z W\u0142och, prawda?"
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 20,
+            "question": "Can you tell me where ______?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "is the Park Hotel",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "the Park Hotel is",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "be the Park Hotel",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Can you tell me where the Park Hotel is?",
+                "pl": "Czy mo\u017cesz mi powiedzie\u0107, gdzie jest Park Hotel?"
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 21,
+            "question": "They ______ the house if they'd known about the noisy neighbours",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "wouldn't have bought",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "hadn't bought",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "wouldn't buy",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They wouldn't have bought the house if they'd known about the noisy neighbours.",
+                "pl": "Nie kupiliby domu, gdyby wiedzieli o ha\u0142a\u015bliwych s\u0105siadach."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 22,
+            "question": "Helen told me she ______, to Rome the following weekend",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'s travelling",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "was travelling",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "will travel",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Helen told me she will travel, to Rome the following weekend.",
+                "pl": "Helen powiedzia\u0142a mi, \u017ce pojedzie do Rzymu w nast\u0119pny weekend."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 23,
+            "question": "They ______ have a lot of money",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "must",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "may",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "might",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They must have a lot of money. They go on very exotic holidays every year.",
+                "pl": "Musz\u0105 mie\u0107 du\u017co pieni\u0119dzy. Co roku wyje\u017cd\u017caj\u0105 na bardzo egzotyczne wakacje."
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 24,
+            "question": "Do you ______ get to work early every morning?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "must",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "have to",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Do you have to get to work early every morning?",
+                "pl": "Czy ka\u017cdego ranka musisz wcze\u015bnie wstawa\u0107 do pracy?"
+            },
+            "explanation": "\"add grammar review\""
+        },
+        {
+            "id": 25,
+            "question": "The town ______ Jack grew up is near Bristol",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "that",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "which",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "where",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The town where Jack grew up is near Bristol.",
+                "pl": "Miasto, w kt\u00f3rym dorasta\u0142 Jack, znajduje si\u0119 niedaleko Bristolu."
+            },
+            "explanation": "\"add grammar review\""
+        }
+    ]
+}
