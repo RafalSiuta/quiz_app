@@ -4,15 +4,19 @@ import 'package:flutter/material.dart';
 import '../model/question.dart';
 
 class QuizPage extends StatefulWidget {
-  const QuizPage(this.questionsList,{super.key});
+  const QuizPage(this.questionsList, this.quizColor, {super.key});
 
   final List<Question> questionsList;
+  final Color? quizColor;
 
   @override
   State<QuizPage> createState() => _QuizPageState();
 }
 
 class _QuizPageState extends State<QuizPage> {
+
+  List<Question> wrongAnswers = [];
+
   late final PageController _pageController;
 
 
@@ -38,13 +42,24 @@ class _QuizPageState extends State<QuizPage> {
     });
     }
 
+    void setQuizColor(){
+    setState(() {
+      widget.questionsList.forEach((el){
+        el.answers!.forEach((answer) {
+          answer.choiceColor = widget.quizColor;
+        });
+      });
+    });
+
+    }
+
     void resetQuiz(){
       setState(() {
         correctAnswerCounter = 0;
         page_counter = 1;
         widget.questionsList.forEach((el){
           el.answers!.forEach((answer) {
-            answer.choiceColor = Colors.blue;
+            answer.choiceColor = Color(0xff9437FF);
           });
         });
       });
@@ -53,6 +68,7 @@ class _QuizPageState extends State<QuizPage> {
     @override
     void initState() {
       _pageController = PageController(initialPage: 0);
+      setQuizColor();
       super.initState();
     }
 
@@ -72,12 +88,35 @@ class _QuizPageState extends State<QuizPage> {
                 padding: const EdgeInsets.symmetric(
                     horizontal: 15, vertical: 20),
                 child: Row(
-                  crossAxisAlignment: CrossAxisAlignment.end,
+                  crossAxisAlignment: CrossAxisAlignment.start,
                   mainAxisAlignment: MainAxisAlignment.spaceBetween,
                   children: [
-                    Text("Question ${page_counter}/${widget.questionsList
+                    Text("Pyt ${page_counter}/${widget.questionsList
                         .length}"),
-                    Text("Correct: ${correctAnswerCounter}")
+                    Row(
+                      children: [
+                        Column(
+                          children: [
+                            CircleAvatar(
+                                radius: 12,
+                                backgroundColor: Color(0xff8EFA00),
+                                child: Text("${correctAnswerCounter}", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12),)),
+                            Text("Dobre", style: TextStyle(fontSize: 10.0),)
+                          ],
+                        ),
+                        SizedBox(width: 10,),
+                        Column(
+                          children: [
+                            CircleAvatar(
+                                radius: 12,
+                                backgroundColor: Color(0xffFF5D57),
+                                child: Text("${wrongAnswers.length}",style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12),)),
+                            Text("Błędne", style: TextStyle(fontSize: 10.0),)
+                          ],
+                        )
+                      ],
+                    ),
+
                   ],
                 ),
               ),
@@ -101,16 +140,16 @@ class _QuizPageState extends State<QuizPage> {
                         duration: const Duration(milliseconds: 400),
                         curve: Curves.easeInOut,);
                     }
-                  }, child: Text("< prev")),
+                  }, child: Text("< prev", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: widget.quizColor))),
                   TextButton(onPressed: () {
                     resetQuiz();
                     Navigator.pop(context);
-                  }, child: Text("esc")),
+                  }, child: Text("esc", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: widget.quizColor))),
                   TextButton(onPressed: () {
                     _pageController.nextPage(
                       duration: const Duration(milliseconds: 400),
                       curve: Curves.easeInOut,);
-                  }, child: Text("next >")),
+                  }, child: Text("next >", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: widget.quizColor))),
                 ],)
             ],
           ),

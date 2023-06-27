@@ -76,7 +76,7 @@
                 "en": "How long have you known each other?",
                 "pl": "Jak d\u0142ugo si\u0119 znacie?"
             },
-            "explanation": ""
+            "explanation": "Poprawną odpowiedzią jest C) have you known. W pytaniu, które dotyczy długości znajomości między dwiema osobami, używamy czasu perfect (Present Perfect) czyli czasu Perfektu. Struktura czasownika powinna być \"have/has + podmiot + known\". W tym przypadku pytamy o długość czasu, jaki znają się dwie osoby, więc poprawne pytanie brzmi \"How long have you known each other?\"\n"
         },
         {
             "id": 4,
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question": "I don\u2019t speak Italian, but my boyfriend ________",
+            "question": "I don\u2019t speak Italian, but my boyfriend ________.",
             "answers": [
                 {
                     "choice": "A",
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question": "I didn\u2019t enjoy the film",
+            "question": "I didn\u2019t enjoy the film ________ did I.",
             "answers": [
                 {
                     "choice": "A",
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question": "I did the shopping this morning",
+            "question": "I did the shopping this morning ________ you? That’s great.",
             "answers": [
                 {
                     "choice": "A",
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question": "I\u2019ve lived in this town ________ I was ten years old",
+            "question": "I\u2019ve lived in this town ________ I was ten years old.",
             "answers": [
                 {
                     "choice": "A",
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question": "You forgot to lock the door last night",
+            "question": "You forgot to lock the door last night. That’s not true, I ________ it! I remember perfectly.",
             "answers": [
                 {
                     "choice": "A",
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question": "You look tired! That\u2019s because I ________ tennis all morning",
+            "question": "You look tired! That\u2019s because I ________ tennis all morning.",
             "answers": [
                 {
                     "choice": "A",
@@ -314,7 +314,7 @@
         },
         {
             "id": 13,
-            "question": "Look at your hand! You ________ yourself",
+            "question": "Look at your hand! You ________ yourself.",
             "answers": [
                 {
                     "choice": "A",
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question": "The _____ you finish your homework, the sooner you can go out",
+            "question": "The _____ you finish your homework, the sooner you can go out.",
             "answers": [
                 {
                     "choice": "A",
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question": "It was the most difficult exam ________ in all my life",
+            "question": "It was the most difficult exam ________ in all my life.",
             "answers": [
                 {
                     "choice": "A",
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question": "Do you want to come and play football? No thanks",
+            "question": "Do you want to come and play football? No thanks. ________ twice this week.",
             "answers": [
                 {
                     "choice": "A",
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question": "Do you think it\u2019s going to snow? Yes, I ________",
+            "question": "Do you think it\u2019s going to snow? Yes, I ________.",
             "answers": [
                 {
                     "choice": "A",
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question": "Jack\u2019s just bought a ________ sports car",
+            "question": "Jack\u2019s just bought a ________ sports car.",
             "answers": [
                 {
                     "choice": "A",
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question": "________ are friendly, hard-working people",
+            "question": "________ are friendly, hard-working people.",
             "answers": [
                 {
                     "choice": "A",
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question": "Jack ________ because he was so hungry",
+            "question": "Jack ________ because he was so hungry.",
             "answers": [
                 {
                     "choice": "A",
@@ -600,7 +600,7 @@
         },
         {
             "id": 24,
-            "question": "________ has joined our English class",
+            "question": "________ has joined our English class.",
             "answers": [
                 {
                     "choice": "A",
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question": "I think the ________ skirt suits you best",
+            "question": "I think the ________ skirt suits you best.",
             "answers": [
                 {
                     "choice": "A",
@@ -652,7 +652,7 @@
         },
         {
             "id": 26,
-            "question": "I didn\u2019t want to go home because the party ________",
+            "question": "I didn\u2019t want to go home because the party ________.",
             "answers": [
                 {
                     "choice": "A",
@@ -678,7 +678,7 @@
         },
         {
             "id": 27,
-            "question": "My sister ________coffee",
+            "question": "My sister ________coffee.",
             "answers": [
                 {
                     "choice": "A",
@@ -704,7 +704,7 @@
         },
         {
             "id": 28,
-            "question": "Michael\u2019s ________ for work",
+            "question": "Michael\u2019s ________ for work.",
             "answers": [
                 {
                     "choice": "A",
@@ -726,11 +726,11 @@
                 "en": "Michael\u2019s always late for work.",
                 "pl": "Michael zawsze sp\u00f3\u017ania si\u0119 do pracy."
             },
-            "explanation": ""
+            "explanation": "Poprawną odpowiedzią jest A) always late. W zdaniu, które mówi o nawyku Michaela dotyczącym spóźniania się do pracy, używamy struktury \"always late\", gdzie przymiotnik \"always\" jest umieszczony przed przymiotnikiem \"late\". Poprawne zdanie brzmi \"Michael's always late for work.\" Odpowiedź B) \"late always\" ma odwróconą kolejność słów i nie jest poprawna w tym kontekście. Odpowiedź C) \"lately always\" ma prawidłową kolejność słów, ale nie oddaje znaczenia trwałego nawyku i sugeruje, że to zachowanie zaczęło się niedawno.\n"
         },
         {
             "id": 29,
-            "question": "My grandparents have a(n) ________ cottage in the country",
+            "question": "My grandparents have a(n) ________ cottage in the country.",
             "answers": [
                 {
                     "choice": "A",
@@ -756,7 +756,7 @@
         },
         {
             "id": 30,
-            "question": "Ben ________ with Karen for two years when he asked her to marry him",
+            "question": "Ben ________ with Karen for two years when he asked her to marry him.",
             "answers": [
                 {
                     "choice": "A",
@@ -782,7 +782,7 @@
         },
         {
             "id": 31,
-            "question": "When I got to the theatre, I realized I ________ the tickets at home",
+            "question": "When I got to the theatre, I realized I ________ the tickets at home.",
             "answers": [
                 {
                     "choice": "A",
@@ -808,7 +808,7 @@
         },
         {
             "id": 32,
-            "question": "My little brother ________ about his birthday party",
+            "question": "My little brother ________ about his birthday party.",
             "answers": [
                 {
                     "choice": "A",
@@ -834,7 +834,7 @@
         },
         {
             "id": 33,
-            "question": "I met my husband when I ________ English in Lithuania",
+            "question": "I met my husband when I ________ English in Lithuania.",
             "answers": [
                 {
                     "choice": "A",
@@ -860,7 +860,7 @@
         },
         {
             "id": 34,
-            "question": "He got out of the car and ________ into the bank",
+            "question": "He got out of the car and ________ into the bank.",
             "answers": [
                 {
                     "choice": "A",
@@ -886,7 +886,7 @@
         },
         {
             "id": 35,
-            "question": "We ________ the exam for about an hour, when the fire alarm went off",
+            "question": "We ________ the exam for about an hour, when the fire alarm went off.",
             "answers": [
                 {
                     "choice": "A",
@@ -912,7 +912,7 @@
         },
         {
             "id": 36,
-            "question": "The government should do more to help ________",
+            "question": "The government should do more to help ________.",
             "answers": [
                 {
                     "choice": "A",
@@ -938,7 +938,7 @@
         },
         {
             "id": 37,
-            "question": "I\u2019ll take ________, please",
+            "question": "I\u2019ll take ________, please.",
             "answers": [
                 {
                     "choice": "A",
@@ -960,11 +960,11 @@
                 "en": "I\u2019ll take the green ones, please.",
                 "pl": "Wezm\u0119 te zielone, prosz\u0119."
             },
-            "explanation": ""
+            "explanation": "Odpowiedź B) \"yesterday all day\" jak i odpowiedź C) \"all day yesterday\" są gramatycznie poprawne i mają prawidłowe znaczenie. Odpowiedź B) \"yesterday all day\" oznacza dokładnie to samo co odpowiedź C) \"all day yesterday\", ale ma odwróconą kolejność słów. Oba wyrażenia wyrażają, że osoba była w pracy przez cały dzień poprzedzający ten. Więc w tym przypadku zarówno odpowiedź B) jak i C) są poprawne.\n"
         },
         {
             "id": 38,
-            "question": "I worked ________ that I finished the job early",
+            "question": "I worked ________ that I finished the job early.",
             "answers": [
                 {
                     "choice": "A",
@@ -990,7 +990,7 @@
         },
         {
             "id": 39,
-            "question": "I was at work ________",
+            "question": "I was at work ________.",
             "answers": [
                 {
                     "choice": "A",
@@ -1016,7 +1016,7 @@
         },
         {
             "id": 40,
-            "question": "That was ________ amazing play \u2013 I\u2019ll have to go and see it again",
+            "question": "That was ________ amazing play \u2013 I\u2019ll have to go and see it again.",
             "answers": [
                 {
                     "choice": "A",
@@ -1042,7 +1042,7 @@
         },
         {
             "id": 41,
-            "question": "If I ________ you by Sunday, go to the match without me",
+            "question": "If I ________ you by Sunday, go to the match without me.",
             "answers": [
                 {
                     "choice": "A",
@@ -1068,7 +1068,7 @@
         },
         {
             "id": 42,
-            "question": "If you like crime stories, you ________ the book I\u2019m reading",
+            "question": "If you like crime stories, you ________ the book I\u2019m reading.",
             "answers": [
                 {
                     "choice": "A",
@@ -1090,11 +1090,11 @@
                 "en": "If you like crime stories, you \u2019ll love the book I\u2019m reading.",
                 "pl": "Je\u015bli lubisz krymina\u0142y, pokochasz ksi\u0105\u017ck\u0119, kt\u00f3r\u0105 czytam."
             },
-            "explanation": ""
+            "explanation": "Właściwą odpowiedzią jest C) 'll love. W zdaniu, które wyraża sugestię dotyczącą gustu w kryminalnych opowieściach, używamy konstrukcji 'll + czasownik (will + czasownik) do wyrażenia przyszłego czasu i sugestii. Poprawne zdanie brzmi \"If you like crime stories, you'll love the book I'm reading.\" Odpowiedź A) \"had love\" jest niepoprawna, ponieważ używamy czasu przeszłego prostego, a nie czasu przyszłego, aby wyrazić sugestię. Odpowiedź B) \"love\" jest gramatycznie poprawna, ale nie oddaje sugestii dotyczącej przyszłego gustu w oparciu o preferencje.\n"
         },
         {
             "id": 43,
-            "question": "The burglars ________ to prison for a very long time",
+            "question": "The burglars ________ to prison for a very long time.",
             "answers": [
                 {
                     "choice": "A",
@@ -1120,7 +1120,7 @@
         },
         {
             "id": 44,
-            "question": "The man ________ to prison for several years",
+            "question": "The man ________ to prison for several years.",
             "answers": [
                 {
                     "choice": "A",
@@ -1146,7 +1146,7 @@
         },
         {
             "id": 45,
-            "question": "It ________ that the murderer escaped in stolen car",
+            "question": "It ________ that the murderer escaped in stolen car.",
             "answers": [
                 {
                     "choice": "A",
@@ -1172,7 +1172,7 @@
         },
         {
             "id": 46,
-            "question": "They ________ building the new shopping centre by the end of the year",
+            "question": "They ________ building the new shopping centre by the end of the year.",
             "answers": [
                 {
                     "choice": "A",
@@ -1194,11 +1194,11 @@
                 "en": "They \u2019ll have finished building the new shopping centre by the end of the year.",
                 "pl": "Do ko\u0144ca roku zako\u0144cz\u0105 budow\u0119 nowego centrum handlowego."
             },
-            "explanation": ""
+            "explanation": "Właściwą odpowiedzią jest B) 'll have finished.\nW zdaniu, które mówi o zakończeniu budowy nowego centrum handlowego do końca roku, używamy konstrukcji \"will have finished\" (będą mieć skończone) w czasie Future Perfect (czas przyszły dokonany). Poprawne zdanie brzmi \"They'll have finished building the new shopping centre by the end of the year.\"\nOdpowiedź A) \"'ll be finish\" jest niepoprawna, ponieważ brakuje \"ed\" na końcu czasownika \"finish\" oraz nie ma formy perfect w czasie przyszłym.\nOdpowiedź C) \"'ve been finished\" jest niepoprawna, ponieważ używamy czasu Present Perfect Continuous, który nie pasuje do tego kontekstu przyszłego zakończenia budowy.\n"
         },
         {
             "id": 47,
-            "question": "By the time you read this message, ________ on the beach in Spain",
+            "question": "By the time you read this message, ________ on the beach in Spain.",
             "answers": [
                 {
                     "choice": "A",
@@ -1220,11 +1220,11 @@
                 "en": "By the time you read this message, I\u2019ll be lying on the beach in Spain.",
                 "pl": "Kiedy b\u0119dziesz czyta\u0107 t\u0119 wiadomo\u015b\u0107, b\u0119d\u0119 ju\u017c le\u017ce\u0107 na pla\u017cy w Hiszpanii."
             },
-            "explanation": ""
+            "explanation": "Właściwą odpowiedzią jest B) I'll be lying. W zdaniu, które mówi o czynności, którą wykonuję w momencie, gdy odbierzesz tę wiadomość, używamy konstrukcji \"will be + czasownik w stronie czynnej\" do wyrażenia przyszłej czynności w trakcie jej trwania. Poprawne zdanie brzmi \"By the time you read this message, I'll be lying on the beach in Spain.\" Odpowiedź A) \"I'm going to lie\" wyraża zamiar przyszłej czynności, ale nie oddaje trwającej aktywności, o której mówi zdanie. Odpowiedź C) \"I'll lie\" jest gramatycznie poprawna, ale nie oddaje trwającego charakteru aktywności.\n"
         },
         {
             "id": 48,
-            "question": "Six paintings ________ from the art gallery late last night",
+            "question": "Six paintings ________ from the art gallery late last night.",
             "answers": [
                 {
                     "choice": "A",
@@ -1250,7 +1250,7 @@
         },
         {
             "id": 49,
-            "question": "The bank ________ three times this year",
+            "question": "The bank ________ three times this year.",
             "answers": [
                 {
                     "choice": "A",
@@ -1276,7 +1276,7 @@
         },
         {
             "id": 50,
-            "question": "I\u2019ll come with you to Dan\u2019s party if I ________anything else to do",
+            "question": "I\u2019ll come with you to Dan\u2019s party if I ________anything else to do.",
             "answers": [
                 {
                     "choice": "A",
@@ -1302,7 +1302,7 @@
         },
         {
             "id": 51,
-            "question": "Don\u2019t come round at the weekend because I ________ for my exams",
+            "question": "Don\u2019t come round at the weekend because I ________ for my exams.",
             "answers": [
                 {
                     "choice": "A",
@@ -1328,7 +1328,7 @@
         },
         {
             "id": 52,
-            "question": "If you ________ red and white, you get pink",
+            "question": "If you ________ red and white, you get pink.",
             "answers": [
                 {
                     "choice": "A",
@@ -1354,7 +1354,7 @@
         },
         {
             "id": 53,
-            "question": "This time next year, Sue and Jeff ________ for 50 years",
+            "question": "This time next year, Sue and Jeff ________ for 50 years.",
             "answers": [
                 {
                     "choice": "A",
@@ -1364,12 +1364,12 @@
                 {
                     "choice": "B",
                     "text": "will have been married",
-                    "is_correct": false
+                    "is_correct": true
                 },
                 {
                     "choice": "C",
                     "text": "will be married",
-                    "is_correct": true
+                    "is_correct": false
                 }
             ],
             "translation": {
@@ -1380,7 +1380,7 @@
         },
         {
             "id": 54,
-            "question": "We ________ to France next weekend",
+            "question": "We ________ to France next weekend.Do you want me to bring you anything back?",
             "answers": [
                 {
                     "choice": "A",
@@ -1406,7 +1406,7 @@
         },
         {
             "id": 55,
-            "question": "The thieves are thought ________ at least five million dollars",
+            "question": "The thieves are thought ________ at least five million dollars.",
             "answers": [
                 {
                     "choice": "A",
@@ -1432,7 +1432,7 @@
         },
         {
             "id": 56,
-            "question": "We ________ the exam by three o\u2019clock, so I\u2019ll meet you at 3",
+            "question": "We ________ the exam by 3 o\u2019clock, so I\u2019ll meet you at 3:30.",
             "answers": [
                 {
                     "choice": "A",
@@ -1454,11 +1454,11 @@
                 "en": "We \u2019ll have finished the exam by three o\u2019clock, so I\u2019ll meet you at 3.30.",
                 "pl": "Egzamin sko\u0144czymy o trzeciej, wi\u0119c spotkajmy si\u0119 o 15:30."
             },
-            "explanation": ""
+            "explanation": "Właściwą odpowiedzią jest A) 'll have finished. W zdaniu, które mówi o zakończeniu egzaminu do godziny trzeciej, używamy konstrukcji \"will have + czasownik w stronie czynnej\" w czasie Future Perfect (czas przyszły dokonany). Poprawne zdanie brzmi \"We'll have finished the exam by three o'clock, so I'll meet you at 3.30.\" Odpowiedź B) \"'ve been finishing\" używamy czasu Present Perfect Continuous (Czas teraźniejszy ciągły dokonany), który nie jest odpowiedni w kontekście opisywania zakończenia egzaminu w przyszłości.Odpowiedź C) \"'ll finish\" opisuje przyszłe zakończenie egzaminu, ale nie uwzględnia aspektu dokonanego zakończenia, jakie sugeruje zdanie\n"
         },
         {
             "id": 57,
-            "question": "If you ________ a tiger, you can\u2019t imagine how scary they are",
+            "question": "If you ________ a tiger, you can\u2019t imagine how scary they are.",
             "answers": [
                 {
                     "choice": "A",
@@ -1484,7 +1484,7 @@
         },
         {
             "id": 58,
-            "question": "Take some sandwiches as you\u2019re ________ hungry on the journey",
+            "question": "Take some sandwiches as you\u2019re ________ hungry on the journey.",
             "answers": [
                 {
                     "choice": "A",
@@ -1510,7 +1510,7 @@
         },
         {
             "id": 59,
-            "question": "You won\u2019t get in to university ________ you pass your exams",
+            "question": "You won\u2019t get in to university ________ you pass your exams.",
             "answers": [
                 {
                     "choice": "A",
@@ -1536,7 +1536,7 @@
         },
         {
             "id": 60,
-            "question": "Take your coat with you ________ it gets colder later",
+            "question": "Take your coat with you ________ it gets colder later.",
             "answers": [
                 {
                     "choice": "A",
@@ -1562,7 +1562,7 @@
         },
         {
             "id": 61,
-            "question": "If I ________ feeling so ill, I\u2019d go to work",
+            "question": "If I ________ feeling so ill, I\u2019d go to work.",
             "answers": [
                 {
                     "choice": "A",
@@ -1588,7 +1588,7 @@
         },
         {
             "id": 62,
-            "question": "I wouldn\u2019t study languages if I ________ enjoy them",
+            "question": "I wouldn\u2019t study languages if I ________ enjoy them.",
             "answers": [
                 {
                     "choice": "A",
@@ -1610,11 +1610,11 @@
                 "en": "I wouldn\u2019t study languages if I didn\u2019t enjoy them.",
                 "pl": "Nie uczy\u0142bym si\u0119 j\u0119zyk\u00f3w, gdybym ich nie lubi\u0142."
             },
-            "explanation": ""
+            "explanation": "Właściwą odpowiedzią jest B) didn’t. W zdaniu, które wyraża hipotetyczną sytuację, w której osoba nie cieszy się nauką języków, używamy konstrukcji \"didn’t\" w czasie Past Simple (Czas przeszły prosty). Poprawne zdanie brzmi \"I wouldn’t study languages if I didn’t enjoy them.\" Odpowiedź A) \"wouldn’t\" jest niepoprawna, ponieważ konstrukcja \"wouldn’t\" byłaby używana w kontekście, w którym obecne preferencje odnoszą się do przyszłości, co nie jest wyrażone w zdaniu. Odpowiedź C) \"don’t\" jest również nieodpowiednia, ponieważ czas Present Simple nie pasuje do hipotetycznej sytuacji przeszłej. \n"
         },
         {
             "id": 63,
-            "question": "If I ________ you, I wouldn\u2019t buy a bigger car",
+            "question": "If I ________ you, I wouldn\u2019t buy a bigger car.",
             "answers": [
                 {
                     "choice": "A",
@@ -1666,7 +1666,7 @@
         },
         {
             "id": 65,
-            "question": "Tim\u2019s very quiet",
+            "question": "Tim\u2019s very quiet. If you didn’t know him, you ________ he was unfriendly.",
             "answers": [
                 {
                     "choice": "A",
@@ -1692,7 +1692,7 @@
         },
         {
             "id": 66,
-            "question": "I ________ Mary if I had arrived five minutes later",
+            "question": "I ________ Mary if I had arrived five minutes later.",
             "answers": [
                 {
                     "choice": "A",
@@ -1718,7 +1718,7 @@
         },
         {
             "id": 67,
-            "question": "You ________ seen Tom",
+            "question": "You ________ seen Tom. He walked right past you.",
             "answers": [
                 {
                     "choice": "A",
@@ -1770,7 +1770,7 @@
         },
         {
             "id": 69,
-            "question": "Something ________ delicious",
+            "question": "Something ________ delicious. Have you been making cakes?",
             "answers": [
                 {
                     "choice": "A",
@@ -1796,7 +1796,7 @@
         },
         {
             "id": 70,
-            "question": "They ________ gone out",
+            "question": "They ________ gone out. Their car is outside the house.",
             "answers": [
                 {
                     "choice": "A",
@@ -1822,7 +1822,7 @@
         },
         {
             "id": 71,
-            "question": "Paul\u2019s train ________ cancelled",
+            "question": "Paul\u2019s train ________ cancelled. There have been problems on the railway recently.",
             "answers": [
                 {
                     "choice": "A",
@@ -1848,7 +1848,7 @@
         },
         {
             "id": 72,
-            "question": "We wouldn\u2019t have missed the start of the concert if you ________ on time",
+            "question": "We wouldn\u2019t have missed the start of the concert if you ________ on time.",
             "answers": [
                 {
                     "choice": "A",
@@ -1874,7 +1874,7 @@
         },
         {
             "id": 73,
-            "question": "We\u2019re lost! I ________ a map",
+            "question": "We\u2019re lost! I ________ a map.",
             "answers": [
                 {
                     "choice": "A",
@@ -1900,7 +1900,7 @@
         },
         {
             "id": 74,
-            "question": "I ________ bought these shoes",
+            "question": "I ________ bought these shoes. They were too expensive.",
             "answers": [
                 {
                     "choice": "A",
@@ -1926,7 +1926,7 @@
         },
         {
             "id": 75,
-            "question": "These shoes ________ really comfortable",
+            "question": "These shoes ________ really comfortable. I think I’ll buy them.",
             "answers": [
                 {
                     "choice": "A",
@@ -1952,7 +1952,7 @@
         },
         {
             "id": 76,
-            "question": "This sofa looks ________ the one at my parents\u2019 house",
+            "question": "This sofa looks ________ the one at my parents\u2019 house.",
             "answers": [
                 {
                     "choice": "A",
@@ -1966,7 +1966,7 @@
                 },
                 {
                     "choice": "C",
-                    "text": "(\u2013",
+                    "text": "(\u2013)",
                     "is_correct": false
                 }
             ],
@@ -2004,7 +2004,7 @@
         },
         {
             "id": 78,
-            "question": "If you hadn\u2019t been rude to Liz, she ________ talking to you",
+            "question": "If you hadn\u2019t been rude to Liz, she ________ talking to you.",
             "answers": [
                 {
                     "choice": "A",
@@ -2030,7 +2030,7 @@
         },
         {
             "id": 79,
-            "question": "________ call them before we go to make sure they\u2019re at home",
+            "question": "________ call them before we go to make sure they\u2019re at home.",
             "answers": [
                 {
                     "choice": "A",
@@ -2056,7 +2056,7 @@
         },
         {
             "id": 80,
-            "question": "They ________ have got lost",
+            "question": "They ________ have got lost. I drew them a very clear map.",
             "answers": [
                 {
                     "choice": "A",

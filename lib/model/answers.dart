@@ -4,7 +4,7 @@ class Answers {
   String? choice;
   String? text;
   bool? isCorrect;
-  Color? choiceColor = Colors.blue;
+  Color? choiceColor = Color(0xff9437FF);
 
 
   Answers({this.choice, this.text, this.isCorrect, this.choiceColor});
@@ -25,9 +25,9 @@ class Answers {
 
   void checkAnswer(){
     if(isCorrect!){
-      choiceColor = Colors.green;
+      choiceColor = Color(0xff8EFA00);
     }else{
-      choiceColor = Colors.red;
+      choiceColor = Color(0xffFF5D57);
     }
   }
 }

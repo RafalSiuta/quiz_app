@@ -2,7 +2,7 @@
     "questions": [
         {
             "id": 1,
-            "question": "What ______ at nine o'clock last night? I tried to ring you, but there was no answer",
+            "question": "What ______ at nine o'clock last night? I tried to ring you, but there was no answer.",
             "answers": [
                 {
                     "choice": "A",
@@ -28,7 +28,7 @@
         },
         {
             "id": 2,
-            "question": "They ______ a new cinema in the centre of town last year",
+            "question": "They ______ a new cinema in the centre of town last year.",
             "answers": [
                 {
                     "choice": "A",
@@ -80,7 +80,7 @@
         },
         {
             "id": 4,
-            "question": "Where's Jack? He ______ to the library",
+            "question": "Where's Jack? He ______ to the library. He'll be back soon.",
             "answers": [
                 {
                     "choice": "A",
@@ -106,7 +106,7 @@
         },
         {
             "id": 5,
-            "question": "My brother ______ in Peru for three months He's really enjoying himself",
+            "question": "My brother ______ in Peru for three months He's really enjoying himself.",
             "answers": [
                 {
                     "choice": "A",
@@ -132,7 +132,7 @@
         },
         {
             "id": 6,
-            "question": "Please drive more ______ We're near a school",
+            "question": "Please drive more ______ We're near a school.",
             "answers": [
                 {
                     "choice": "A",
@@ -158,7 +158,7 @@
         },
         {
             "id": 7,
-            "question": "Students ______ talk during the exam",
+            "question": "Students ______ talk during the exam. It's against the rules.",
             "answers": [
                 {
                     "choice": "A",
@@ -184,7 +184,7 @@
         },
         {
             "id": 8,
-            "question": "I'd love to ______ speak better French-I've been studying the language for five years now",
+            "question": "I'd love to ______ speak better French-I've been studying the language for five years now.",
             "answers": [
                 {
                     "choice": "A",
@@ -210,7 +210,7 @@
         },
         {
             "id": 9,
-            "question": "Ican't go out ______ I finish my maths homework",
+            "question": "Ican't go out ______ I finish my maths homework.",
             "answers": [
                 {
                     "choice": "A",
@@ -236,7 +236,7 @@
         },
         {
             "id": 10,
-            "question": "If I ______ you, I wouldn't go on holiday until after my exams",
+            "question": "If I ______ you, I wouldn't go on holiday until after my exams.",
             "answers": [
                 {
                     "choice": "A",
@@ -262,7 +262,7 @@
         },
         {
             "id": 11,
-            "question": "I ______ go out a lot at weekends, but now I stay at home",
+            "question": "I ______ go out a lot at weekends, but now I stay at home.",
             "answers": [
                 {
                     "choice": "A",
@@ -288,7 +288,7 @@
         },
         {
             "id": 12,
-            "question": "There's only a ______ milk left",
+            "question": "There's only a ______ milk left. Shall I buy some more?",
             "answers": [
                 {
                     "choice": "A",
@@ -340,7 +340,7 @@
         },
         {
             "id": 14,
-            "question": "I think ______ languages is very important",
+            "question": "I think ______ languages is very important.",
             "answers": [
                 {
                     "choice": "A",
@@ -366,7 +366,7 @@
         },
         {
             "id": 15,
-            "question": "James asked me if I ______ Liz that morning",
+            "question": "James asked me if I ______ Liz that morning.",
             "answers": [
                 {
                     "choice": "A",
@@ -392,7 +392,7 @@
         },
         {
             "id": 16,
-            "question": "The exams are next month",
+            "question": "The exams are next month. You ______ a timetable next Week.",
             "answers": [
                 {
                     "choice": "A",
@@ -418,7 +418,7 @@
         },
         {
             "id": 17,
-            "question": "He's the boy ______ brother is in my class",
+            "question": "He's the boy ______ brother is in my class.",
             "answers": [
                 {
                     "choice": "A",
@@ -444,7 +444,7 @@
         },
         {
             "id": 18,
-            "question": "I would have gone to the party if I ______ you were there",
+            "question": "I would have gone to the party if I ______ you were there.",
             "answers": [
                 {
                     "choice": "A",
@@ -522,7 +522,7 @@
         },
         {
             "id": 21,
-            "question": "They ______ the house if they'd known about the noisy neighbours",
+            "question": "They ______ the house if they'd known about the noisy neighbours.",
             "answers": [
                 {
                     "choice": "A",
@@ -548,7 +548,7 @@
         },
         {
             "id": 22,
-            "question": "Helen told me she ______, to Rome the following weekend",
+            "question": "Helen told me she ______, to Rome the following weekend.",
             "answers": [
                 {
                     "choice": "A",
@@ -574,7 +574,7 @@
         },
         {
             "id": 23,
-            "question": "They ______ have a lot of money",
+            "question": "They ______ have a lot of money. They go on very exotic holidays every year.",
             "answers": [
                 {
                     "choice": "A",
@@ -626,7 +626,7 @@
         },
         {
             "id": 25,
-            "question": "The town ______ Jack grew up is near Bristol",
+            "question": "The town ______ Jack grew up is near Bristol.",
             "answers": [
                 {
                     "choice": "A",

@@ -12,6 +12,10 @@ class QuestionView extends StatefulWidget {
 }
 
 class _QuestionViewState extends State<QuestionView> {
+
+
+  bool isChecked = false;
+
   @override
   Widget build(BuildContext context) {
 
@@ -28,7 +32,10 @@ class _QuestionViewState extends State<QuestionView> {
         margin: EdgeInsets.all(15),
         child: SizedBox(
             width: btn_width,
-            child: Center(child: Text(widget.question.question!),)),
+            child: Center(child: Padding(
+              padding: const EdgeInsets.all(8.0),
+              child: Text("""${widget.question.question!}""", ),
+            ),)),
       ),
       back: Card(
         margin: EdgeInsets.all(15),
@@ -41,18 +48,20 @@ class _QuestionViewState extends State<QuestionView> {
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
                   RichText(text: TextSpan(
-                    text: "${widget.question.translation!.pl}\n",
-
-                    style: TextStyle(fontWeight: FontWeight.bold,color: Colors.black,),
-
+                    text: "${widget.question.translation!.en}\n\n", style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green, height: 1.5),
                     children:  <TextSpan>[
-                      TextSpan(text: widget.question.translation!.en, style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green)),
+                      TextSpan(text: "${widget.question.translation!.pl}",
+                     style: TextStyle(fontWeight: FontWeight.bold,color: Colors.black, height: 1.5)),
                     ],
                   ),),
                   SizedBox(height: 10,),
                   Divider(color: Colors.grey,height: 0.5,),
                   SizedBox(height: 10,),
-                  SingleChildScrollView(child: Text(widget.question.explanation!))
+                  Expanded(
+                    child: SingleChildScrollView(
+                        scrollDirection: Axis.vertical,
+                        child: Text("""${widget.question.explanation!}""", style: TextStyle(fontSize: 12.0, height: 1.5),)),
+                  )
                 ],
               ),
             ),)),
@@ -67,8 +76,9 @@ class _QuestionViewState extends State<QuestionView> {
                     minimumSize: Size(btn_width, 40),
                     alignment: Alignment.centerLeft
                   ),
-                  onPressed:(){
+                  onPressed: isChecked ? (){} : (){
                     setState(() {
+                      isChecked = true;
                       widget.question.answers![index].checkAnswer();
                       if(widget.question.answers![index].isCorrect!){
                         widget.answerCounter();

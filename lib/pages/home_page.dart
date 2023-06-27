@@ -7,7 +7,7 @@ import 'package:flutter/services.dart';
 import 'package:english_tutor/pages/quiz_page.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
+import 'package:english_tutor/model/manu_model.dart';
 import '../model/question.dart';
 
 
@@ -19,6 +19,17 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+
+  List<MenuModel> menu = [
+    MenuModel(title: "Grammar 80", imgPath: "assets/img/edu3.png", quizColor: Color(0xff9437FF)),
+    MenuModel(title: "Vocabulary 80", imgPath: "assets/img/edu2.png", quizColor: Color(0xffFF40FF)),
+
+    MenuModel(title: "Vocabulary 25", imgPath: "assets/img/edu1.png", quizColor: Color(0xff9437FF)),
+    MenuModel(title: "Grammar 25", imgPath: "assets/img/edu5.png", quizColor: Color(0xff9437FF)),
+    MenuModel(title: "Marathon", imgPath: "assets/img/edu4.png", quizColor: Color(0xff9437FF)),
+  ];
+
+
 
   final List<Question> quiz_1 = [];
   final List<Question> quiz_25 = [];
@@ -69,7 +80,7 @@ class _HomePageState extends State<HomePage> {
           Expanded(
             child: GridView.builder(
               padding: const EdgeInsets.symmetric(horizontal: 10),
-              itemCount: 5,
+              itemCount: menu.length,
               gridDelegate: const SliverGridDelegateWithMaxCrossAxisExtent(
               maxCrossAxisExtent: 200.0,
               mainAxisSpacing: 10.0,
@@ -77,15 +88,16 @@ class _HomePageState extends State<HomePage> {
               childAspectRatio: 1.0,
             ), itemBuilder: (context,index){
                 return GestureDetector(
+
                   onTap: (){
                     Navigator.push(
                       context,
                       MaterialPageRoute(builder: (context) {
-                        var Page = QuizPage(quiz_1);
+                        var Page = QuizPage(quiz_1, Color(0xff9437FF));
                         if(index == 0){
-                          Page = QuizPage(quiz_1);
+                          Page = QuizPage(quiz_1, Color(0xffFF40FF));
                         }else if(index == 1){
-                          Page = QuizPage(quiz_25);
+                          Page = QuizPage(quiz_25, Color(0xff9437FF));
                         }else{
                           return Page;
                         }
@@ -94,7 +106,17 @@ class _HomePageState extends State<HomePage> {
                     );
                   },
                   child: Card(
-                    child: Center(child: Text("Text ${index}")),
+                    child: Stack(children:[
+                      Image(image: AssetImage(menu[index].imgPath!)),
+                      Align(
+                          alignment: Alignment.bottomCenter,
+                          child: Padding(
+                            padding: const EdgeInsets.all(5.0),
+                            child: Text(menu[index].title!, style: TextStyle(fontWeight: FontWeight.bold, fontSize: 12, color: Colors.black, )),
+                          )),
+
+
+                    ], ),
                   ),
                 );
             })
