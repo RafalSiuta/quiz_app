@@ -3,9 +3,10 @@ import '../model/question.dart';
 import 'package:flip_card/flip_card.dart';
 
 class QuestionView extends StatefulWidget {
-  const QuestionView( this.question, this.answerCounter, {super.key});
+  const QuestionView( this.question, this.answerCounter,this.appendWrongAnswer, {super.key});
   final Question question;
   final Function answerCounter;
+  final Function appendWrongAnswer;
 
   @override
   State<QuestionView> createState() => _QuestionViewState();
@@ -45,10 +46,10 @@ class _QuestionViewState extends State<QuestionView> {
               padding: const EdgeInsets.all(8.0),
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.start,
-                crossAxisAlignment: CrossAxisAlignment.center,
+                crossAxisAlignment: CrossAxisAlignment.start,
                 children: [
                   RichText(text: TextSpan(
-                    text: "${widget.question.translation!.en}\n\n", style: TextStyle(fontWeight: FontWeight.bold, color: Colors.green, height: 1.5),
+                    text: "${widget.question.translation!.en}\n\n", style: TextStyle(fontWeight: FontWeight.bold, color: Color(0xff9437FF), height: 1.5),
                     children:  <TextSpan>[
                       TextSpan(text: "${widget.question.translation!.pl}",
                      style: TextStyle(fontWeight: FontWeight.bold,color: Colors.black, height: 1.5)),
@@ -82,6 +83,8 @@ class _QuestionViewState extends State<QuestionView> {
                       widget.question.answers![index].checkAnswer();
                       if(widget.question.answers![index].isCorrect!){
                         widget.answerCounter();
+                      }else{
+                        widget.appendWrongAnswer(widget.question);
                       }
                     });
                   }, child: Text("${widget.question.answers![index].choice})  ${widget.question.answers![index].text!}",style: TextStyle(color: Colors.white),)),

@@ -1,6 +1,8 @@
 import 'package:english_tutor/pages/question_view.dart';
+import 'package:english_tutor/pages/summary_page.dart';
 import 'package:flutter/material.dart';
 
+import '../model/answers.dart';
 import '../model/question.dart';
 
 class QuizPage extends StatefulWidget {
@@ -39,6 +41,12 @@ class _QuizPageState extends State<QuizPage> {
     void answerCounter(){
     setState(() {
       correctAnswerCounter++;
+    });
+    }
+
+    void wrongAnswerList(Question question){
+    setState(() {
+      wrongAnswers.add(question);
     });
     }
 
@@ -127,7 +135,7 @@ class _QuizPageState extends State<QuizPage> {
                     itemCount: widget.questionsList.length,
                     onPageChanged: _onPageViewChange,
                     itemBuilder: (ctx, index) {
-                      return QuestionView(widget.questionsList[index],answerCounter);
+                      return QuestionView(widget.questionsList[index],answerCounter, wrongAnswerList);
                     }),
               ),
               Row(
@@ -149,6 +157,14 @@ class _QuizPageState extends State<QuizPage> {
                     _pageController.nextPage(
                       duration: const Duration(milliseconds: 400),
                       curve: Curves.easeInOut,);
+                    if(page_counter == widget.questionsList.length){
+                      Navigator.push(
+                        context,
+                        MaterialPageRoute(builder: (context) {
+                          return SummaryPage(wrongAnswers,correctAnswerCounter, resetQuiz);
+                        }),
+                      );
+                    }
                   }, child: Text("next >", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: widget.quizColor))),
                 ],)
             ],

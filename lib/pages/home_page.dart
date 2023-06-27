@@ -93,15 +93,19 @@ class _HomePageState extends State<HomePage> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(builder: (context) {
-                        var Page = QuizPage(quiz_1, Color(0xff9437FF));
+                        var page = QuizPage(quiz_1, Color(0xff9437FF));
                         if(index == 0){
-                          Page = QuizPage(quiz_1, Color(0xffFF40FF));
+                          page = QuizPage(quiz_1,Color(0xff9437FF) );
                         }else if(index == 1){
-                          Page = QuizPage(quiz_25, Color(0xff9437FF));
-                        }else{
-                          return Page;
+                          page = QuizPage(quiz_25,Color(0xffFF40FF) );
+                        }else if(index == 2){
+                          return page;
+                        }else if(index == 3){
+                          return page;
+                        }else if(index == 4){
+                          return page;
                         }
-                        return Page;
+                        return page;
                       }),
                     );
                   },
