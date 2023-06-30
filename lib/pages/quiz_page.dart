@@ -4,6 +4,7 @@ import 'package:flutter/material.dart';
 
 import '../model/answers.dart';
 import '../model/question.dart';
+import 'home_page.dart';
 
 class QuizPage extends StatefulWidget {
   const QuizPage(this.questionsList, this.quizColor, {super.key});
@@ -151,7 +152,12 @@ class _QuizPageState extends State<QuizPage> {
                   }, child: Text("< prev", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: widget.quizColor))),
                   TextButton(onPressed: () {
                     resetQuiz();
-                    Navigator.pop(context);
+                    Navigator.pushReplacement(
+                      context,
+                      MaterialPageRoute(builder: (context) {
+                        return HomePage();
+                      }),
+                    );
                   }, child: Text("esc", style: TextStyle(fontWeight: FontWeight.bold, fontSize: 15, color: widget.quizColor))),
                   TextButton(onPressed: () {
                     _pageController.nextPage(

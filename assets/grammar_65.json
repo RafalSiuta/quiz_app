@@ -1,0 +1,1668 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "What ______ at nine o'clock last night? I tried to ring you, but there was no answer.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "were you doing",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "did you do",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "had you done",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "What were you doing at nine o'clock last night? I tried to ring you, but there was no answer.",
+                "pl": "Co robi\u0142e\u015b wczoraj o dziewi\u0105tej wieczorem? Pr\u00f3bowa\u0142em do ciebie zadzwoni\u0107, ale nie by\u0142o odpowiedzi."
+            },
+            "explanation": "W zdaniu \"What were you doing at nine o'clock last night?\" mamy do czynienia z czasem przesz\u0142ym ci\u0105g\u0142ym (past continuous). Oto rozbicie gramatyczne: \"What were you doing\" to pytanie w czasie przesz\u0142ym ci\u0105g\u0142ym. Tworzy si\u0119 je poprzez u\u017cycie czasu przesz\u0142ego czasownika \"to be\" (by\u0142e\u015b/by\u0142a\u015b) oraz zaimka osobowego \"you\" i bezokolicznika czasownika g\u0142\u00f3wnego w formie -ing (robi\u0142e\u015b/robi\u0142a\u015b). \"At nine o'clock\" to fraza przyimkowa wskazuj\u0105ca na konkretne godzin\u0119, o kt\u00f3rej mia\u0142o miejsce dzia\u0142anie."
+        },
+        {
+            "id": 2,
+            "question": "They ______ a new cinema in the centre of town last year.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'ve build",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had built",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "built",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "They built a new cinema in the center of town last year.",
+                "pl": "W zesz\u0142ym roku zbudowali nowe kino w centrum miasta."
+            },
+            "explanation": "W zdaniu \"They built a new cinema in the center of town last year\" mamy do czynienia z czasem przesz\u0142ym prostym (past simple). Oto rozbicie gramatyczne: \"They built\" to czas przesz\u0142y czasownika \"to build\" (zbudowali/zbudowa\u0142y). Wskazuje na dzia\u0142anie, kt\u00f3re zosta\u0142o wykonane w przesz\u0142o\u015bci. \"A new cinema\" to okre\u015blenie rzeczownika \"cinema\" (kino) przy u\u017cyciu przymiotnika \"new\" (nowe). \"In the center of town\" to fraza przyimkowa, wskazuj\u0105ca na lokalizacj\u0119, w tym przypadku w centrum miasta. \"Last year\" to wyra\u017cenie czasowe, okre\u015blaj\u0105ce poprzedni rok."
+        },
+        {
+            "id": 3,
+            "question": "Is Mark ______ to Greece this year?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "going",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "gone",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "go",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Is Mark going to Greece this year?",
+                "pl": "Czy Mark jedzie w tym roku do Grecji?"
+            },
+            "explanation": "W zdaniu \"Is Mark going to Greece this year?\" mamy do czynienia z czasem tera\u017aniejszym ci\u0105g\u0142ym (present continuous) oraz czasem przysz\u0142ym prostym (going to). Oto rozbicie gramatyczne: \"Is Mark going\" to pytanie w czasie tera\u017aniejszym ci\u0105g\u0142ym. U\u017cywamy czasownika \"to be\" (is) w odpowiedniej formie dla osoby trzeciej (Mark), a nast\u0119pnie dodajemy bezokolicznik \"going\" (wybiera\u0107 si\u0119). \"To Greece\" to fraza przyimkowa, wskazuj\u0105ca na cel podr\u00f3\u017cy (do Grecji)."
+        },
+        {
+            "id": 4,
+            "question": "Where's Jack? He ______ to the library. He'll be back soon.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "been",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "'s gone",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "going",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Where's Jack? He 's gone to the library. He'll be back soon.",
+                "pl": "Gdzie jest Jack? Poszed\u0142 do biblioteki. Nied\u0142ugo wr\u00f3ci."
+            },
+            "explanation": "W zdaniu \"Where's Jack? He's gone to the library. He'll be back soon\" mamy do czynienia z r\u00f3\u017cnymi czasami przesz\u0142ymi i przysz\u0142ymi. Oto rozbicie gramatyczne: \"Where's Jack?\" to pytanie w czasie tera\u017aniejszym prostym. \"Where's\" to skr\u00f3cona forma czasownika \"to be\" (is/are) oraz \"Jack\" to imi\u0119 osoby, o kt\u00f3r\u0105 pytamy. Pytamy o aktualne po\u0142o\u017cenie Jacka. \"He's gone to the library\" to stwierdzenie w czasie tera\u017aniejszym ci\u0105g\u0142ym. \"He's\" to skr\u00f3cona forma czasownika \"to be\" (is/has) oraz \"gone\" to partyczka czasu przesz\u0142ego czasownika \"to go\". Oznacza to, \u017ce Jack opu\u015bci\u0142 aktualne miejsce i uda\u0142 si\u0119 do biblioteki. \"He'll be back soon\" to stwierdzenie w czasie przysz\u0142ym prostym. \"He'll\" to skr\u00f3cona forma czasownika modalnego \"will\", a \"be back\" to czasownik \"to be\" (by\u0107) i czasownik \"back\" (z powrotem). Oznacza to, \u017ce Jack wr\u00f3ci wkr\u00f3tce."
+        },
+        {
+            "id": 5,
+            "question": "My brother ______ in Peru for three months He's really enjoying himself.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "is living",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "has been living",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "was living",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My brother has been living in Peru for three months He's really enjoying himself.",
+                "pl": "M\u00f3j brat mieszka w Peru od trzech miesi\u0119cy. Naprawd\u0119 dobrze si\u0119 bawi."
+            },
+            "explanation": "W zdaniu \"My brother has been living in Peru for three months. He's really enjoying himself\" mamy do czynienia z czasem tera\u017aniejszym ci\u0105g\u0142ym (present perfect continuous) oraz czasem tera\u017aniejszym prostym (present simple). Oto rozbicie gramatyczne: \"My brother has been living\" to stwierdzenie w czasie tera\u017aniejszym ci\u0105g\u0142ym. \"Has been\" to forma czasownika \"to be\" (by\u0107) w czasie tera\u017aniejszym perfect, a \"living\" to bezokolicznik czasownika \"to live\" (mieszka\u0107) w formie -ing. Oznacza to, \u017ce brat nadal mieszka w Peru i trwa to od trzech miesi\u0119cy. \"In Peru\" to fraza przyimkowa, wskazuj\u0105ca na miejsce zamieszkania (w Peru). \"For three months\" to wyra\u017cenie czasowe, okre\u015blaj\u0105ce czas trwania (przez trzy miesi\u0105ce). \"He's really enjoying himself\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"He's\" to skr\u00f3cona forma czasownika \"to be\" (is/has), a \"enjoying himself\" to czasownik \"enjoy\" (czerpa\u0107 przyjemno\u015b\u0107) w formie -ing oraz zaimek zwrotny \"himself\" (sobie). Oznacza to, \u017ce brat dobrze si\u0119 bawi lub czerpie przyjemno\u015b\u0107 z pobytu w Peru."
+        },
+        {
+            "id": 6,
+            "question": "Please drive more ______. We're near a school.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "slow",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "slower",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "slowly",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Please drive more slowly. We're near a school.",
+                "pl": "Prosz\u0119 jecha\u0107 wolniej. Jeste\u015bmy blisko szko\u0142y."
+            },
+            "explanation": "W zdaniu \"Please drive more slowly. We're near a school\" mamy do czynienia z czasem tera\u017aniejszym ci\u0105g\u0142ym (present continuous) oraz czasem tera\u017aniejszym prostym (present simple). Oto rozbicie gramatyczne: \"Please drive\" to pro\u015bba wyra\u017cona w czasie tera\u017aniejszym prostym. U\u017cywamy czasownika \"to drive\" (jecha\u0107) w formie podstawowej. \"More slowly\" to wyra\u017cenie, kt\u00f3re modyfikuje czasownik \"drive\" (jecha\u0107), wskazuj\u0105c na potrzeb\u0119 jazdy wolniej. \"We're near\" to skr\u00f3cona forma czasownika \"to be\" (are) w czasie tera\u017aniejszym, wskazuj\u0105ca na obecne po\u0142o\u017cenie. \"Near\" oznacza blisko\u015b\u0107. \"A school\" to rzeczownik \"school\" (szko\u0142a) poprzedzony nieokre\u015blonym artyku\u0142em \"a\", wskazuj\u0105cy na og\u00f3lny obiekt szko\u0142y."
+        },
+        {
+            "id": 7,
+            "question": "Students ______ talk during the exam. It's against the rules.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "couldn't",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "mustn't",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "shouldn't",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Students mustn't talk during the exam. It's against the rules.",
+                "pl": "Studentom nie wolno rozmawia\u0107 podczas egzaminu. To wbrew zasadom."
+            },
+            "explanation": "W zdaniu \"Students mustn't talk during the exam. It's against the rules\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz wyra\u017ceniem modalnym \"mustn't\" (musie\u0107 nie). Oto rozbicie gramatyczne: \"Students mustn't talk\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"Mustn't\" to forma modalna czasownika \"must\" (musie\u0107) z dodanym przedrostkiem \"n't\", co oznacza zakaz lub obowi\u0105zek czego\u015b. \"Talk\" to czasownik \"to talk\" (rozmawia\u0107) w formie podstawowej. Oznacza to, \u017ce studenci nie maj\u0105 pozwolenia na rozmawianie podczas egzaminu. \"During the exam\" to fraza przyimkowa wskazuj\u0105ca na czas trwania (podczas egzaminu). \"It's against the rules\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"It's\" to skr\u00f3cona forma czasownika \"to be\" (jest) w odniesieniu do nieokre\u015blonego obiektu. \"Against the rules\" oznacza, \u017ce jest to sprzeczne z ustalonymi zasadami lub regulaminem."
+        },
+        {
+            "id": 8,
+            "question": "I'd love to ______ speak better French-I've been studying the language for five years now.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "be able",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "able to",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "be able to",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I'd love to be able to speak better French-I've been studying the language for five years now.",
+                "pl": "Bardzo chcia\u0142bym m\u00f3c lepiej m\u00f3wi\u0107 po francusku \u2013 ucz\u0119 si\u0119 tego j\u0119zyka ju\u017c od pi\u0119ciu lat."
+            },
+            "explanation": "W zdaniu \"I'd love to be able to speak better French - I've been studying the language for five years now\" mamy do czynienia z czasem tera\u017aniejszym ci\u0105g\u0142ym (present perfect continuous) oraz czasem przysz\u0142ym prostym (would love to). Oto rozbicie gramatyczne: \"I'd love\" to wyra\u017cenie w czasie tera\u017aniejszym prostym, ale z u\u017cyciem formy modalnej \"would\" (by\u0142bym/by\u0142abym ch\u0119tny) oraz czasownika \"love\" (kocha\u0107). Wyra\u017ca to silne pragnienie lub ch\u0119\u0107 czego\u015b. \"To be able to speak\" to fraza, w kt\u00f3rej u\u017cycie czasownika \"to be\" (by\u0107) i \"to speak\" (m\u00f3wi\u0107) w formie bezokolicznika oznacza umiej\u0119tno\u015b\u0107 lub zdolno\u015b\u0107 do m\u00f3wienia w danym j\u0119zyku. \"Better French\" to okre\u015blenie rzeczownika \"French\" (francuski) poprzedzone przymiotnikiem \"better\" (lepszy), wskazuj\u0105ce na po\u017c\u0105dane polepszenie umiej\u0119tno\u015bci j\u0119zykowych. \"I've been studying\" to stwierdzenie w czasie tera\u017aniejszym ci\u0105g\u0142ym, kt\u00f3re wyra\u017ca trwaj\u0105ce od pi\u0119ciu lat dzia\u0142anie nauki. \"I've\" to skr\u00f3cona forma czasownika \"to have\" (mie\u0107) w czasie tera\u017aniejszym perfect, a \"been studying\" to czasownik \"study\" (uczy\u0107 si\u0119) w formie ci\u0105g\u0142ej, oznaczaj\u0105cy d\u0142ugotrwa\u0142e dzia\u0142anie. \"For five years now\" to wyra\u017cenie czasowe, okre\u015blaj\u0105ce czas trwania od pi\u0119ciu lat do chwili obecnej."
+        },
+        {
+            "id": 9,
+            "question": "I can't go out ______ I finish my maths homework.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "unless",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "if",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "when",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I can't go out unless I finish my maths homework.",
+                "pl": "Nie mog\u0119 wyj\u015b\u0107, dop\u00f3ki nie sko\u0144cz\u0119 pracy domowej z matematyki."
+            },
+            "explanation": "W zdaniu \"I can't go out unless I finish my maths homework\" mamy do czynienia z wyra\u017ceniem modalnym \"can't\" (nie m\u00f3c) oraz zale\u017cnym zdaniem warunkowym. Oto rozbicie gramatyczne: \"I can't go out\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"Can't\" to forma modalna czasownika \"can\" (m\u00f3c), kt\u00f3ra wyra\u017ca niemo\u017cno\u015b\u0107 lub brak zdolno\u015bci do wykonania czego\u015b. \"Go out\" oznacza wychodzenie lub opuszczanie miejsca. \"Unless I finish\" to wyra\u017cenie zale\u017cnego zdania warunkowego. \"Unless\" oznacza \"chyba \u017ce\" lub \"je\u017celi nie\", a \"I finish\" to czasownik \"to finish\" (uko\u0144czy\u0107) w formie pierwszej osoby liczby pojedynczej, czyli \"ko\u0144cz\u0119\". \"My maths homework\" oznacza zadania z matematyki, kt\u00f3re trzeba uko\u0144czy\u0107."
+        },
+        {
+            "id": 10,
+            "question": "If I ______ you, I wouldn't go on holiday until after my exams.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "was",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "am",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "were",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "If I were you, I wouldn't go on holiday until after my exams.",
+                "pl": "Na twoim miejscu nie jecha\u0142bym na wakacje przed egzaminami."
+            },
+            "explanation": "W zdaniu \"If I were you, I wouldn't go on holiday until after my exams\" mamy do czynienia z zale\u017cnym zdaniem warunkowym (conditional sentence). Oto rozbicie gramatyczne: \"If I were you\" to zale\u017cne zdanie warunkowe rozpoczynaj\u0105ce si\u0119 od \"if\" (je\u017celi). W tym przypadku u\u017cywamy formy past simple (were) czasownika \"to be\" (by\u0107), pomimo tego, \u017ce odnosi si\u0119 do tera\u017aniejszo\u015bci. Jest to tzw. konstrukcja irrealis, kt\u00f3ra wyra\u017ca warunek niezgodny z rzeczywisto\u015bci\u0105. \"I wouldn't go on holiday\" to stwierdzenie w czasie tera\u017aniejszym prostym, w kt\u00f3rym u\u017cywamy formy przecz\u0105cej \"wouldn't\" (nie bym/nie by\u0142abym) oraz czasownika \"to go\" (pojecha\u0107). Oznacza to, \u017ce nie podejmujemy decyzji o wyje\u017adzie na wakacje. \"Until after my exams\" to fraza, kt\u00f3ra wskazuje na czasowy punkt, po kt\u00f3rym dopiero mogliby\u015bmy wyjecha\u0107 na wakacje, czyli po zako\u0144czeniu egzamin\u00f3w."
+        },
+        {
+            "id": 11,
+            "question": "I ______ go out a lot at weekends, but now I stay at home.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "use to",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "used to",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "used",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I used to go out a lot at weekends, but now I stay at home.",
+                "pl": "Kiedy\u015b cz\u0119sto wychodzi\u0142em w weekendy, ale teraz zostaj\u0119 w domu."
+            },
+            "explanation": "W zdaniu \"I used to go out a lot at weekends, but now I stay at home\" mamy do czynienia z czasem przesz\u0142ym prostym (used to) oraz czasem tera\u017aniejszym prostym (now). Oto rozbicie gramatyczne: \"I used to go out\" to stwierdzenie w czasie przesz\u0142ym prostym. Wyra\u017camy w nim, \u017ce w przesz\u0142o\u015bci mia\u0142o miejsce regularne lub nawykowe dzia\u0142anie. \"Used to\" jest wyra\u017ceniem, kt\u00f3re wskazuje na praktyk\u0119 lub zwyczaj, kt\u00f3ry mia\u0142 miejsce w przesz\u0142o\u015bci. \"Go out\" oznacza wychodzenie, np. na spotkania, imprezy itp. \"A lot\" to dodatkowa informacja, kt\u00f3ra podkre\u015bla cz\u0119sto\u015b\u0107 wychodzenia w przesz\u0142o\u015bci. \"At weekends\" to fraza, kt\u00f3ra okre\u015bla czas, w kt\u00f3rym wychodzenie mia\u0142o miejsce, czyli w weekendy. \"But now I stay at home\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"Now\" oznacza obecn\u0105 sytuacj\u0119 lub zmian\u0119 w zachowaniu. \"Stay at home\" oznacza pozostawanie w domu, zamiast wychodzenia."
+        },
+        {
+            "id": 12,
+            "question": "There's only a ______ milk left. Shall I buy some more?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "few",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "much",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "little",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "There's only a little milk left. Shall I buy some more?",
+                "pl": "Zosta\u0142o tylko troch\u0119 mleka. Mam kupi\u0107 troch\u0119 wi\u0119cej?"
+            },
+            "explanation": "W zdaniu \"There's only a little milk left. Shall I buy some more?\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz u\u017cywamy formy modalnej \"shall\" (powinienem/powinnam). Oto rozbicie gramatyczne: \"There's only a little milk left\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"There's\" to skr\u00f3cona forma \"there is\" (jest) w odniesieniu do nieokre\u015blonego przedmiotu. \"Only a little milk left\" oznacza, \u017ce pozosta\u0142o jedynie niewielkie ilo\u015bci mleka. \"Shall I buy some more?\" to pytanie w czasie tera\u017aniejszym prostym, wyra\u017cone za pomoc\u0105 formy modalnej \"shall\" (powinienem/powinnam). \"I\" oznacza pierwsz\u0105 osob\u0119 liczby pojedynczej, a \"buy\" to czasownik \"to buy\" (kupowa\u0107) w formie podstawowej. \"Some more\" oznacza dodatkow\u0105 ilo\u015b\u0107 lub wi\u0119cej mleka."
+        },
+        {
+            "id": 13,
+            "question": "Tom really believes that ______ women can't drive very well!",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "(-)",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "the",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "a",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Tom really believes that (-) women can't drive very well!",
+                "pl": "Tom naprawd\u0119 wierzy, \u017ce (-) kobiety nie potrafi\u0105 dobrze prowadzi\u0107!"
+            },
+            "explanation": "W zdaniu \"Tom really believes that women can't drive very well!\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz u\u017cywamy formy modalnej \"can't\" (nie mog\u0105). Oto rozbicie gramatyczne: \"Tom really believes\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"Believes\" to forma trzeciej osoby liczby pojedynczej czasownika \"to believe\" (wierzy\u0107). Oznacza to, \u017ce Tom ma silne przekonanie lub wiar\u0119 w co\u015b. \"That women can't drive very well\" to zdanie zale\u017cne wprowadzane przez sp\u00f3jnik \"that\". \"Women\" oznacza kobiety, \"can't\" to skr\u00f3cona forma \"cannot\" (nie mog\u0105) - wyra\u017ca przekonanie o braku umiej\u0119tno\u015bci, \"drive\" to czasownik \"to drive\" (je\u017adzi\u0107), a \"very well\" to wyra\u017cenie okre\u015blaj\u0105ce umiej\u0119tno\u015b\u0107 - w tym przypadku sugeruje, \u017ce nie je\u017cd\u017c\u0105 dobrze."
+        },
+        {
+            "id": 14,
+            "question": "I think ______ languages is very important.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "studying",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "study",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "studies",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I think studying languages is very important.",
+                "pl": "My\u015bl\u0119, \u017ce nauka j\u0119zyk\u00f3w jest bardzo wa\u017cna."
+            },
+            "explanation": "W zdaniu \"I think studying languages is very important\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz wyra\u017ceniem przekonania. Oto rozbicie gramatyczne: \"I think\" to wyra\u017cenie w czasie tera\u017aniejszym prostym, kt\u00f3re oznacza wyra\u017canie swojego przekonania, opinii lub zdania na dany temat. \"I\" oznacza pierwsz\u0105 osob\u0119 liczby pojedynczej, a \"think\" to czasownik \"to think\" (my\u015ble\u0107). \"Studying languages\" to czasownik \"studying\" (nauka) w formie bezokolicznika, po\u0142\u0105czony z rzeczownikiem \"languages\" (j\u0119zyki). Oznacza to og\u00f3ln\u0105 koncepcj\u0119 nauki j\u0119zyk\u00f3w. \"Is very important\" to stwierdzenie w czasie tera\u017aniejszym prostym, w kt\u00f3rym u\u017cywamy przymiotnika \"important\" (wa\u017cny) i czasownika \"to be\" (by\u0107). Oznacza to, \u017ce uwa\u017camy nauk\u0119 j\u0119zyk\u00f3w za bardzo wa\u017cn\u0105."
+        },
+        {
+            "id": 15,
+            "question": "James asked me if I ______ Liz that morning.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "have seen",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had seen",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "saw",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "James asked me if I had seen Liz that morning.",
+                "pl": "James zapyta\u0142 mnie, czy widzia\u0142em Liz tego ranka."
+            },
+            "explanation": "W zdaniu \"James asked me if I had seen Liz that morning\" mamy do czynienia z czasem przesz\u0142ym prostym (past simple) oraz czasem przesz\u0142ym perfect (past perfect). Oto rozbicie gramatyczne: \"James asked me\" to stwierdzenie w czasie przesz\u0142ym prostym. \"Asked\" to czas przesz\u0142y czasownika \"to ask\" (pyta\u0107), a \"me\" oznacza, \u017ce to ja by\u0142em pytany przez Jamesa. \"If I had seen\" to zdanie warunkowe (conditional sentence) w czasie przesz\u0142ym perfect. \"If\" oznacza \"je\u017celi\" lub \"czy\". \"I had seen\" to forma czasownika \"to have seen\" (widzie\u0107 w przesz\u0142o\u015bci) w czasie przesz\u0142ym perfect. Oznacza to, \u017ce mia\u0142em widzenie Liz wcze\u015bniej ni\u017c moment rozmowy. \"Liz that morning\" to wyra\u017cenie czasowe, kt\u00f3re wskazuje na konkretny czas (tamtego ranka) i osob\u0119 (Liz), o kt\u00f3rej mowa w pytaniu."
+        },
+        {
+            "id": 16,
+            "question": "The exams are next month. You _______ a timetable next Week.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "have been given",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "are given",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "'ll be given",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The exams are next month. You 'll be given a timetable next Week.",
+                "pl": "Egzaminy s\u0105 w przysz\u0142ym miesi\u0105cu. Dostaniesz harmonogram w przysz\u0142ym tygodniu."
+            },
+            "explanation": "W zdaniu \"The exams are next month. You'll be given a timetable next week\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz czasem przysz\u0142ym prostym (will). Oto rozbicie gramatyczne: \"The exams are next month\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"The exams\" oznacza egzaminy, a \"are\" to forma czasownika \"to be\" (by\u0107) w odniesieniu do nich. \"Next month\" to wyra\u017cenie okre\u015blaj\u0105ce czas w przysz\u0142o\u015bci, wskazuj\u0105ce, kiedy odb\u0119d\u0105 si\u0119 egzaminy. \"You'll be given a timetable\" to stwierdzenie w czasie przysz\u0142ym prostym. \"You'll\" to skr\u00f3cona forma \"you will\" (ty b\u0119dziesz), a \"be given\" to forma czasownika \"to be\" (by\u0107) w czasie przysz\u0142ym perfect. Oznacza to, \u017ce b\u0119dziesz otrzymywa\u0142/otrzymywa\u0142a harmonogram. \"A timetable\" oznacza harmonogram lub rozk\u0142ad zaj\u0119\u0107. \"Next week\" to wyra\u017cenie okre\u015blaj\u0105ce czas w przysz\u0142o\u015bci, wskazuj\u0105ce, kiedy otrzymasz harmonogram."
+        },
+        {
+            "id": 17,
+            "question": "He's the boy ______ brother is in my class.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "who's",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "that's",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "whose",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "He's the boy whose brother is in my class.",
+                "pl": "To ch\u0142opak, kt\u00f3rego brat jest w mojej klasie."
+            },
+            "explanation": "W zdaniu \"He's the boy whose brother is in my class\" mamy do czynienia z zaimek wzgl\u0119dnym \"whose\" (kt\u00f3rego/kt\u00f3rej) oraz opisem przynale\u017cno\u015bci. Oto rozbicie gramatyczne: \"He's the boy\" to stwierdzenie, w kt\u00f3rym \"He's\" to skr\u00f3cona forma \"he is\" (on jest), a \"the boy\" oznacza ch\u0142opca, kt\u00f3rego opisujemy. \"Whose brother is in my class\" to zale\u017cne zdanie wzgl\u0119dne, kt\u00f3re opisuje przynale\u017cno\u015b\u0107 ch\u0142opca. \"Whose\" to zaimek wzgl\u0119dny, kt\u00f3ry wskazuje, \u017ce m\u00f3wimy o bracie nale\u017c\u0105cym do tego ch\u0142opca. \"Brother\" oznacza brata, a \"is in my class\" informuje, \u017ce brat jest w mojej klasie."
+        },
+        {
+            "id": 18,
+            "question": "I would have gone to the party if I ______ you were there.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had known",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "would have known",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "known",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I would have gone to the party if I had known you were there.",
+                "pl": "Poszed\u0142bym na przyj\u0119cie, gdybym wiedzia\u0142, \u017ce tam jeste\u015b."
+            },
+            "explanation": "W zdaniu \"I would have gone to the party if I had known you were there\" mamy do czynienia z czasem przesz\u0142ym warunkowym (past conditional) oraz czasem przesz\u0142ym perfect (past perfect). Oto rozbicie gramatyczne: \"I would have gone\" to zdanie warunkowe w czasie przesz\u0142ym. \"Would have gone\" to forma czasownika modalnego \"would\" (by\u0142bym/by\u0142abym) oraz czasownika \"to go\" (i\u015b\u0107) w formie czasu przesz\u0142ego. Oznacza to, \u017ce wyra\u017camy warunek lub sytuacj\u0119, kt\u00f3ra nie mia\u0142a miejsca w przesz\u0142o\u015bci. \"To the party\" oznacza na imprez\u0119, wskazuj\u0105c na cel lub miejsce, gdzie nieudzia\u0142 mia\u0142by miejsce zgodnie z warunkiem. \"If I had known\" to wprowadzenie zdania warunkowego (conditional sentence). \"If\" oznacza \"gdyby\" lub \"je\u015bli\". \"I had known\" to forma czasownika \"to have known\" (wiedzie\u0107) w czasie przesz\u0142ym perfect. Oznacza to, \u017ce brak wiedzy lub \u015bwiadomo\u015bci o twojej obecno\u015bci w przesz\u0142o\u015bci uniemo\u017cliwi\u0142 uczestnictwo w imprezie. \"You were there\" oznacza twoj\u0105 obecno\u015b\u0107 na imprezie. \"You\" to druga osoba liczby pojedynczej (ty), a \"were\" to czas przesz\u0142y czasownika \"to be\" (by\u0107) w odniesieniu do ciebie."
+        },
+        {
+            "id": 19,
+            "question": "You're from Italy ______?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "are you",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "isn't you",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "aren't you",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "You're from Italy aren't you?",
+                "pl": "Jeste\u015b z W\u0142och, prawda?"
+            },
+            "explanation": "W zdaniu \"You're from Italy, aren't you?\" mamy do czynienia z pytaniem o pochodzenie lub narodowo\u015b\u0107. Oto rozbicie gramatyczne: \"You're\" to skr\u00f3cona forma \"you are\" (jeste\u015b), wskazuj\u0105ca na osob\u0119, do kt\u00f3rej kierowane jest pytanie. \"From Italy\" oznacza pochodzenie z W\u0142och, wskazuj\u0105c na kraj zwi\u0105zany z osob\u0105, do kt\u00f3rej m\u00f3wimy. \"Aren't you?\" to forma skr\u00f3cona czasownika \"to be\" (by\u0107) z dodanym partyku\u0142\u0105 przecz\u0105c\u0105 \"not\" (nie) oraz pytaj\u0105c\u0105 partyku\u0142\u0105 \"you\" (ty). Jest to zwrot u\u017cywany w pytaniach o potwierdzenie lub zaprzeczenie."
+        },
+        {
+            "id": 20,
+            "question": "Can you tell me where ______?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "is the Park Hotel",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "the Park Hotel is",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "be the Park Hotel",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Can you tell me where the Park Hotel is?",
+                "pl": "Czy mo\u017cesz mi powiedzie\u0107, gdzie jest Park Hotel?"
+            },
+            "explanation": "W zdaniu \"Can you tell me where the Park Hotel is?\" mamy do czynienia z pro\u015bb\u0105 o informacj\u0119 dotycz\u0105c\u0105 lokalizacji. Oto rozbicie gramatyczne: \"Can you tell me\" to pro\u015bba o udzielenie informacji. \"Can you\" oznacza \"czy mo\u017cesz\", a \"tell me\" to pro\u015bba o przekazanie informacji. \"Where the Park Hotel is\" to pytanie dotycz\u0105ce lokalizacji hotelu Park. \"Where\" oznacza \"gdzie\", \"the Park Hotel\" to nazwa hotelu, a \"is\" to czasownik \"to be\" (by\u0107) w trzeciej osobie liczby pojedynczej, wskazuj\u0105cy na aktualne po\u0142o\u017cenie hotelu."
+        },
+        {
+            "id": 21,
+            "question": "They ______ the house if they'd known about the noisy neighbours.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "wouldn't have bought",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "hadn't bought",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "wouldn't buy",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They wouldn't have bought the house if they'd known about the noisy neighbours.",
+                "pl": "Nie kupiliby domu, gdyby wiedzieli o ha\u0142a\u015bliwych s\u0105siadach."
+            },
+            "explanation": "W zdaniu \"They wouldn't have bought the house if they'd known about the noisy neighbours\" mamy do czynienia z czasem przesz\u0142ym warunkowym (past conditional) oraz czasem przesz\u0142ym perfect (past perfect). Oto rozbicie gramatyczne: \"They wouldn't have bought\" to zdanie warunkowe w czasie przesz\u0142ym. \"Wouldn't have bought\" to forma czasownika modalnego \"would\" (nie kupiliby) oraz czasownika \"to buy\" (kupowa\u0107) w czasie przesz\u0142ym perfect. Oznacza to, \u017ce wyra\u017camy warunek, kt\u00f3ry nie zosta\u0142 spe\u0142niony w przesz\u0142o\u015bci. \"The house\" oznacza dom, o kt\u00f3rym m\u00f3wimy w kontek\u015bcie. \"If they'd known\" to wprowadzenie zdania warunkowego (conditional sentence). \"If\" oznacza \"gdyby\" lub \"je\u015bli\". \"They'd known\" to skr\u00f3cona forma \"they had known\" (gdyby wiedzieli) w czasie przesz\u0142ym perfect. Oznacza to, \u017ce brak wiedzy lub \u015bwiadomo\u015bci o ha\u0142a\u015bliwych s\u0105siadach uniemo\u017cliwi\u0142 im podj\u0119cie decyzji o zakupie domu. \"About the noisy neighbours\" oznacza informacj\u0119 o ha\u0142a\u015bliwych s\u0105siadach, kt\u00f3ra mog\u0142aby wp\u0142yn\u0105\u0107 na decyzj\u0119 o kupnie domu."
+        },
+        {
+            "id": 22,
+            "question": "Helen told me she ______, to Rome the following weekend.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'s travelling",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "was travelling",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "will travel",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Helen told me she will travel, to Rome the following weekend.",
+                "pl": "Helen powiedzia\u0142a mi, \u017ce pojedzie do Rzymu w nast\u0119pny weekend."
+            },
+            "explanation": "W zdaniu \"Helen told me she will travel to Rome the following weekend\" mamy do czynienia z czasem przesz\u0142ym prostym (past simple) oraz czasem przysz\u0142ym prostym (will). Oto rozbicie gramatyczne: \"Helen told me\" to stwierdzenie w czasie przesz\u0142ym prostym. \"Told\" to czas przesz\u0142y czasownika \"to tell\" (powiedzie\u0107), a \"me\" oznacza, \u017ce Helen przekaza\u0142a mi t\u0119 informacj\u0119. \"She will travel\" to stwierdzenie w czasie przysz\u0142ym prostym. \"Will travel\" oznacza, \u017ce Helen zaplanowa\u0142a swoj\u0105 podr\u00f3\u017c do Rzymu. U\u017cywamy czasownika modalnego \"will\" (b\u0119dzie) wraz z bezokolicznikiem \"travel\" (podr\u00f3\u017cowa\u0107). \"To Rome\" oznacza cel podr\u00f3\u017cy, czyli do Rzymu. \"The following weekend\" to wyra\u017cenie, kt\u00f3re okre\u015bla konkretny czas, w tym przypadku nast\u0119pny weekend."
+        },
+        {
+            "id": 23,
+            "question": "They ______ have a lot of money. They go on very exotic holidays every year.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "must",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "may",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "might",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They must have a lot of money. They go on very exotic holidays every year.",
+                "pl": "Musz\u0105 mie\u0107 du\u017co pieni\u0119dzy. Co roku wyje\u017cd\u017caj\u0105 na bardzo egzotyczne wakacje."
+            },
+            "explanation": "W zdaniu \"They must have a lot of money. They go on very exotic holidays every year\" mamy do czynienia z wyra\u017ceniem modalnym \"must\" (musie\u0107) oraz czasem tera\u017aniejszym prostym (present simple). Oto rozbicie gramatyczne: \"They must have a lot of money\" to stwierdzenie wyra\u017caj\u0105ce przypuszczenie lub przekonanie. \"Must\" to forma modalna, kt\u00f3ra oznacza wysokie prawdopodobie\u0144stwo lub silne przekonanie o czym\u015b. \"Have\" to czasownik \"to have\" (mie\u0107) w formie podstawowej, a \"a lot of money\" to wyra\u017cenie okre\u015blaj\u0105ce du\u017c\u0105 ilo\u015b\u0107 pieni\u0119dzy. \"They go on very exotic holidays every year\" to stwierdzenie w czasie tera\u017aniejszym prostym. \"They go\" oznacza, \u017ce regularnie podr\u00f3\u017cuj\u0105 lub wyje\u017cd\u017caj\u0105 wakacyjnie. \"On very exotic holidays\" oznacza na bardzo egzotyczne wakacje, wskazuj\u0105c na charakter ich podr\u00f3\u017cy. \"Every year\" oznacza, \u017ce to si\u0119 powtarza co roku. Wnioskujemy, \u017ce maj\u0105 du\u017co pieni\u0119dzy na podstawie ich regularnych i ekskluzywnych podr\u00f3\u017cy."
+        },
+        {
+            "id": 24,
+            "question": "Do you ______ get to work early every morning?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "must",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "have",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "have to",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Do you have to get to work early every morning?",
+                "pl": "Czy ka\u017cdego ranka musisz wcze\u015bnie wstawa\u0107 do pracy?"
+            },
+            "explanation": "W zdaniu \"Do you have to get to work early every morning?\" mamy do czynienia z pytaniem o konieczno\u015b\u0107 przychodzenia do pracy wcze\u015bnie ka\u017cdego ranka. Oto rozbicie gramatyczne: \"Do you have to\" to pytanie w czasie tera\u017aniejszym prostym. \"Do\" jest u\u017cywane jako operator pytania, a \"you\" oznacza drug\u0105 osob\u0119 liczby pojedynczej (ty). \"Have to\" to wyra\u017cenie oznaczaj\u0105ce konieczno\u015b\u0107 lub obowi\u0105zek. \"Get to work early\" oznacza przychodzenie do pracy wcze\u015bnie. \"Get to work\" oznacza dotarcie do miejsca pracy, a \"early\" oznacza wcze\u015bnie, przed ustalonym czasem. \"Every morning\" oznacza ka\u017cdego ranka, czyli codziennie rano."
+        },
+        {
+            "id": 25,
+            "question": "The town ______ Jack grew up is near Bristol.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "that",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "which",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "where",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The town where Jack grew up is near Bristol.",
+                "pl": "Miasto, w kt\u00f3rym dorasta\u0142 Jack, znajduje si\u0119 niedaleko Bristolu."
+            },
+            "explanation": "W zdaniu \"The town where Jack grew up is near Bristol\" mamy do czynienia z okre\u015bleniem miejsca oraz zdaniem podrz\u0119dnym wprowadzanym przez sp\u00f3jnik \"where\" (gdzie). Oto rozbicie gramatyczne: \"The town\" oznacza miasto, o kt\u00f3rym m\u00f3wimy w kontek\u015bcie. \"Where Jack grew up\" to zdanie podrz\u0119dne, kt\u00f3re opisuje miejsce, w kt\u00f3rym Jack dorasta\u0142. \"Where\" oznacza \"gdzie\", a \"Jack grew up\" oznacza, \u017ce Jack si\u0119 tam wychowa\u0142. \"Grew up\" to forma czasownika \"to grow up\" (dorasta\u0107) w czasie przesz\u0142ym. \"Is near Bristol\" to stwierdzenie, kt\u00f3re wskazuje, \u017ce to miasto jest niedaleko Bristolu, czyli znajduje si\u0119 w pobli\u017cu."
+        },
+        {
+            "id": 26,
+            "question": "We ______ for two hours when they finally let us in.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'ve been quening",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "were queuing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "'d been queuing",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We'd been queuing for two hours when they finally let us in.",
+                "pl": "Stali\u015bmy w kolejce przez dwie godziny, kiedy w ko\u0144cu nas wpu\u015bcili."
+            },
+            "explanation": "W zdaniu \"We'd been queuing for two hours when they finally let us in\" mamy do czynienia z czasem przesz\u0142ym ci\u0105g\u0142ym (past perfect continuous) oraz czasem przesz\u0142ym prostym (past simple). Oto rozbicie gramatyczne: \"We'd been queuing\" to stwierdzenie w czasie przesz\u0142ym ci\u0105g\u0142ym. \"We'd\" to skr\u00f3cona forma \"we had\" (mieli\u015bmy/byli\u015bmy), a \"been queuing\" to forma czasownika \"to queue\" (stawa\u0107 w kolejce) w czasie przesz\u0142ym ci\u0105g\u0142ym. Oznacza to, \u017ce stali\u015bmy w kolejce przez pewien okres czasu przed okre\u015blonym punktem w przesz\u0142o\u015bci. \"For two hours\" to wyra\u017cenie czasowe, kt\u00f3re okre\u015bla czas trwania, czyli dwie godziny. \"When they finally let us in\" to stwierdzenie w czasie przesz\u0142ym prostym. \"When\" oznacza \"gdy\" lub \"kiedy\", a \"they finally let us in\" oznacza, \u017ce w ko\u0144cu pozwolono nam wej\u015b\u0107. \"Let us in\" oznacza zezwolenie na wej\u015bcie."
+        },
+        {
+            "id": 27,
+            "question": "I ______ to read newspapers.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "never have time",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "have never time",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "have time never",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I never have time to read newspapers.",
+                "pl": "Nigdy nie mam czasu na czytanie gazet."
+            },
+            "explanation": "W zdaniu \"I never have time to read newspapers\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz wyra\u017ceniem dotycz\u0105cym braku czasu. Oto rozbicie gramatyczne: \"I\" oznacza pierwsz\u0105 osob\u0119 liczby pojedynczej (ja). \"Never\" oznacza nigdy, sugeruj\u0105c, \u017ce w og\u00f3le nie ma czasu na czytanie gazet. \"Have time\" to wyra\u017cenie oznaczaj\u0105ce posiadanie czasu. W kontek\u015bcie zdania oznacza brak czasu. \"To read newspapers\" oznacza czytanie gazet, wskazuj\u0105c na konkretne dzia\u0142anie."
+        },
+        {
+            "id": 28,
+            "question": "At 9 o'clock! I ______ a film on TV.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'ve been watching",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "was watching",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "'d been watching",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "At 9 o'clock! I've been watching a film on TV.",
+                "pl": "O godzinie 9! Ogl\u0105da\u0142em film w telewizji."
+            },
+            "explanation": "W zdaniu \"At 9 o'clock! I've been watching a film on TV\" mamy do czynienia z okre\u015bleniem czasu oraz zastosowaniem czasu tera\u017aniejszego ci\u0105g\u0142ego (present continuous). Oto rozbicie gramatyczne: \"At 9 o'clock\" oznacza dok\u0142adny czas - dziewi\u0105ta. \"I've been watching\" to czas tera\u017aniejszy ci\u0105g\u0142y, w kt\u00f3rym \"I've been\" to skr\u00f3cona forma \"I have been\" (by\u0142em/by\u0142am) wskazuj\u0105ca na trwanie czynno\u015bci. \"Watching\" oznacza obserwowanie, a w kontek\u015bcie zdania oznacza ogl\u0105danie filmu. \"A film on TV\" oznacza film w telewizji, wskazuj\u0105c na medium, w kt\u00f3rym by\u0142 emitowany."
+        },
+        {
+            "id": 29,
+            "question": "When I got to the college, realized I ______ the course book at home.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had left",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "had been leaving",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "left",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "When I got to the college, realized I had left the course book at home.",
+                "pl": "Kiedy dotar\u0142em na uczelni\u0119, zda\u0142em sobie spraw\u0119, \u017ce zostawi\u0142em podr\u0119cznik w domu."
+            },
+            "explanation": "W zdaniu \"When I got to the college, I realized I had left the course book at home\" mamy do czynienia z czasem przesz\u0142ym prostym (past simple) oraz czasem przesz\u0142ym perfect (past perfect). Oto rozbicie gramatyczne: \"When I got to the college\" to stwierdzenie w czasie przesz\u0142ym prostym. \"Got\" to czas przesz\u0142y czasownika \"to get\" (dosta\u0107/przyj\u015b\u0107), a \"to the college\" oznacza dotarcie do college'u. \"I realized\" to stwierdzenie w czasie przesz\u0142ym prostym. \"Realized\" to czas przesz\u0142y czasownika \"to realize\" (zdawa\u0107 sobie spraw\u0119). \"I had left\" to forma czasownika \"to have left\" (zostawi\u0107) w czasie przesz\u0142ym perfect. Oznacza to, \u017ce zostawi\u0142em podr\u0119cznik w domu wcze\u015bniej ni\u017c moment dotarcia do college'u. \"The course book\" oznacza podr\u0119cznik do kursu, kt\u00f3ry by\u0142 potrzebny w college'u. \"At home\" oznacza w domu, wskazuj\u0105c miejsce, gdzie zosta\u0142 zostawiony podr\u0119cznik."
+        },
+        {
+            "id": 30,
+            "question": "We were at home ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "all yesterday day",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "yesterday all day",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "all day yesterday",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We were at home all day yesterday.",
+                "pl": "Wczoraj ca\u0142y dzie\u0144 byli\u015bmy w domu."
+            },
+            "explanation": "W zdaniu \"We were at home all day yesterday\" mamy do czynienia z czasem przesz\u0142ym prostym (past simple) oraz okre\u015bleniem czasu. Oto rozbicie gramatyczne: \"We\" oznacza nas, czyli grup\u0119 os\u00f3b, do kt\u00f3rych m\u00f3wimy. \"Were\" to czas przesz\u0142y czasownika \"to be\" (by\u0107) w pierwszej osobie liczby mnogiej (my). \"At home\" oznacza bycie w domu, wskazuj\u0105c miejsce, w kt\u00f3rym przebywali\u015bmy. \"All day\" oznacza ca\u0142y dzie\u0144, sugeruj\u0105c, \u017ce byli\u015bmy w domu przez ca\u0142y czas. \"Yesterday\" oznacza wczoraj, wskazuj\u0105c na konkretny dzie\u0144."
+        },
+        {
+            "id": 31,
+            "question": "That was ______ amazing film-I'd like to buy the DVD.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "a so",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "a such",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "such an",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "That was such an amazing film-I'd like to buy the DVD.",
+                "pl": "To by\u0142 niesamowity film \u2013 chcia\u0142bym kupi\u0107 DVD."
+            },
+            "explanation": "W zdaniu \"That was such an amazing film - I'd like to buy the DVD\" mamy do czynienia z opisem filmu oraz wyra\u017ceniem ch\u0119ci. Oto rozbicie gramatyczne: \"That was such an amazing film\" to stwierdzenie dotycz\u0105ce filmu. \"That\" oznacza ten, \"was\" to forma czasu przesz\u0142ego czasownika \"to be\" (by\u0107) w odniesieniu do filmu, \"such an amazing film\" oznacza niesamowity film, wyra\u017caj\u0105c pozytywne odczucia na jego temat. \"I'd like to buy\" to wyra\u017cenie ch\u0119ci. \"I'd\" to skr\u00f3cona forma \"I would\" (chcia\u0142bym/chcia\u0142abym), a \"like to buy\" oznacza ch\u0119\u0107 zakupu. \"The DVD\" oznacza p\u0142yt\u0119 DVD, kt\u00f3r\u0105 chcesz kupi\u0107."
+        },
+        {
+            "id": 32,
+            "question": "Sarah's ______ for work.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "often late",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "late often",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lately often",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Sarah's often late for work.",
+                "pl": "Sarah cz\u0119sto sp\u00f3\u017ania si\u0119 do pracy."
+            },
+            "explanation": "W zdaniu \"Sarah's often late for work\" mamy do czynienia z czasem tera\u017aniejszym prostym (present simple) oraz wyra\u017ceniem dotycz\u0105cym cz\u0119stotliwo\u015bci. Oto rozbicie gramatyczne: \"Sarah's\" to skr\u00f3cona forma \"Sarah is\" (Sarah jest), wskazuj\u0105ca na osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Often\" oznacza cz\u0119sto, sugeruj\u0105c, \u017ce to jest powtarzaj\u0105cy si\u0119 stan. \"Late for work\" oznacza sp\u00f3\u017anienie si\u0119 do pracy, wskazuj\u0105c na konkretne dzia\u0142anie lub sytuacj\u0119."
+        },
+        {
+            "id": 34,
+            "question": "Jeff ______ Linda for two years when they got engaged.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had known",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "had been knowing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "has known",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Jeff had known Linda for two years when they got engaged.",
+                "pl": "Jeff zna\u0142 Lind\u0119 od dw\u00f3ch lat, kiedy si\u0119 zar\u0119czyli."
+            },
+            "explanation": "W zdaniu \"Jeff had known Linda for two years when they got engaged\" mamy do czynienia z czasem przesz\u0142ym perfect (past perfect) oraz czasem przesz\u0142ym prostym (past simple). Oto rozbicie gramatyczne: \"Jeff had known Linda\" to zdanie w czasie przesz\u0142ym perfect. \"Had known\" to forma czasownika \"to have known\" (zna\u0107 w przesz\u0142o\u015bci) w czasie przesz\u0142ym perfect. Oznacza to, \u017ce Jeff pozna\u0142 Lind\u0119 wcze\u015bniej ni\u017c moment zar\u0119czyn. \"For two years\" oznacza przez dwa lata, wskazuj\u0105c na okres trwania znajomo\u015bci. \"When they got engaged\" to zdanie w czasie przesz\u0142ym prostym. \"When\" oznacza \"gdy\" lub \"kiedy\". \"They got engaged\" oznacza, \u017ce si\u0119 zar\u0119czyli, czyli dosz\u0142o do konkretnego wydarzenia w przesz\u0142o\u015bci."
+        },
+        {
+            "id": 35,
+            "question": "We  ______ twenty minutes for the bus when it finally arrived.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "waited",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "'d been waiting",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "were waiting",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We'd been waiting twenty minutes for the bus when it finally arrived.",
+                "pl": "Czekali\u015bmy dwadzie\u015bcia minut na autobus, kiedy w ko\u0144cu przyjecha\u0142."
+            },
+            "explanation": "W zdaniu \"We'd been waiting twenty minutes for the bus when it finally arrived\" mamy do czynienia z czasem przesz\u0142ym ci\u0105g\u0142ym (past perfect continuous) oraz czasem przesz\u0142ym prostym (past simple). Oto rozbicie gramatyczne: \"We'd been waiting\" to zdanie w czasie przesz\u0142ym ci\u0105g\u0142ym. \"We'd\" to skr\u00f3cona forma \"we had\" (mieli\u015bmy/byli\u015bmy), a \"been waiting\" to forma czasownika \"to wait\" (czeka\u0107) w czasie przesz\u0142ym ci\u0105g\u0142ym. Oznacza to, \u017ce trwali\u015bmy w stanie oczekiwania przez pewien okres czasu przed okre\u015blonym punktem w przesz\u0142o\u015bci. \"Twenty minutes\" oznacza dwadzie\u015bcia minut, sugeruj\u0105c d\u0142ugo\u015b\u0107 czasu oczekiwania. \"For the bus\" oznacza na autobus, wskazuj\u0105c na to, czego oczekiwali\u015bmy. \"When it finally arrived\" to zdanie w czasie przesz\u0142ym prostym. \"When\" oznacza \"gdy\" lub \"kiedy\", a \"it finally arrived\" oznacza, \u017ce autobus w ko\u0144cu przyjecha\u0142. \"Finally arrived\" oznacza moment, w kt\u00f3rym nast\u0105pi\u0142o oczekiwane wydarzenie."
+        },
+        {
+            "id": 36,
+            "question": "My little brother ______ about going to his first football match.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "extremely excited is",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "is excited extremely",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "is extremely excited",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "My little brother is extremely excited about going to his first football match.",
+                "pl": "M\u00f3j m\u0142odszy brat jest bardzo podekscytowany p\u00f3j\u015bciem na sw\u00f3j pierwszy mecz pi\u0142ki no\u017cnej."
+            },
+            "explanation": "W zdaniu \"My little brother is extremely excited about going to his first football match\" mamy do czynienia z opisem stanu emocjonalnego oraz wydarzenia przysz\u0142ego. Oto rozbicie gramatyczne: \"My little brother\" to m\u00f3j ma\u0142y brat, wskazuj\u0105cy na osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Is extremely excited\" to opis stanu emocjonalnego. \"Is\" to forma czasu tera\u017aniejszego czasownika \"to be\" (by\u0107), a \"extremely excited\" oznacza niezwykle podekscytowany, wyra\u017caj\u0105c intensywno\u015b\u0107 emocji. \"About going to his first football match\" oznacza podekscytowanie zwi\u0105zane z udzia\u0142em w pierwszym meczu pi\u0142ki no\u017cnej. \"Going to\" to wyra\u017cenie wskazuj\u0105ce na planowane wydarzenie w przysz\u0142o\u015bci, czyli udzia\u0142 w meczu. \"His first football match\" oznacza pierwszy mecz pi\u0142ki no\u017cnej, w kt\u00f3rym we\u017amie udzia\u0142."
+        },
+        {
+            "id": 37,
+            "question": "I met my wife when I ______ English in Greece.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "taught",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had taught",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "was teaching",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I met my wife when I was teaching English in Greece.",
+                "pl": "Swoj\u0105 \u017con\u0119 pozna\u0142em, kiedy uczy\u0142em angielskiego w Grecji."
+            },
+            "explanation": "W zdaniu \"I met my wife when I was teaching English in Greece\" mamy do czynienia z opisem spotkania oraz okre\u015bleniem czasu i miejsca. Oto rozbicie gramatyczne: \"I met my wife\" to stwierdzenie opisuj\u0105ce spotkanie z \u017con\u0105. \"Met\" oznacza spotka\u0142em, czyli mia\u0142o miejsce konkretne wydarzenie. \"When I was teaching English in Greece\" to zdanie wprowadzaj\u0105ce okre\u015blenie czasu i miejsca. \"When\" oznacza \"gdy\" lub \"kiedy\". \"I was teaching\" to czas przesz\u0142y czasownika \"to be\" (by\u0107) w formie ci\u0105g\u0142ej, wskazuj\u0105cy na trwanie czynno\u015bci nauczania. \"English\" oznacza j\u0119zyk angielski, kt\u00f3ry naucza\u0142e\u015b. \"In Greece\" oznacza w Grecji, wskazuj\u0105c na miejsce, w kt\u00f3rym odbywa\u0142a si\u0119 ta czynno\u015b\u0107."
+        },
+        {
+            "id": 38,
+            "question": "He got on the bus and ______ a seat near the back.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "was finding",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had found",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "found",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "He got on the bus and found a seat near the back.",
+                "pl": "Wsiad\u0142 do autobusu i znalaz\u0142 miejsce z ty\u0142u."
+            },
+            "explanation": "W zdaniu \"He got on the bus and found a seat near the back\" mamy do czynienia z opisem dzia\u0142ania i lokalizacji. Oto rozbicie gramatyczne: \"He\" oznacza ona osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Got on the bus\" oznacza wsiad\u0142 do autobusu, wskazuj\u0105c na dzia\u0142anie wej\u015bcia do pojazdu. \"And\" to sp\u00f3jnik, \u0142\u0105cz\u0105cy dwie czynno\u015bci. \"Found a seat\" oznacza znalaz\u0142 miejsce, wskazuj\u0105c na czynno\u015b\u0107 odnalezienia miejsca do siedzenia. \"Near the back\" oznacza blisko tylnej cz\u0119\u015bci, wskazuj\u0105c na lokalizacj\u0119 miejsca, kt\u00f3re znalaz\u0142."
+        },
+        {
+            "id": 39,
+            "question": "My sister ______ white bread.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "doesn't usually eat",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "doesn't eat usually",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "usually doesn't eat",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My sister doesn't usually eat white bread.",
+                "pl": "Moja siostra zwykle nie je bia\u0142ego chleba."
+            },
+            "explanation": "W zdaniu \"My sister doesn't usually eat white bread\" mamy do czynienia z opisem nawyk\u00f3w \u017cywieniowych. Oto rozbicie gramatyczne: \"My sister\" to moja siostra, wskazuj\u0105ca na osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Doesn't usually eat\" to stwierdzenie dotycz\u0105ce nawyku \u017cywieniowego. \"Doesn't\" to skr\u00f3cona forma \"does not\" (nie), wskazuj\u0105ca na negacj\u0119. \"Usually eat\" oznacza zazwyczaj nie je, wyra\u017caj\u0105c regularno\u015b\u0107 lub nawyk. \"White bread\" oznacza bia\u0142y chleb, wskazuj\u0105c na konkretny rodzaj \u017cywno\u015bci, kt\u00f3ry zazwyczaj nie jest spo\u017cywany przez siostr\u0119."
+        },
+        {
+            "id": 40,
+            "question": "I worked ______ that I achieved far more than I'd planned to.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "such hard",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "so hard",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "so hardly",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I worked so hard that I achieved far more than I'd planned to.",
+                "pl": "Pracowa\u0142em tak ci\u0119\u017cko, \u017ce osi\u0105gn\u0105\u0142em znacznie wi\u0119cej ni\u017c planowa\u0142em."
+            },
+            "explanation": "W zdaniu \"I worked so hard that I achieved far more than I'd planned to\" mamy do czynienia z opisem wysi\u0142ku i wyniku dzia\u0142ania. Oto rozbicie gramatyczne: \"I\" oznacza osob\u0119, kt\u00f3ra wykonywa\u0142a prac\u0119. \"Worked so hard\" oznacza pracowa\u0142em/pracowa\u0142am tak ci\u0119\u017cko, sugeruj\u0105c intensywno\u015b\u0107 wysi\u0142ku. \"That\" oznacza \"\u017ce\", wprowadzaj\u0105c zdanie podrz\u0119dne. \"I achieved far more\" oznacza osi\u0105gn\u0105\u0142em/osi\u0105gn\u0119\u0142am znacznie wi\u0119cej, wskazuj\u0105c na przewy\u017cszenie zak\u0142adanego celu lub oczekiwa\u0144. \"Than I'd planned to\" oznacza ni\u017c planowa\u0142em/planowa\u0142am, sugeruj\u0105c r\u00f3\u017cnic\u0119 mi\u0119dzy osi\u0105gni\u0119tym wynikiem a pierwotnym planem. \"I'd\" to skr\u00f3cona forma \"I had\" (ja mia\u0142em/mia\u0142am), a \"planned to\" oznacza planowa\u0142em/planowa\u0142am."
+        },
+        {
+            "id": 41,
+            "question": "Simon ______ because he was late.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "walked quickly",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "quickly walked",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "walked quick",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Simon walked quickly because he was late.",
+                "pl": "Simon szed\u0142 szybko, poniewa\u017c by\u0142 sp\u00f3\u017aniony."
+            },
+            "explanation": "W zdaniu \"Simon walked quickly because he was late\" mamy do czynienia z opisem dzia\u0142ania i przyczyny. Oto rozbicie gramatyczne: \"Simon\" to imi\u0119 osoby, o kt\u00f3rej m\u00f3wimy. \"Walked quickly\" oznacza szed\u0142 szybko, wskazuj\u0105c na spos\u00f3b poruszania si\u0119. \"Because\" oznacza poniewa\u017c, wprowadzaj\u0105c przyczyn\u0119. \"He was late\" oznacza, \u017ce sp\u00f3\u017ania\u0142 si\u0119, wyja\u015bniaj\u0105c przyczyn\u0119 po\u015bpiechu. \"He\" to on, odnosz\u0105cy si\u0119 do Simona."
+        },
+        {
+            "id": 42,
+            "question": "We didn't want to leave because the party ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hadn't been finishing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "didn't finish",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "hadn't finished",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We didn't want to leave because the party hadn't finished.",
+                "pl": "Nie chcieli\u015bmy wyje\u017cd\u017ca\u0107, bo impreza si\u0119 jeszcze nie sko\u0144czy\u0142a."
+            },
+            "explanation": "W zdaniu \"We didn't want to leave because the party hadn't finished\" mamy do czynienia z opisem pragnienia i przyczyny. Oto rozbicie gramatyczne: \"We\" oznacza nas, grup\u0119 os\u00f3b, kt\u00f3re nie chcia\u0142y wychodzi\u0107. \"Didn't want to leave\" oznacza nie chcieli\u015bmy wychodzi\u0107, wyra\u017caj\u0105c negacj\u0119 pragnienia opuszczenia miejsca. \"Didn't\" to skr\u00f3cona forma \"did not\" (nie), a \"want to leave\" oznacza chcie\u0107 wyj\u015b\u0107. \"Because\" oznacza poniewa\u017c, wprowadzaj\u0105c przyczyn\u0119. \"The party hadn't finished\" oznacza, \u017ce impreza si\u0119 nie sko\u0144czy\u0142a, wyja\u015bniaj\u0105c przyczyn\u0119 pozostania. \"The party\" to impreza, a \"hadn't finished\" to forma czasownika \"to finish\" (sko\u0144czy\u0107) w czasie przesz\u0142ym perfect, sugeruj\u0105ca, \u017ce impreza nadal trwa\u0142a w momencie podj\u0119cia decyzji o pozostaniu."
+        },
+        {
+            "id": 43,
+            "question": "Bill ______ funny",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "sometimes is extremely",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "sometimes extremely is",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "is sometimes extremely",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Bill is sometimes extremely funny.",
+                "pl": "Bill jest czasami bardzo zabawny."
+            },
+            "explanation": "W zdaniu \"Bill is sometimes extremely funny\" mamy do czynienia z opisem cechy charakteru i cz\u0119stotliwo\u015bci. Oto rozbicie gramatyczne: \"Bill\" to imi\u0119 osoby, o kt\u00f3rej m\u00f3wimy. \"Is sometimes\" to stwierdzenie opisuj\u0105ce cz\u0119stotliwo\u015b\u0107. \"Is\" to forma czasu tera\u017aniejszego czasownika \"to be\" (by\u0107), a \"sometimes\" oznacza czasami, sugeruj\u0105c okresowe zachowanie. \"Extremely funny\" oznacza niezwykle zabawny, opisuj\u0105c cech\u0119 charakteru. \"Extremely\" oznacza niezwykle, sugeruj\u0105c wysoki poziom zabawno\u015bci."
+        },
+        {
+            "id": 44,
+            "question": "When I visited my home town after 10 years, it ______ a lot.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had changed",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "was changing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "changed",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "When I visited my home town after 10 years, it had changed a lot.",
+                "pl": "Kiedy po 10 latach odwiedzi\u0142em moje rodzinne miasto, bardzo si\u0119 zmieni\u0142o."
+            },
+            "explanation": "W zdaniu \"When I visited my home town after 10 years, it had changed a lot\" mamy do czynienia z opisem odwiedzin i zmian. Oto rozbicie gramatyczne: \"When I visited\" oznacza, kiedy odwiedzi\u0142em/mam wizyt\u0119 w. \"My home town\" oznacza moje rodzinne miasto, wskazuj\u0105c na miejsce, kt\u00f3re odwiedzi\u0142e\u015b. \"After 10 years\" oznacza po 10 latach, sugeruj\u0105c d\u0142ug\u0105 przerw\u0119 od ostatniej wizyty. \"It had changed a lot\" oznacza, \u017ce wiele si\u0119 zmieni\u0142o. \"It\" odnosi si\u0119 do miasta, a \"had changed\" to forma czasownika \"to change\" (zmienia\u0107 si\u0119) w czasie przesz\u0142ym perfect, sugeruj\u0105ca, \u017ce zmiany ju\u017c mia\u0142y miejsce przed twoj\u0105 wizyt\u0105."
+        },
+        {
+            "id": 45,
+            "question": "Alan was pleased because he ______ all his emails when it was time to finish.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'d been answering",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "'d answered",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "answered",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Alan was pleased because he 'd answered all his emails when it was time to finish.",
+                "pl": "Alan by\u0142 zadowolony, poniewa\u017c odpowiedzia\u0142 na wszystkie jego e-maile, gdy nadszed\u0142 czas, aby zako\u0144czy\u0107."
+            },
+            "explanation": "W zdaniu \"Alan was pleased because he'd answered all his emails when it was time to finish\" mamy do czynienia z opisem emocji, dzia\u0142ania i okre\u015blenia czasu. Oto rozbicie gramatyczne: \"Alan\" to imi\u0119 osoby, o kt\u00f3rej m\u00f3wimy. \"Was pleased\" oznacza by\u0142 zadowolony, wyra\u017caj\u0105c stan emocjonalny. \"Because\" oznacza poniewa\u017c, wprowadzaj\u0105c przyczyn\u0119. \"He'd answered\" to skr\u00f3cona forma \"he had answered\" (on odpowiedzia\u0142), wskazuj\u0105ca na zako\u0144czenie czynno\u015bci przed pewnym punktem w przesz\u0142o\u015bci. \"Had answered\" to forma czasownika \"to answer\" (odpowiada\u0107) w czasie przesz\u0142ym perfect. \"All his emails\" oznacza wszystkie jego e-maile, wskazuj\u0105c na przedmiot czynno\u015bci. \"When it was time to finish\" oznacza, gdy nadszed\u0142 czas na zako\u0144czenie. \"When\" oznacza \"gdy\" lub \"kiedy\", a \"it was time to finish\" oznacza, \u017ce nadszed\u0142 moment zako\u0144czenia."
+        },
+        {
+            "id": 46,
+            "question": "These are ______ beautiful flowers. What are they called?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "so",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "such",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "so much",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "These are such beautiful flowers. What are they called?",
+                "pl": "To s\u0105 takie pi\u0119kne kwiaty. Jak one si\u0119 nazywaj\u0105?"
+            },
+            "explanation": "W zdaniu \"These are such beautiful flowers. What are they called?\" mamy do czynienia z opisem pi\u0119knych kwiat\u00f3w i pytaniem o ich nazw\u0119. Oto rozbicie gramatyczne: \"These\" oznacza te, wskazuj\u0105c na konkretne kwiaty, kt\u00f3re s\u0105 obecne w sytuacji. \"Are\" to forma czasu tera\u017aniejszego czasownika \"to be\" (by\u0107), wskazuj\u0105ca na obecno\u015b\u0107 lub w\u0142a\u015bciwo\u015b\u0107. \"Such beautiful flowers\" to opis tych pi\u0119knych kwiat\u00f3w. \"Such\" oznacza takie, \"beautiful\" oznacza pi\u0119kne, a \"flowers\" to kwiaty. \"What\" oznacza jakie, sugeruj\u0105c pytanie o nazw\u0119. \"Are they called\" to pytanie o nazw\u0119. \"Are\" to forma czasu tera\u017aniejszego czasownika \"to be\" (by\u0107), wskazuj\u0105ca na pytanie o to, jak s\u0105 nazwane."
+        },
+        {
+            "id": 47,
+            "question": "We ______ for two hours when they finally let us in.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'ve been quening",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "were queuing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "'d been queuing",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We'd been queuing for two hours when they finally let us in.",
+                "pl": "Stali\u015bmy w kolejce przez dwie godziny, kiedy w ko\u0144cu nas wpu\u015bcili."
+            },
+            "explanation": "W zdaniu \"We'd been queuing for two hours when they finally let us in\" mamy do czynienia z czasem przesz\u0142ym ci\u0105g\u0142ym (past perfect continuous) oraz czasem przesz\u0142ym prostym (past simple). Oto rozbicie gramatyczne: \"We'd been queuing\" to zdanie w czasie przesz\u0142ym ci\u0105g\u0142ym. \"We'd\" to skr\u00f3cona forma \"we had\" (mieli\u015bmy/byli\u015bmy), a \"been queuing\" to forma czasownika \"to queue\" (stawa\u0107 w kolejce) w czasie przesz\u0142ym ci\u0105g\u0142ym. Oznacza to, \u017ce stali\u015bmy w kolejce przez pewien okres czasu przed okre\u015blonym punktem w przesz\u0142o\u015bci. \"For two hours\" oznacza przez dwie godziny, wskazuj\u0105c na czas trwania. \"When they finally let us in\" to zdanie w czasie przesz\u0142ym prostym. \"When\" oznacza \"gdy\" lub \"kiedy\", a \"they finally let us in\" oznacza, \u017ce w ko\u0144cu pozwolono nam wej\u015b\u0107. \"Let us in\" oznacza zezwolenie na wej\u015bcie."
+        },
+        {
+            "id": 48,
+            "question": "I ______ to read newspapers.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "never have time",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "have never time",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "have time never",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I never have time to read newspapers.",
+                "pl": "Nigdy nie mam czasu na czytanie gazet."
+            },
+            "explanation": "W zdaniu \"I never have time to read newspapers\" mamy do czynienia z opisem braku czasu i rutyny. Oto rozbicie gramatyczne: \"I\" oznacza osob\u0119, kt\u00f3ra nie ma czasu na czytanie gazet. \"Never\" oznacza nigdy, sugeruj\u0105c brak regularno\u015bci w czynno\u015bci. \"Have time to read\" oznacza mie\u0107 czas na czytanie, wskazuj\u0105c na brak mo\u017cliwo\u015bci znalezienia czasu na t\u0119 czynno\u015b\u0107. \"Newspapers\" oznacza gazety, wskazuj\u0105c na konkretny rodzaj materia\u0142u do czytania."
+        },
+        {
+            "id": 49,
+            "question": "At 9 o'clock! I ______ a film on TV.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'ve been watching",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "was watching",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "'d been watching",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "At 9 o'clock! I've been watching a film on TV.",
+                "pl": "O godzinie 9! Ogl\u0105da\u0142em film w telewizji."
+            },
+            "explanation": "W zdaniu \"At 9 o'clock! I've been watching a film on TV\" mamy do czynienia z okre\u015bleniem czasu oraz opisem dzia\u0142ania. Oto rozbicie gramatyczne: \"At 9 o'clock\" oznacza o godzinie 9:00, wskazuj\u0105c na konkretny moment w czasie. \"I've been watching\" to stwierdzenie w czasie przesz\u0142ym ci\u0105g\u0142ym. \"I've\" to skr\u00f3cona forma \"I have\" (ja mam), a \"been watching\" oznacza obserwowa\u0142em/am przez pewien okres czasu. Wyra\u017ca to trwanie aktywno\u015bci ogl\u0105dania filmu. \"A film on TV\" oznacza film w telewizji, wskazuj\u0105c na konkretny rodzaj rozrywki."
+        },
+        {
+            "id": 50,
+            "question": "When I got to the college, realized I ______ the course book at home.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had left",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "had been leaving",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "left",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "When I got to the college, realized I had left the course book at home.",
+                "pl": "Kiedy dotar\u0142em na uczelni\u0119, zda\u0142em sobie spraw\u0119, \u017ce zostawi\u0142em podr\u0119cznik w domu."
+            },
+            "explanation": "W zdaniu \"When I got to the college, realized I had left the course book at home\" mamy do czynienia z opisem sytuacji i u\u015bwiadomienia sobie czego\u015b. Oto rozbicie gramatyczne: \"When I got to the college\" oznacza, \u017ce dotar\u0142em/dojecha\u0142em do college'u, wskazuj\u0105c na moment przybycia do miejsca. \"Realized\" oznacza u\u015bwiadomi\u0142em/u\u015bwiadomi\u0142am sobie, wyra\u017caj\u0105c moment \u015bwiadomo\u015bci lub rozpoznania sytuacji. \"I had left\" to czas przesz\u0142y czasownika \"to leave\" (zostawi\u0107) w czasie przesz\u0142ym perfect. Oznacza, \u017ce pozostawi\u0142em/przez zapomnia\u0142em podr\u0119cznik przed wcze\u015bniejszym momentem w przesz\u0142o\u015bci. \"The course book\" to podr\u0119cznik do kursu, wskazuj\u0105c na konkretny przedmiot, kt\u00f3ry zosta\u0142 zostawiony w domu. \"At home\" oznacza w domu, wskazuj\u0105c na miejsce, w kt\u00f3rym podr\u0119cznik zosta\u0142 pozostawiony."
+        },
+        {
+            "id": 51,
+            "question": "We were at home ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "all yesterday day",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "yesterday all day",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "all day yesterday",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We were at home all day yesterday.",
+                "pl": "Wczoraj ca\u0142y dzie\u0144 byli\u015bmy w domu."
+            },
+            "explanation": "W zdaniu \"We were at home all day yesterday\" mamy do czynienia z opisem miejsca i czasu. Oto rozbicie gramatyczne: \"We\" oznacza nas, grup\u0119 os\u00f3b, kt\u00f3re by\u0142y w domu. \"Were\" to forma czasu przesz\u0142ego czasownika \"to be\" (by\u0107), wskazuj\u0105ca na obecno\u015b\u0107 lub po\u0142o\u017cenie. \"At home\" oznacza w domu, wskazuj\u0105c na konkretn\u0105 lokalizacj\u0119. \"All day\" oznacza ca\u0142y dzie\u0144, sugeruj\u0105c d\u0142ugi okres czasu. \"Yesterday\" oznacza wczoraj, wskazuj\u0105c na konkretny dzie\u0144."
+        },
+        {
+            "id": 52,
+            "question": "That was ______ amazing film-I'd like to buy the DVD.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "a so",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "a such",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "such an",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "That was such an amazing film-I'd like to buy the DVD.",
+                "pl": "To by\u0142 niesamowity film \u2013 chcia\u0142bym kupi\u0107 DVD."
+            },
+            "explanation": "zdaniu \"That was such an amazing film - I'd like to buy the DVD\" mamy do czynienia z opisem filmu i wyra\u017ceniem ch\u0119ci. Oto rozbicie gramatyczne: \"That\" oznacza to, odnosz\u0105c si\u0119 do wcze\u015bniej wspomnianego filmu. \"Was\" to forma czasu przesz\u0142ego czasownika \"to be\" (by\u0107), wskazuj\u0105ca na przesz\u0142e wydarzenie lub stan. \"Such an amazing film\" oznacza taki niesamowity film, opisuj\u0105c wra\u017cenia zwi\u0105zane z filmem. \"I'd like to buy\" to wyra\u017cenie ch\u0119ci. \"I'd\" to skr\u00f3cona forma \"I would\" (chcia\u0142bym/chcia\u0142abym), a \"like to buy\" oznacza chcia\u0142bym/chcia\u0142abym kupi\u0107. \"The DVD\" oznacza p\u0142yt\u0119 DVD, wskazuj\u0105c na konkretny format filmu, kt\u00f3ry chcesz naby\u0107."
+        },
+        {
+            "id": 53,
+            "question": "Sarah's ______ for work.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "often late",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "late often",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lately often",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Sarah's often late for work.",
+                "pl": "Sarah cz\u0119sto sp\u00f3\u017ania si\u0119 do pracy."
+            },
+            "explanation": "W zdaniu \"Sarah's often late for work\" mamy do czynienia z opisem nawyku lub powtarzaj\u0105cego si\u0119 zdarzenia. Oto rozbicie gramatyczne: \"Sarah's\" to skr\u00f3cona forma \"Sarah is\" (Sarah jest), wskazuj\u0105ca na osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Often\" oznacza cz\u0119sto, sugeruj\u0105c powtarzalno\u015b\u0107 zdarzenia. \"Late for work\" oznacza sp\u00f3\u017ania si\u0119 do pracy, opisuj\u0105c konkretn\u0105 sytuacj\u0119."
+        },
+        {
+            "id": 54,
+            "question": "Jeff ______ Linda for two years when they got engaged.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had known",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "had been knowing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "has known",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Jeff had known Linda for two years when they got engaged.",
+                "pl": "Jeff zna\u0142 Lind\u0119 od dw\u00f3ch lat, kiedy si\u0119 zar\u0119czyli."
+            },
+            "explanation": "W zdaniu \"Jeff had known Linda for two years when they got engaged\" mamy do czynienia z opisem znajomo\u015bci i wydarzenia przesz\u0142ego. Oto rozbicie gramatyczne: \"Jeff\" to imi\u0119 osoby, o kt\u00f3rej m\u00f3wimy. \"Had known\" to czas przesz\u0142y czasownika \"to know\" (zna\u0107) w czasie przesz\u0142ym perfect. Oznacza, \u017ce Jeff mia\u0142 ju\u017c znajomo\u015b\u0107 Lindy przed okre\u015blonym punktem w przesz\u0142o\u015bci. \"Linda\" to imi\u0119 osoby, z kt\u00f3r\u0105 Jeff by\u0142 zaznajomiony. \"For two years\" oznacza przez dwa lata, sugeruj\u0105c czas trwania znajomo\u015bci. \"When they got engaged\" oznacza, gdy si\u0119 zar\u0119czyli. \"When\" oznacza \"gdy\" lub \"kiedy\", a \"they got engaged\" oznacza moment, w kt\u00f3rym dosz\u0142o do zar\u0119czyn."
+        },
+        {
+            "id": 55,
+            "question": "We  ______ twenty minutes for the bus when it finally arrived.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "waited",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "'d been waiting",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "were waiting",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We'd been waiting twenty minutes for the bus when it finally arrived.",
+                "pl": "Czekali\u015bmy dwadzie\u015bcia minut na autobus, kiedy w ko\u0144cu przyjecha\u0142."
+            },
+            "explanation": "W zdaniu \"We'd been waiting twenty minutes for the bus when it finally arrived\" mamy do czynienia z opisem czasu trwania oczekiwania i momentu przyjazdu autobusu. Oto rozbicie gramatyczne: \"We'd been waiting\" to czas przesz\u0142y ci\u0105g\u0142y (past perfect continuous) czasownika \"to wait\" (czeka\u0107). \"We'd\" to skr\u00f3cona forma \"we had\" (my mieli\u015bmy/byli\u015bmy), a \"been waiting\" oznacza, \u017ce byli\u015bmy w trakcie oczekiwania przez pewien okres czasu. \"Twenty minutes\" oznacza dwadzie\u015bcia minut, wskazuj\u0105c na czas trwania oczekiwania. \"For the bus\" oznacza na autobus, wskazuj\u0105c na cel naszego oczekiwania. \"When\" oznacza \"gdy\" lub \"kiedy\", wprowadzaj\u0105c moment w czasie. \"It finally arrived\" oznacza, \u017ce autobus w ko\u0144cu przyjecha\u0142. \"It\" odnosi si\u0119 do autobusu, a \"finally arrived\" oznacza moment, w kt\u00f3rym si\u0119 pojawi\u0142."
+        },
+        {
+            "id": 56,
+            "question": "My little brother ______ about going to his first football match.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "extremely excited is",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "is excited extremely",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "is extremely excited",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "My little brother is extremely excited about going to his first football match.",
+                "pl": "M\u00f3j m\u0142odszy brat jest bardzo podekscytowany p\u00f3j\u015bciem na sw\u00f3j pierwszy mecz pi\u0142ki no\u017cnej."
+            },
+            "explanation": "W zdaniu \"My little brother is extremely excited about going to his first football match\" mamy do czynienia z opisem emocji i wydarzenia przysz\u0142ego. Oto rozbicie gramatyczne: \"My little brother\" to m\u00f3j m\u0142odszy brat, wskazuj\u0105c na osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Is extremely excited\" oznacza jest niezwykle podekscytowany, opisuj\u0105c intensywno\u015b\u0107 emocji. \"About going to his first football match\" oznacza zwi\u0105zane z wyjazdem na jego pierwszy mecz pi\u0142ki no\u017cnej. \"Going to\" oznacza wyjazd na, wskazuj\u0105c na planowane wydarzenie w przysz\u0142o\u015bci. \"His first football match\" to jego pierwszy mecz pi\u0142ki no\u017cnej, opisuj\u0105cy konkretn\u0105 okazj\u0119."
+        },
+        {
+            "id": 57,
+            "question": "I met my wife when I ______ English in Greece.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "taught",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had taught",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "was teaching",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I met my wife when I was teaching English in Greece.",
+                "pl": "Swoj\u0105 \u017con\u0119 pozna\u0142em, kiedy uczy\u0142em angielskiego w Grecji."
+            },
+            "explanation": "\"I met\" - to czas przesz\u0142y prosty czasownika \"to meet\" (spotyka\u0107). Forma ta wskazuje na jednorazowe zdarzenie w przesz\u0142o\u015bci, kiedy osoba spotka\u0142a swoj\u0105 \u017con\u0119. \"When\" - to sp\u00f3jnik wprowadzaj\u0105cy zdanie podrz\u0119dne okoliczno\u015bciowe. W tym przypadku \u0142\u0105czy zdanie g\u0142\u00f3wne (I met my wife) z okoliczno\u015bci\u0105 (I was teaching English in Greece), wyra\u017caj\u0105c\u0105 czas i miejsce spotkania. \"I was teaching\" - to czas przesz\u0142y ci\u0105g\u0142y czasownika \"to teach\" (uczy\u0107). Forma ta wskazuje na trwaj\u0105c\u0105 czynno\u015b\u0107 w przesz\u0142o\u015bci. W tym przypadku, oznacza, \u017ce osoba uczy\u0142a angielskiego w Grecji w momencie, kiedy spotka\u0142a swoj\u0105 \u017con\u0119. \"English in Greece\" - to fraza okre\u015blaj\u0105ca. \"English\" oznacza j\u0119zyk angielski, a \"in Greece\" oznacza w Grecji, wskazuj\u0105c na konkretne miejsce, gdzie osoba uczy\u0142a j\u0119zyka angielskiego."
+        },
+        {
+            "id": 58,
+            "question": "He got on the bus and ______ a seat near the back.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "was finding",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "had found",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "found",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "He got on the bus and found a seat near the back.",
+                "pl": "Wsiad\u0142 do autobusu i znalaz\u0142 miejsce z ty\u0142u."
+            },
+            "explanation": "He got\" - to czas przesz\u0142y prosty czasownika \"to get\" (wsiada\u0107). Forma ta wskazuje na jednorazowe zdarzenie w przesz\u0142o\u015bci, kiedy osoba wsiad\u0142a do autobusu. \"On the bus\" - to fraza okre\u015blaj\u0105ca. \"On\" oznacza na, wskazuj\u0105c na miejsce, gdzie osoba wsiad\u0142a. \"The bus\" to autobus, odnosz\u0105cy si\u0119 do konkretnego pojazdu. \"And\" - to sp\u00f3jnik, \u0142\u0105cz\u0105cy dwie czynno\u015bci - wsiadanie do autobusu i znalezienie miejsca. \"Found\" - to czas przesz\u0142y prosty czasownika \"to find\" (znale\u017a\u0107). Forma ta wskazuje na jednorazowe zdarzenie w przesz\u0142o\u015bci, kiedy osoba znalaz\u0142a miejsce w autobusie. \"A seat\" - to fraza okre\u015blaj\u0105ca. \"A\" to nieokre\u015blony przedimek, a \"seat\" oznacza miejsce siedz\u0105ce. \"Near the back\" - to fraza okre\u015blaj\u0105ca. \"Near\" oznacza blisko, a \"the back\" oznacza ty\u0142, wskazuj\u0105c na po\u0142o\u017cenie miejsca siedz\u0105cego w autobusie."
+        },
+        {
+            "id": 59,
+            "question": "My sister ______ white bread.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "doesn't usually eat",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "doesn't eat usually",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "usually doesn't eat",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My sister doesn't usually eat white bread.",
+                "pl": "Moja siostra zwykle nie je bia\u0142ego chleba."
+            },
+            "explanation": "\"My sister\" to moja siostra, wskazuj\u0105c na osob\u0119, o kt\u00f3rej m\u00f3wimy. \"Doesn't\" to forma skr\u00f3cona czasu tera\u017aniejszego czasownika \"to do\" (robi\u0107) w negatywie. Oznacza, \u017ce siostra nie wykonuje okre\u015blonej czynno\u015bci. \"Usually\" oznacza zazwyczaj, sugeruj\u0105c cz\u0119stotliwo\u015b\u0107 lub rutyn\u0119. \"Eat\" to forma podstawowa czasownika \"to eat\" (je\u015b\u0107), wskazuj\u0105ca na konkretn\u0105 czynno\u015b\u0107 jedzenia. \"White bread\" oznacza bia\u0142y chleb, wskazuj\u0105c na konkretny rodzaj \u017cywno\u015bci."
+        },
+        {
+            "id": 60,
+            "question": "I worked ______ that I achieved far more than I'd planned to.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "such hard",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "so hard",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "so hardly",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I worked so hard that I achieved far more than I'd planned to.",
+                "pl": "Pracowa\u0142em tak ci\u0119\u017cko, \u017ce osi\u0105gn\u0105\u0142em znacznie wi\u0119cej ni\u017c planowa\u0142em."
+            },
+            "explanation": "W zdaniu \"I worked so hard that I achieved far more than I'd planned to\" mamy do czynienia z opisem wysi\u0142ku, osi\u0105gni\u0119cia i plan\u00f3w. Oto rozbicie gramatyczne: \"I\" oznacza osob\u0119, kt\u00f3ra pracowa\u0142a ci\u0119\u017cko. \"Worked\" to czas przesz\u0142y prosty czasownika \"to work\" (pracowa\u0107), wskazuj\u0105cy na wykonywan\u0105 czynno\u015b\u0107. \"So hard\" oznacza tak ci\u0119\u017cko, sugeruj\u0105c intensywno\u015b\u0107 wysi\u0142ku. \"That\" to sp\u00f3jnik wprowadzaj\u0105cy zdanie podrz\u0119dne okoliczno\u015bciowe przyczyny. W tym przypadku \u0142\u0105czy zdanie g\u0142\u00f3wne (I achieved far more) z okoliczno\u015bci\u0105 (I worked so hard), wyra\u017caj\u0105c\u0105 pow\u00f3d lub przyczyn\u0119. \"Achieved\" to czas przesz\u0142y prosty czasownika \"to achieve\" (osi\u0105gn\u0105\u0107), opisuj\u0105cy dokonane osi\u0105gni\u0119cie. \"Far more\" oznacza o wiele wi\u0119cej, sugeruj\u0105c znaczn\u0105 przewag\u0119. \"Than\" oznacza ni\u017c, wprowadzaj\u0105c por\u00f3wnanie. \"I'd planned to\" to skr\u00f3cona forma \"I had planned to\" (planowa\u0142em/planowa\u0142am), wskazuj\u0105ca na pierwotne plany osoby."
+        },
+        {
+            "id": 61,
+            "question": "Simon ______ because he was late.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "walked quickly",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "quickly walked",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "walked quick",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Simon walked quickly because he was late.",
+                "pl": "Simon szed\u0142 szybko, poniewa\u017c by\u0142 sp\u00f3\u017aniony."
+            },
+            "explanation": "W zdaniu \"Simon walked quickly because he was late\", mamy do czynienia z dwoma formami czasu przesz\u0142ego: czasem przesz\u0142ym prostym (past simple) i czasem przesz\u0142ym ci\u0105g\u0142ym (past continuous). Oto ich opis: \"Simon walked\" - to czas przesz\u0142y prosty (past simple) czasownika \"to walk\" (chodzi\u0107). Forma ta wskazuje na jednorazowe zdarzenie w przesz\u0142o\u015bci, kiedy Simon szed\u0142 lub chodzi\u0142. \"Quickly\" - to przys\u0142\u00f3wek, kt\u00f3ry modyfikuje czasownik \"walked\" i oznacza szybkie tempo ruchu. \"Because\" - to sp\u00f3jnik wprowadzaj\u0105cy zdanie podrz\u0119dne przyczyny. W tym przypadku \u0142\u0105czy zdanie g\u0142\u00f3wne (Simon walked quickly) z przyczyn\u0105 (he was late), wyra\u017caj\u0105c\u0105 pow\u00f3d lub przyczyn\u0119 szybkiego chodzenia. \"He was late\" - to czas przesz\u0142y prosty (past simple) czasownika \"to be\" (by\u0107). Forma ta wskazuje na stan lub okoliczno\u015b\u0107, kt\u00f3ra wyst\u0119powa\u0142a w przesz\u0142o\u015bci, w tym przypadku Simon by\u0142 sp\u00f3\u017aniony."
+        },
+        {
+            "id": 62,
+            "question": "We didn't want to leave because the party ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hadn't been finishing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "didn't finish",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "hadn't finished",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "We didn't want to leave because the party hadn't finished.",
+                "pl": "Nie chcieli\u015bmy wyje\u017cd\u017ca\u0107, bo impreza si\u0119 jeszcze nie sko\u0144czy\u0142a."
+            },
+            "explanation": "W zdaniu \"We didn't want to leave because the party hadn't finished\" mamy do czynienia z dwoma formami czasu przesz\u0142ego: czasem przesz\u0142ym prostym (past simple) i czasem przesz\u0142ym perfect (past perfect). Oto ich opis: \"We didn't want to leave\" - to czas przesz\u0142y prosty (past simple) czasownika \"to want\" (chcie\u0107) w formie przecz\u0105cej. Forma ta wskazuje na jednorazowe zdarzenie w przesz\u0142o\u015bci, kiedy nie chcieli\u015bmy opu\u015bci\u0107. \"Because\" - to sp\u00f3jnik wprowadzaj\u0105cy zdanie podrz\u0119dne przyczyny. W tym przypadku \u0142\u0105czy zdanie g\u0142\u00f3wne (We didn't want to leave) z przyczyn\u0105 (the party hadn't finished), wyra\u017caj\u0105c\u0105 pow\u00f3d lub przyczyn\u0119 niech\u0119ci do opuszczenia. \"The party hadn't finished\" - to czas przesz\u0142y perfect (past perfect) czasownika \"to finish\" (ko\u0144czy\u0107). Forma ta wskazuje na zdarzenie, kt\u00f3re mia\u0142o miejsce przed innym zdarzeniem w przesz\u0142o\u015bci. W tym przypadku oznacza, \u017ce impreza nie sko\u0144czy\u0142a si\u0119 przed chwil\u0105, kiedy rozwa\u017cali\u015bmy opuszczenie."
+        },
+        {
+            "id": 63,
+            "question": "Bill ______ funny.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "sometimes is extremely",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "sometimes extremely is",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "is sometimes extremely",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Bill is sometimes extremely funny.",
+                "pl": "Bill jest czasami bardzo zabawny."
+            },
+            "explanation": "W zdaniu \"Bill is sometimes extremely funny\" mamy do czynienia z czasem tera\u017aniejszym (present simple) oraz stopniem przys\u0142\u00f3wka. Oto ich opis: \"Bill\" to imi\u0119 osoby, o kt\u00f3rej m\u00f3wimy. \"Is\" to czas tera\u017aniejszy (present simple) czasownika \"to be\" (by\u0107), wskazuj\u0105cy na obecny stan lub cech\u0119 osoby. \"Sometimes\" oznacza czasami, sugeruj\u0105c nieregularno\u015b\u0107 lub okazjonalno\u015b\u0107. \"Extremely funny\" oznacza niezwykle zabawnego. \"Extremely\" to stopie\u0144 przys\u0142\u00f3wka, wskazuj\u0105cy na intensywno\u015b\u0107, a \"funny\" oznacza zabawnego. Podsumowuj\u0105c, zdanie \"Bill is sometimes extremely funny\" jest w czasie tera\u017aniejszym (present simple), opisuje obecn\u0105 cech\u0119 lub stan osoby i wyra\u017ca, \u017ce Bill jest czasami niezwykle zabawny."
+        },
+        {
+            "id": 64,
+            "question": "When I visited my home town after 10 years, it ______ a lot.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had changed",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "was changing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "changed",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "When I visited my home town after 10 years, it had changed a lot.",
+                "pl": "Kiedy po 10 latach odwiedzi\u0142em moje rodzinne miasto, bardzo si\u0119 zmieni\u0142o."
+            },
+            "explanation": "W zdaniu \"When I visited my home town after 10 years, it had changed a lot\" mamy do czynienia z czasem przesz\u0142ym (past simple) oraz czasem przesz\u0142ym perfect (past perfect). Oto ich opis: \"When I visited\" - to czas przesz\u0142y prosty (past simple) czasownika \"to visit\" (odwiedza\u0107). Forma ta wskazuje na jednorazowe zdarzenie w przesz\u0142o\u015bci, kiedy osoba odwiedzi\u0142a swoje rodzinne miasto. \"My home town\" - to miejsce, wskazuj\u0105ce na rodzinne miasto osoby. \"After 10 years\" - to okre\u015blenie czasowe, sugeruj\u0105ce up\u0142yw czasu. Oznacza, \u017ce od ostatniej wizyty min\u0119\u0142o 10 lat. \"It had changed\" - to czas przesz\u0142y perfect (past perfect) czasownika \"to change\" (zmienia\u0107). Forma ta wskazuje na zdarzenie, kt\u00f3re mia\u0142o miejsce przed innym zdarzeniem w przesz\u0142o\u015bci. W tym przypadku oznacza, \u017ce miasto zmieni\u0142o si\u0119 przed wizyt\u0105 po 10 latach. \"A lot\" - to wyra\u017cenie, kt\u00f3re oznacza du\u017co, sugeruj\u0105c znaczn\u0105 ilo\u015b\u0107 zmian. Podsumowuj\u0105c, zdanie \"When I visited my home town after 10 years, it had changed a lot\" jest w czasie przesz\u0142ym (past simple i past perfect), opisuje odwiedziny w rodzinnej miejscowo\u015bci po 10 latach i wyra\u017ca, \u017ce miasto zmieni\u0142o si\u0119 znacznie."
+        },
+        {
+            "id": 65,
+            "question": "Alan was pleased because he ______ all his emails when it was time to finish.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "'d been answering",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "'d answered",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "answered",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Alan was pleased because he 'd answered all his emails when it was time to finish.",
+                "pl": "Alan by\u0142 zadowolony, poniewa\u017c odpowiedzia\u0142 na wszystkie jego e-maile, gdy nadszed\u0142 czas, aby zako\u0144czy\u0107."
+            },
+            "explanation": "W zdaniu \"Alan was pleased because he'd answered all his emails when it was time to finish\" mamy do czynienia z czasem przesz\u0142ym (past simple) oraz czasem przesz\u0142ym perfect (past perfect). Oto ich opis: \"Alan was pleased\" - to czas przesz\u0142y prosty (past simple) czasownika \"to be\" (by\u0107) oraz przymiotnika \"pleased\" (zadowolony). Forma ta wskazuje na stan lub emocj\u0119 w przesz\u0142o\u015bci, kiedy Alan by\u0142 zadowolony. \"Because\" - to sp\u00f3jnik wprowadzaj\u0105cy zdanie podrz\u0119dne przyczyny. W tym przypadku \u0142\u0105czy zdanie g\u0142\u00f3wne (Alan was pleased) z przyczyn\u0105 (he'd answered all his emails), wyra\u017caj\u0105c\u0105 pow\u00f3d lub przyczyn\u0119 zadowolenia. \"He'd answered\" - to czas przesz\u0142y perfect (past perfect) czasownika \"to answer\" (odpowiada\u0107). Forma ta wskazuje na zdarzenie, kt\u00f3re mia\u0142o miejsce przed innym zdarzeniem w przesz\u0142o\u015bci. W tym przypadku oznacza, \u017ce Alan odpowiedzia\u0142 na wszystkie swoje maile przed momentem, kiedy nadszed\u0142 czas na zako\u0144czenie. \"All his emails\" - to wyra\u017cenie, kt\u00f3re oznacza wszystkie jego maile, wskazuj\u0105c na konkretne elementy, na kt\u00f3re Alan odpowiedzia\u0142. \"When it was time to finish\" - to okre\u015blenie czasowe, sugeruj\u0105ce moment, kiedy nadszed\u0142 czas na zako\u0144czenie. Oznacza, \u017ce Alan odpowiedzia\u0142 na maile przed tym momentem. Podsumowuj\u0105c, zdanie \"Alan was pleased because he'd answered all his emails when it was time to finish\" jest w czasie przesz\u0142ym (past simple i past perfect), opisuje zadowolenie Alana i wyra\u017ca, \u017ce odpowiedzia\u0142 na wszystkie maile przed momentem zako\u0144czenia."
+        }
+    ]
+}

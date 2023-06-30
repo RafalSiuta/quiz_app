@@ -24,15 +24,25 @@ class _HomePageState extends State<HomePage> {
     MenuModel(title: "Grammar 80", imgPath: "assets/img/edu3.png", quizColor: Color(0xff9437FF)),
     MenuModel(title: "Vocabulary 80", imgPath: "assets/img/edu2.png", quizColor: Color(0xffFF40FF)),
 
-    MenuModel(title: "Vocabulary 25", imgPath: "assets/img/edu1.png", quizColor: Color(0xff9437FF)),
-    MenuModel(title: "Grammar 25", imgPath: "assets/img/edu5.png", quizColor: Color(0xff9437FF)),
+    MenuModel(title: "Vocabulary 45", imgPath: "assets/img/edu1.png", quizColor: Color(0xff9437FF)),
+    MenuModel(title: "Grammar 65", imgPath: "assets/img/edu5.png", quizColor: Color(0xff9437FF)),
     MenuModel(title: "Marathon", imgPath: "assets/img/edu4.png", quizColor: Color(0xff9437FF)),
   ];
 
 
 
-  final List<Question> quiz_1 = [];
-  final List<Question> quiz_25 = [];
+  final List<Question> grammar_80 = [];
+  final List<Question> grammar_65 = [];
+  final List<Question> vocabulary_80 = [];
+  final List<Question> vocabulary_45 = [];
+  final List<Question> marathon = [];
+
+  List<String> pathList = [
+    "assets/grammar_80.json",
+    "assets/grammar_65.json",
+    "assets/vocabulary_80.json",
+    "assets/vocabulary_45.json"
+  ];
 
   void res(String asset_path, List<Question> list) async{
     var input = await rootBundle.loadString(asset_path);//File("assets/grammar_80.json").readAsStringSync();
@@ -55,10 +65,31 @@ class _HomePageState extends State<HomePage> {
     });
   }
 
+  void marathonQuiz(List asset_path_list, List<Question> list) async{
+
+    asset_path_list.forEach((path) async {
+      var input = await rootBundle.loadString(path);//File("assets/grammar_80.json").readAsStringSync();
+      var jsonData = jsonDecode(input);
+      final map = jsonData['questions'];
+      map.forEach((el){
+        final question = Question.fromJson(el);
+        list.add(question);
+      });
+      setState(() {
+        list.shuffle();
+      });
+    });
+
+  }
+
  @override
   void initState() {
-    res("assets/grammar_80.json", quiz_1);
-    res("assets/grammar_25.json", quiz_25);
+    res("assets/grammar_80.json", grammar_80);
+    res("assets/grammar_65.json", grammar_65);
+    res("assets/vocabulary_80.json", vocabulary_80);
+    res("assets/vocabulary_45.json", vocabulary_45);
+    marathonQuiz(pathList, marathon);
+
     super.initState();
   }
 
@@ -93,17 +124,17 @@ class _HomePageState extends State<HomePage> {
                     Navigator.push(
                       context,
                       MaterialPageRoute(builder: (context) {
-                        var page = QuizPage(quiz_1, Color(0xff9437FF));
+                        var page = QuizPage(grammar_80, Color(0xff9437FF));
                         if(index == 0){
-                          page = QuizPage(quiz_1,Color(0xff9437FF) );
+                          page = QuizPage(grammar_80,Color(0xff9437FF));
                         }else if(index == 1){
-                          page = QuizPage(quiz_25,Color(0xffFF40FF) );
+                          page = QuizPage(vocabulary_80,Color(0xffFF40FF));
                         }else if(index == 2){
-                          return page;
+                          page = QuizPage(vocabulary_45,Color(0xffFF40FF));
                         }else if(index == 3){
-                          return page;
+                          page = QuizPage(grammar_65,Color(0xff9437FF));
                         }else if(index == 4){
-                          return page;
+                          page = QuizPage(marathon,Color(0xff9437FF));
                         }
                         return page;
                       }),

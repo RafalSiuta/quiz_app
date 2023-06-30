@@ -64,6 +64,9 @@ flutter:
   assets:
     - assets/grammar_80.json
     - assets/grammar_25.json
+    - assets/grammar_65.json
+    - assets/vocabulary_80.json
+    - assets/vocabulary_45.json
     - assets/img/
 
   # An image asset can refer to one or more resolution-specific "variants", see

@@ -1,0 +1,2085 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "Someone who is emotionally in control.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "moody",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "eccentric",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "well-balanced",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Someone who is emotionally in control.",
+                "pl": "Kto\u015b, kto panuje nad emocjami."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) well-balanced (zr\u00f3wnowa\u017cony emocjonalnie), inne podpowiedzi znacz\u0105: moody - kapry\u015bny,eccentric- ekscentryczny."
+        },
+        {
+            "id": 2,
+            "question": "The kind of person who gets angry easily.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "bad-tempered",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "stubborn",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "reserved",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The kind of person who gets angry easily.",
+                "pl": "Typ osoby, kt\u00f3ra \u0142atwo si\u0119 denerwuje."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) bad-tempered - w z\u0142ym humorze, inne podpowiedzi znacz\u0105: B) stubborn - uparty C) reserved - pow\u015bci\u0105gliwy."
+        },
+        {
+            "id": 3,
+            "question": "A person who has a sense of humour.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "loyal",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "funny",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "easy",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "A person who has a sense of humour.",
+                "pl": "Osoba, kt\u00f3ra ma poczucie humoru."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) funny - zabawny, inne podpowiedzi znacz\u0105: A) loyal - lojalny, C) easy-going - wyluzowany."
+        },
+        {
+            "id": 4,
+            "question": "Someone who thinks he / she\u2019s better and more important than other people.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "bossy",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "conscientious",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "arrogant",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Someone who thinks he / she\u2019s better and more important than other people.",
+                "pl": "Kto\u015b, kto my\u015bli, \u017ce jest lepszy i wa\u017cniejszy ni\u017c inni ludzie."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) arrogant (arogancki), inne podpowiedzi znacz\u0105: A) bossy - w\u0142adczy B) conscientious - sumienny."
+        },
+        {
+            "id": 5,
+            "question": "A person who expresses his / her ideas strongly and with confidence.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "sociable",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "assertive",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "wise",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "A person who expresses his / her ideas strongly and with confidence.",
+                "pl": "Osoba, kt\u00f3ra wyra\u017ca swoje idee zdecydowanie i z pewno\u015bci\u0105 siebie."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) assertive (asertywny), inne podpowiedzi znacz\u0105: A) sociable - towarzyski B) assertive - asertywny."
+        },
+        {
+            "id": 6,
+            "question": "The kind of person who isn\u2019t good at sharing things.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "impulsive",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "pessimistic",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "possessive",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The kind of person who isn\u2019t good at sharing things.",
+                "pl": "Typ osoby, kt\u00f3ra nie jest dobra w dzieleniu si\u0119 rzeczami."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) possessive (zaborczy, zazdrosny), inne ppodpowiedzi znacz\u0105: A) impulsive - impulsywny, B) pessimistic - pesymistyczny."
+        },
+        {
+            "id": 7,
+            "question": "Somebody who doesn\u2019t get easily stressed.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "vain",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "calm",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "cheerful",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Somebody who doesn\u2019t get easily stressed.",
+                "pl": "Kto\u015b, kto nie poddaje si\u0119 \u0142atwo stresowi."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) calm (spokojny), inne podpowiedzi znacz\u0105: A) vain - pr\u00f3\u017cny, C) cheerful - radosny."
+        },
+        {
+            "id": 8,
+            "question": "Jack often finds it difficult to breathe. He’s got ______. ",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "a rash",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "diarrhoea",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "asthma",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Jack often finds it difficult to breathe. He\u2019s got asthma.",
+                "pl": "Jackowi cz\u0119sto trudno jest oddycha\u0107. Ma astm\u0119."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) asthma (astma), inne podpowiedzi znacz\u0105: A) a rash - wysypka B) diarrhoea - biegunka."
+        },
+        {
+            "id": 9,
+            "question": "I hate ________ because I\u2019m scared of needles.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "bandages",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "injections",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "X",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I hate injections because I\u2019m scared of needles.",
+                "pl": "Nienawidz\u0119 zastrzyk\u00f3w, bo boj\u0119 si\u0119 igie\u0142."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) injections - zastrzyki, inne podpowiedzi znacz\u0105: A) bandages - banda\u017c, C) X-rays - prze\u015bwietlenia rentgenowskie."
+        },
+        {
+            "id": 10,
+            "question": "I ________ and then I fainted.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "had a blister",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "felt dizzy",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "was unconscious",
+                    "is_correct": false
+                }
+
+            ],
+            "translation": {
+                "en": "I felt dizzy and then I fainted.",
+                "pl": "Zakręciło mi się w głowie, a potem zemdlałam."
+            },
+            "explanation": "Poprawna odpowiedź to B) felt dizzy - czuł zawroty głowy, inne podpowiedzi znaczą: A) had a blister - miał pęcherz, C) was unconscious - był nieprzytomny.\n"
+        },
+        {
+            "id": 11,
+            "question": "I’ve got a(n) ________. It hurts when I swallow food.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "headache",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "earache",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "sore throat",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I\u2019ve got a(n) sore throat. It hurts when I swallow food.",
+                "pl": "Mam b\u00f3l gard\u0142a. Boli mnie, gdy po\u0142ykam jedzenie."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) sore throat - b\u00f3l gard\u0142a, inne podpowiedzi znacz\u0105: A) headache - b\u00f3l g\u0142owy B) earache - b\u00f3l ucha."
+        },
+        {
+            "id": 12,
+            "question": "I cut my hand badly on a knife and had to have five ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "scans",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "stitches",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "wounds",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I cut my hand badly on a knife and had to have five stitches.",
+                "pl": "Ci\u0119\u017cko skaleczy\u0142em si\u0119 no\u017cem w r\u0119k\u0119 i musia\u0142em mie\u0107 pi\u0119\u0107 szw\u00f3w."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) stitches - szwy, inne podpowiedzi znacz\u0105:  A) scans - skany, C) wounds - rany."
+        },
+        {
+            "id": 13,
+            "question": "My back ________ when I spend too long sitting at my computer.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "aches",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "vomits",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "attacks",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My back aches when I spend too long sitting at my computer.",
+                "pl": "Bol\u0105 mnie plecy, gdy zbyt d\u0142ugo siedz\u0119 przed komputerem."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) aches - boli, inne podpowiedzi znacz\u0105: B) vomits - wymiotuje C) attacks - atakuje."
+        },
+        {
+            "id": 14,
+            "question": "I had to go to hospital when I ________ my ankle.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "sneezed",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "swollen",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "twisted",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I had to go to hospital when I twisted my ankle.",
+                "pl": "Musia\u0142em i\u015b\u0107 do szpitala, kiedy skr\u0119ci\u0142em kostk\u0119."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) twisted (skr\u0119ci\u0142em/skr\u0119ci\u0142am), inne podpowiedzi znacz\u0105: A) sneezed - kicha\u0142em/kicha\u0142am B) swollen - spuch\u0142."
+        },
+        {
+            "id": 15,
+            "question": "I\u2019m trying to be more healthy by cutting ________ on sweets and chocolate.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "out",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "down",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I\u2019m trying to be more healthy by cutting down on sweets and chocolate.",
+                "pl": "Staram si\u0119 by\u0107 zdrowszy, ograniczaj\u0105c s\u0142odycze i czekolad\u0119."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) down - w d\u00f3\u0142 (obci\u0105\u0107, zredukowa\u0107), inne podpowiedzi znacz\u0105: A) up - w g\u00f3r\u0119, B) out - na zewn\u0105trz (tutaj ca\u0142kiem odci\u0105\u0107, wyrzuci\u0107)."
+        },
+        {
+            "id": 16,
+            "question": "I\u2019m not sure whether my friend and her partner are a good ________",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "match",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "partner",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "type",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I\u2019m not sure whether my friend and her partner are a good match.",
+                "pl": "Nie jestem pewien, czy moja przyjaci\u00f3\u0142ka i jej partner dobrze do siebie pasuj\u0105."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) match (dopasowanie), inne podpowiedzi znacz\u0105: B) partner - partner, C) type - typ."
+        },
+        {
+            "id": 17,
+            "question": "My sister ________ when I introduced her to a good-looking friend of mine.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "chatted",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "raised",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "giggled",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "My sister giggled when I introduced her to a good-looking friend of mine.",
+                "pl": "Moja siostra zachichota\u0142a, kiedy przedstawi\u0142em j\u0105 mojemu przystojnemu przyjacielowi."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) giggled - za\u015bmia\u0142a si\u0119 (zachichota\u0142a), inne podpowiedzi znacz\u0105: A) chatted - rozmawia\u0142a B) raised - podnios\u0142a."
+        },
+        {
+            "id": 18,
+            "question": "Jamie\u2019s going to give ________ piano lessons because he doesn\u2019t have time.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "away",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "up",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "in",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Jamie\u2019s going to give up piano lessons because he doesn\u2019t have time.",
+                "pl": "Jamie zamierza zrezygnowa\u0107 z lekcji gry na pianinie, poniewa\u017c nie ma na to czasu."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) up - zrezygnowa\u0107, inne podpowiedzi znacz\u0105: A) away - odda\u0107, C) in - lekcje."
+        },
+        {
+            "id": 19,
+            "question": "Slow ________! You\u2019re driving too fast!",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "down",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "away",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Slow down! You\u2019re driving too fast!",
+                "pl": "Zwolnij! Jedziesz za szybko!"
+            },
+            "explanation": "Poprawna odpowied\u017a to B) down (zwolni\u0107), inne podpowiedzi znacz\u0105: A) up - do g\u00f3ry (tutaj: przyspieszy\u0107), C) away - odje\u017cd\u017ca\u0107."
+        },
+        {
+            "id": 20,
+            "question": "I\u2019ll call you ________ after we\u2019ve eaten.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "on",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "to",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "back",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I\u2019ll call you back after we\u2019ve eaten.",
+                "pl": "Oddzwoni\u0119 po tym, jak zjemy."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) back (z powrotem), inne podpowiedzi znacz\u0105: A) on - na, B) to - do."
+        },
+        {
+            "id": 21,
+            "question": "Ben\u2019s so ________. He always dresses really well.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "old",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "stylish",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "scruffy",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Ben\u2019s so stylish. He always dresses really well.",
+                "pl": "Ben jest taki stylowy. Zawsze ubiera si\u0119 naprawd\u0119 dobrze."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) stylish - stylowy, inne podpowiedzi znacz\u0105: A) old-fashioned - staromodny, C) scruffy - niechlujny."
+        },
+        {
+            "id": 22,
+            "question": "________ the end of the match, we went for a coffee.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "In",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "At",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "By",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "At the end of the match, we went for a coffee.",
+                "pl": "Po meczu poszli\u015bmy na kaw\u0119."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) At - na (na - na koniec meczu), inne podpowiedzi znacz\u0105: A) In - w  C) By - do."
+        },
+        {
+            "id": 23,
+            "question": "Your jeans are going to fall down. They’re too ________. ",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "smart",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "checked",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "loose",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Your jeans are going to fall down. They\u2019re too loose.",
+                "pl": "Twoje d\u017cinsy zaraz spadn\u0105. S\u0105 zbyt lu\u017ane."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) loose - lu\u017any, inne podpowiedzi znacz\u0105: A) smart - elegancki B) checked - w kratk\u0119."
+        },
+        {
+            "id": 24,
+            "question": "They knocked ________ the old hospital and built a new one.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "down",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "around",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They knocked down the old hospital and built a new one.",
+                "pl": "Zburzyli stary szpital i zbudowali nowy."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) down - w d\u00f3\u0142 (lock down - zamkn\u0105\u0107), inne podpowiedzi znacz\u0105: A) up - w g\u00f3r\u0119, C) around - wok\u00f3\u0142."
+        },
+        {
+            "id": 25,
+            "question": "I think you should wear your red dress tonight.It really ________ you.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "matches",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "fits",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "suits",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I think you should wear your red dress tonight. It really suits you.",
+                "pl": "My\u015bl\u0119, \u017ce powinna\u015b dzi\u015b za\u0142o\u017cy\u0107 czerwon\u0105 sukienk\u0119. To naprawd\u0119 ci odpowiada."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) suits - pasuje, A) matches - pasuje, B) fits - pasuje."
+        },
+        {
+            "id": 26,
+            "question": "I love swimming in the sea, ________ when it\u2019s a really hot day.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "obviously",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "actually",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "especially",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I love swimming in the sea, especially when it\u2019s a really hot day.",
+                "pl": "Uwielbiam p\u0142ywa\u0107 w morzu, szczeg\u00f3lnie w upalne dni."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) especially - zw\u0142aszcza, inne podpowiedzi znacz\u0105: A) obviously - oczywi\u015bcie B) actually - w\u0142a\u015bciwie."
+        },
+        {
+            "id": 27,
+            "question": "Can you turn ________ the TV, please? I can\u2019t hear it very well.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "down",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "up",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "on",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Can you turn up the TV, please? I can\u2019t hear it very well.",
+                "pl": "Czy mo\u017cesz podg\u0142o\u015bni\u0107 telewizor, prosz\u0119? Nie s\u0142ysz\u0119 tego zbyt dobrze."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) up - podg\u0142o\u015bni\u0107, inne podpowiedzi znacz\u0105: A) down - \u015bciszy\u0107, C) on - w\u0142\u0105czy\u0107."
+        },
+        {
+            "id": 28,
+            "question": "Swimsuits are usually made of ________ .",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "lycra",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "silk",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "linen",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Swimsuits are usually made of lycra.",
+                "pl": "Stroje k\u0105pielowe s\u0105 zwykle wykonane z lycry."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) lycra - lycra, inne podpowiedzi znacz\u0105: B) silk - jedwab, C) linen - len."
+        },
+        {
+            "id": 29,
+            "question": "I don\u2019t like patterned shirts. I prefer plain clothes.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "denim",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "hooded",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "plain",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I don\u2019t like patterned shirts. I prefer plain clothes.",
+                "pl": "Nie lubi\u0119 wzorzystych koszul. Wol\u0119 zwyk\u0142e ubrania. (lub g\u0142adkie, jednolite ubrania)."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) plain - g\u0142adki, jednolity, inne podpowiedzi znacz\u0105: A) denim - d\u017cinsowy, B) hooded - z kapturem."
+        },
+        {
+            "id": 30,
+            "question": "People usually think we\u2019re sisters, but ________ we\u2019re just good friends.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "at the moment",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "actually",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "even",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "People usually think we\u2019re sisters, but actually we\u2019re just good friends.",
+                "pl": "Ludzie zwykle my\u015bl\u0105, \u017ce jeste\u015bmy siostrami, ale tak naprawd\u0119 jeste\u015bmy tylko dobrymi przyjaci\u00f3\u0142kami."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) actually - w\u0142a\u015bciwie to, inne podpowiedzi znacz\u0105: A) at the moment - w tej chwili, C) even - nawet."
+        },
+        {
+            "id": 31,
+            "question": "Are you going to ________ for the dinner tonight?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "wear up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "dress over",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "dress up",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Are you going to dress up for the dinner tonight?",
+                "pl": "Zamierzasz si\u0119 przebra\u0107 na dzisiejsz\u0105 kolacj\u0119?"
+            },
+            "explanation": "Poprawna odpowied\u017a to C) dress up - ubra\u0107 si\u0119 (przebra\u0107 si\u0119, wystroi\u0107), inne podpowiedzi znacz\u0105: A) wear up - zu\u017cy\u0107 si\u0119, B) dress over - przebra\u0107 si\u0119."
+        },
+        {
+            "id": 32,
+            "question": "Yesterday, I found ________ that Anna has been going out with Tim for ages.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "in",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "about",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "out",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Yesterday, I found out that Anna has been going out with Tim for ages.",
+                "pl": "Wczoraj dowiedzia\u0142am si\u0119, \u017ce Anna spotyka si\u0119 z Timem od wiek\u00f3w."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) out - na zewn\u0105trz (tutaj- wychodzi), inne podpowiedzi znacz\u0105: A) in - w, B) about - o."
+        },
+        {
+            "id": 33,
+            "question": "That dress looks fantastic! It fits you like a ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "sock",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "glove",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "shoe",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "That dress looks fantastic! It fits you like a glove.",
+                "pl": "Ta sukienka wygl\u0105da fantastycznie! Pasuje do ciebie jak ula\u0142."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) glove - r\u0119kawiczka, inne podpowiedzi znacz\u0105: A) sock - skarpetka,  C) shoe - but."
+        },
+        {
+            "id": 34,
+            "question": "Jane\u2019s been very quiet ________ . I think she’s worried about something.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "late",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "later",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lately",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Jane\u2019s been very quiet lately. I think she\u2019s worried about something.",
+                "pl": "Jane by\u0142a ostatnio bardzo cicha. My\u015bl\u0119, \u017ce si\u0119 czym\u015b martwi."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) lately - ostatnio, inne podpowiedzi znacz\u0105: A) late - p\u00f3\u017ano, B) later - p\u00f3\u017aniej."
+        },
+        {
+            "id": 35,
+            "question": "People who pay to travel on a plane.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "customs",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "air crew",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "passengers",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "People who pay to travel on a plane. - passengers.",
+                "pl": "Ludzie, kt\u00f3rzy p\u0142ac\u0105 za podr\u00f3\u017c samolotem. - pasa\u017cerowie."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) passengers - pasa\u017cerowie, inne podpowiedzi znacz\u0105: A) customs - odprawa celna, B) air crew - za\u0142oga lotu."
+        },
+        {
+            "id": 36,
+            "question": "Another word for luggage.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "baggage",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "porter",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "trolley",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Another word for luggage. - baggage.",
+                "pl": "Inne okre\u015blenie baga\u017cu. - baga\u017c."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) baggage - baga\u017c, inne podpowiedzi znacz\u0105: B) porter - tragarz C) trolley - w\u00f3zek."
+        },
+        {
+            "id": 37,
+            "question": "A word which means \u2018coming down from the air\u2019.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "taking off",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "landing",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "boarding",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "A word which means \u2018coming down from the air\u2019. - landing.",
+                "pl": "S\u0142owo, kt\u00f3re oznacza \u201espadaj\u0105ce z powietrza\u201d. - l\u0105dowanie."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) landing - l\u0105dowa\u0107, A) taking off - startowa\u0107 (samolot), (samolot) C) boarding - wchodzi\u0107 na pok\u0142ad (samolotu)."
+        },
+        {
+            "id": 38,
+            "question": "The person that looks after you during a flight.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "pilots",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "security",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "flight attendant",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The person that looks after you during a flight. - flight attendant.",
+                "pl": "Osoba, kt\u00f3ra opiekuje si\u0119 Tob\u0105 podczas lotu. - steward."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) flight attendant - steward/stewardesa, inne podpowiedzi znacz\u0105: A) pilots - piloci B) security - ochrona, bezpiecze\u0144stwo."
+        },
+        {
+            "id": 39,
+            "question": "The place where you pick up your suitcase.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "baggage reclaim",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "passport control",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "check",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The place where you pick up your suitcase. - baggage reclaim.",
+                "pl": "Miejsce, w kt\u00f3rym odbierasz walizk\u0119. - odbi\u00f3r baga\u017cu."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) baggage reclaim - odbi\u00f3r baga\u017cu, inne podpowiedzi znacz\u0105: B) passport control - kontrola paszportowa C) check-in - odprawa biletowo-baga\u017cowa."
+        },
+        {
+            "id": 40,
+            "question": "You sit on one of these on a plane.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "aisle",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "seat",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "suitcase",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You sit on one of these on a plane. - seat.",
+                "pl": "Siedzisz na jednym z nich w samolocie. - siedziba."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) seat - miejsce, inne podpowiedzi znacz\u0105: A) aisle - przej\u015bcie, siedzenie C) suitcase - walizka."
+        },
+        {
+            "id": 41,
+            "question": "People who take people by force are called ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "kidnappers",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "smugglers",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "burglars",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "People who take people by force are called kidnappers.",
+                "pl": "Ludzi, kt\u00f3rzy bior\u0105 ludzi si\u0142\u0105, nazywa si\u0119 porywaczami."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) kidnappers - porywacze, inne podpowiedzi znacz\u0105: B) smugglers - przemytnicy C) burglars - w\u0142amywacze."
+        },
+        {
+            "id": 42,
+            "question": "If somebody is allowed to go free from a court, they are ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "acquitted",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "arrested",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "investigated",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If somebody is allowed to go free from a court, they are acquitted.",
+                "pl": "Je\u015bli komu\u015b pozwolono wyj\u015b\u0107 z s\u0105du, jest uniewinniony."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) acquitted - uniewinniony, inne podpowiedzi znacz\u0105: B) arrested - aresztowany, C) investigated - badany, \u015bledzony."
+        },
+        {
+            "id": 43,
+            "question": "A person who attacks somebody in the street and steals their money is called a ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "vandal",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "terrorist",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "mugger",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "A person who attacks somebody in the street and steals their money is called a mugger.",
+                "pl": "Osoba, kt\u00f3ra atakuje kogo\u015b na ulicy i kradnie jego pieni\u0105dze, nazywana jest rabusiem."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) mugger - napastnik, rabu\u015b, inne podpowiedzi znacz\u0105: A) vandal - wandal, B) terrorist - terrorysta."
+        },
+        {
+            "id": 44,
+            "question": "People who set off bombs are called ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hijackers",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "terrorists",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "blackmailers",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "People who set off bombs are called terrorists.",
+                "pl": "Ludzi, kt\u00f3rzy odpalaj\u0105 bomby, nazywa si\u0119 terrorystami."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) terrorists - terrory\u015bci, inne podpowiedzi znacz\u0105: A) hijackers - porywacze (samolot\u00f3w), C) blackmailers - szanta\u017cy\u015bci."
+        },
+        {
+            "id": 45,
+            "question": "Nobody has been arrested yet, but the police are ________ three men.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "questioning",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "charging",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "acquitting",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Nobody has been arrested yet, but the police are questioning  three men.",
+                "pl": "Nikogo jeszcze nie aresztowano, ale policja przes\u0142uchuje trzech m\u0119\u017cczyzn."
+            },
+            "explanation": "Poprawna odpowied\u017a to  , inne podpowiedzi znacz\u0105:"
+        },
+        {
+            "id": 46,
+            "question": "________ smashed windows in the town centre last night.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Murderers",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "Witnesses",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "Vandals",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Vandals smashed windows in the town centre last night.",
+                "pl": "Wandale wybili wczoraj szyby w centrum miasta."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) questioning - przes\u0142uchuj\u0105cy, inne podpowiedzi znacz\u0105: B) charging - oskar\u017caj\u0105cy, C) acquitting - uniewinniaj\u0105cy."
+        },
+        {
+            "id": 47,
+            "question": "The casino was closed ________ after the owner was convicted of fraud.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "out",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "down",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The casino was closed down after the owner was convicted of fraud.",
+                "pl": "Kasyno zosta\u0142o zamkni\u0119te po tym, jak w\u0142a\u015bciciel zosta\u0142 skazany za oszustwo."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) down - w d\u00f3\u0142 (close down - zamkniete), inne podpowiedzi znacz\u0105: A) out - na zewn\u0105trz, B) up - w g\u00f3r\u0119."
+        },
+        {
+            "id": 48,
+            "question": "The opposite of freezing.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "drizzling",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "pouring",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "scorching",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The opposite of freezing. - scorching.",
+                "pl": "Przeciwie\u0144stwo zamra\u017cania. - upalny."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) scorching - upalny, inne podpowiedzi znacz\u0105: A) drizzling - m\u017cy, B) pouring - ulewa."
+        },
+        {
+            "id": 49,
+            "question": "An adjective to describe a strong wind.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "gale-force",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "heavy",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "thick",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "An adjective to describe a strong wind. - gale-force.",
+                "pl": "Przymiotnik opisuj\u0105cy silny wiatr. - huraganowy."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) gale-force - huraganowy, inne podpowiedzi znacz\u0105: B) heavy - ci\u0119\u017cki, C) thick - g\u0119sty."
+        },
+        {
+            "id": 50,
+            "question": "Noise during a storm.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "lightning",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "hurricane",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "thunder",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Noise during a storm. - thunder.",
+                "pl": "Ha\u0142as podczas burzy. - grzmot."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) thunder - grzmot, inne podpowiedzi znacz\u0105: A) lightning - b\u0142yskawica, B) hurricane - huragan."
+        },
+        {
+            "id": 51,
+            "question": "The opposite of warm.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "humid",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "cool",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "damp",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The opposite of warm. - cool.",
+                "pl": "Przeciwie\u0144stwo ciep\u0142a. - Fajny."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) cool - chłodny, inne podpowiedzi znacz\u0105:A) humid - wilgotny, C) damp - wilgotny."
+        },
+        {
+            "id": 52,
+            "question": "When the ground is wet or icy and you might fall over, it is _____.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "sweating",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "shivering",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "slippery",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "When the ground is wet or icy and you might fall over, it is slippery.",
+                "pl": "Kiedy ziemia jest mokra lub oblodzona i mo\u017cesz si\u0119 przewr\u00f3ci\u0107, jest \u015blisko."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) slippery - \u015bliski, inne podpowiedzi znacz\u0105: A) sweating - poc\u0105cy si\u0119, B) shivering - dr\u017c\u0105cy, trz\u0119s\u0105cy si\u0119."
+        },
+        {
+            "id": 53,
+            "question": "When pieces of ice fall like rain.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "flood",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "blizzard",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "hailstorm",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "When pieces of ice fall like rain. - hailstorm.",
+                "pl": "Kiedy kawa\u0142ki lodu spadaj\u0105 jak deszcz. - grad."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) hailstorm - burza gradowa, inne podpowiedzi znacz\u0105: A) flood - pow\u00f3d\u017a, B) blizzard - zamie\u0107."
+        },
+        {
+            "id": 54,
+            "question": "What you do when you\u2019re very cold.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "shiver",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "melt",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "burn",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "What you do when you\u2019re very cold. - shiver.",
+                "pl": "Co robisz, gdy jest ci bardzo zimno. - dreszcze."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) shiver - dr\u017ce\u0107, inne podpowiedzi znacz\u0105: trz\u0105\u015b\u0107 si\u0119 B) melt - topi\u0107 si\u0119, C) burn - pali\u0107."
+        },
+        {
+            "id": 55,
+            "question": "My sister had to go ________a lot to get where she is today.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "on",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "through",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "My sister had to go through a lot to get where she is today.",
+                "pl": "Moja siostra musia\u0142a du\u017co przej\u015b\u0107, aby znale\u017a\u0107 si\u0119 w tym miejscu, w kt\u00f3rym jest dzisiaj."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) through - przez, inne podpowiedzi znacz\u0105: A) up - w g\u00f3r\u0119, B) on - na."
+        },
+        {
+            "id": 56,
+            "question": "Sam takes things too ________. He should learn to relax.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "carefully",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "easily",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "seriously",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Sam takes things too seriously. He should learn to relax.",
+                "pl": "Sam traktuje sprawy zbyt powa\u017cnie. Powinien nauczy\u0107 si\u0119 relaksowa\u0107."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) seriously - powa\u017cnie, inne podpowiedzi znacz\u0105: A) carefully - ostro\u017cnie, B) easily - \u0142atwo."
+        },
+        {
+            "id": 57,
+            "question": "The concert will take ________ on Tuesday night in the concert hall.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "time",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "place",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "part",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The concert will take place on Tuesday night in the concert hall.",
+                "pl": "Koncert odb\u0119dzie si\u0119 we wtorek wieczorem w sali koncertowej."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) place - miejsce, inne podpowiedzi znacz\u0105: A) time - czas, C) part - cz\u0119\u015b\u0107."
+        },
+        {
+            "id": 58,
+            "question": "I don\u2019t like having meals in a hurry. I like to take my ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "care",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "easy",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "time",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I don\u2019t like having meals in a hurry. I like to take my time.",
+                "pl": "Nie lubi\u0119 je\u015b\u0107 w po\u015bpiechu. Lubi\u0119 sp\u0119dza\u0107 czas."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) time - czas, inne podpowiedzi znacz\u0105:  A) care - troska, B) easy - \u0142atwo."
+        },
+        {
+            "id": 59,
+            "question": "We should take ________ of our day off and go to the beach.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "notice",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "advantage",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "care",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We should take advantage of our day off and go to the beach.",
+                "pl": "Powinni\u015bmy wykorzysta\u0107 nasz dzie\u0144 wolny i i\u015b\u0107 na pla\u017c\u0119."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) advantage - korzy\u015b\u0107, inne podpowiedzi znacz\u0105: A) notice - zauwa\u017cy\u0107, C) care - opiekowa\u0107 si\u0119, troszczy\u0107 si\u0119."
+        },
+        {
+            "id": 60,
+            "question": "They were told to get ________ while the building was still safe.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "out",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "in",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "down",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "They were told to get out while the building was still safe.",
+                "pl": "Kazano im wyj\u015b\u0107, p\u00f3ki budynek jest jeszcze bezpieczny."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) out - na zewn\u0105trz, inne podpowiedzi znacz\u0105: B) in - do \u015brodka, C) down - w d\u00f3\u0142."
+        },
+        {
+            "id": 61,
+            "question": "Very surprised by some unexpected news.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "furious",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "stunned",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "confused",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Very surprised by some unexpected news. - stunned.",
+                "pl": "Bardzo zaskoczony nieoczekiwanymi wiadomo\u015bciami. - oszo\u0142omiony."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) stunned - zszokowany, inne podpowiedzi znacz\u0105: A) furious - w\u015bciek\u0142y, C) confused - zdezorientowany."
+        },
+        {
+            "id": 62,
+            "question": "Sad and alone.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "grateful",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "offended",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lonely",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Sad and alone. - lonely.",
+                "pl": "Smutny i samotny. - samotny."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) lonely - samotny, inne podpowiedzi znacz\u0105:A) grateful - wdzi\u0119czny, B) offended - obra\u017cony."
+        },
+        {
+            "id": 63,
+            "question": "Very angry.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "miserable",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "devastated",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "furious",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Very angry. - furious.",
+                "pl": "Bardzo z\u0142y. - w\u015bciek\u0142y."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) furious - w\u015bciek\u0142y, inne podpowiedzi znacz\u0105:  A) miserable - nieszcz\u0119\u015bliwy, B) devastated - za\u0142amany."
+        },
+        {
+            "id": 64,
+            "question": "Very surprised.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "thrilled",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "astonished",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "delighted",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Very surprised. - astonished.",
+                "pl": "Bardzo zaskoczony. - zdziwiony."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) astonished - zdumiony , inne podpowiedzi znacz\u0105: A) thrilled - podekscytowany, C) delighted - zachwycony."
+        },
+        {
+            "id": 65,
+            "question": "Very glad that a problem has been solved.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "relieved",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "disappointed",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "shocked",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Very glad that a problem has been solved. - relieved.",
+                "pl": "Bardzo si\u0119 ciesz\u0119, \u017ce problem zosta\u0142 rozwi\u0105zany. - odci\u0105\u017cony."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) relieved - odci\u0105\u017cony, odczuwaj\u0105cy ulg\u0119, inne podpowiedzi znacz\u0105: B) disappointed - rozczarowany C) shocked - zszokowany."
+        },
+        {
+            "id": 66,
+            "question": "Bored or unhappy.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "miserable",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "fed up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "exhausted",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Bored or unhappy. - miserable.",
+                "pl": "Znudzony lub nieszcz\u0119\u015bliwy. - nieszcz\u0119\u015bliwy."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) miserable - nieszcz\u0119\u015bliwy, inne podpowiedzi znacz\u0105: B) fed up - mie\u0107 do\u015b\u0107, C) exhausted - wyczerpany."
+        },
+        {
+            "id": 67,
+            "question": "Very pleased.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "grateful",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "delighted",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "glad",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Very pleased. - delighted.",
+                "pl": "Bardzo zadowolony. - zachwycony."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) delighted - zachwycony, inne podpowiedzi znacz\u0105: A) grateful - wdzi\u0119czny, C) glad - zadowolony."
+        },
+        {
+            "id": 68,
+            "question": "Please try and calm ________.I know we can sort this out.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "down",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "off",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "on",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Please try and calm down. I know we can sort this out.",
+                "pl": "Prosz\u0119 spr\u00f3bowa\u0107 si\u0119 uspokoi\u0107. Wiem, \u017ce mo\u017cemy to za\u0142atwi\u0107."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) down- w d\u00f3\u0142 (tutaj: uspokoi\u0107), inne podpowiedzi znacz\u0105: B)off - wy\u0142\u0105czony, C)on - na."
+        },
+        {
+            "id": 69,
+            "question": "Don\u2019t forget to ________ your hair before you go to school.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "blow",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "comb",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "raise",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Don\u2019t forget to comb your hair before you go to school.",
+                "pl": "Nie zapomnij uczesa\u0107 w\u0142os\u00f3w przed p\u00f3j\u015bciem do szko\u0142y."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) comb - czesa\u0107, inne podpowiedzi znacz\u0105:  A) blow - dmucha\u0107, C) raise - podnosi\u0107."
+        },
+        {
+            "id": 70,
+            "question": "I really need to ________ my salary with the new boss.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "discuss",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "argue",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "talk",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I really need to discuss my salary with the new boss.",
+                "pl": "Naprawd\u0119 musz\u0119 om\u00f3wi\u0107 moj\u0105 pensj\u0119 z nowym szefem."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) discuss - dyskutowa\u0107, inne podpowiedzi znacz\u0105: B) argue - k\u0142\u00f3ci\u0107 si\u0119, C) talk - rozmawia\u0107."
+        },
+        {
+            "id": 71,
+            "question": "________ me to send Paul a text. I need to tell him the time of our next exam.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Remind",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "Remember",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "Notice",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Remind me to send Paul a text. I need to tell him the time of our next exam.",
+                "pl": "Przypomnij mi, \u017cebym wys\u0142a\u0142 wiadomo\u015b\u0107 tekstow\u0105 do Paula. Musz\u0119 mu powiedzie\u0107, kiedy mamy nast\u0119pny egzamin."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) Remind - Przypomnij, inne podpowiedzi znacz\u0105:  B) Remember - Pami\u0119taj, C) Notice - Zauwa\u017c."
+        },
+        {
+            "id": 72,
+            "question": "Your ________ is the organ that controls all your thoughts and feelings.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "lung",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "brain",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "liver",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Your brain is the organ that controls all your thoughts and feelings.",
+                "pl": "Tw\u00f3j m\u00f3zg jest organem, kt\u00f3ry kontroluje wszystkie twoje my\u015bli i uczucia."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) brain - m\u00f3zg, inne podpowiedzi znacz\u0105: A) lung - p\u0142uco, C) liver - w\u0105troba."
+        },
+        {
+            "id": 73,
+            "question": "I can\u2019t remember the name of the hotel! It\u2019s on the tip of my ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "tongue",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "toes",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "fingers",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I can\u2019t remember the name of the hotel! It\u2019s on the tip of my tongue.",
+                "pl": "Nie pami\u0119tam nazwy hotelu! Mam to na ko\u0144cu j\u0119zyka."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) tongue - j\u0119zyk, inne podpowiedzi znacz\u0105: B) toes - palce u st\u00f3p, C) fingers - palce u r\u0105k."
+        },
+        {
+            "id": 74,
+            "question": "I couldn\u2019t believe my ________ when I saw they were together again.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "ears",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "eyes",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "brain",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I couldn\u2019t believe my eyes when I saw they were together again.",
+                "pl": "Nie mog\u0142em uwierzy\u0107 w\u0142asnym oczom, kiedy zobaczy\u0142em, \u017ce zn\u00f3w s\u0105 razem."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) eyes - oczy, inne podpowiedzi znacz\u0105: A) ears - uszy, C) brain - m\u00f3zg."
+        },
+        {
+            "id": 75,
+            "question": "The friends ________ each other when they met again after a long break.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "hugged",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "shook",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "frowned",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The friends hugged each other when they met again after a long break.",
+                "pl": "Przyjaciele przytulili si\u0119, gdy spotkali si\u0119 ponownie po d\u0142ugiej przerwie."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) hugged - obj\u0119li si\u0119, inne podpowiedzi znacz\u0105:  B) shook - potrz\u0105sn\u0119li, C) frowned - zmarszczyli brwi."
+        },
+        {
+            "id": 76,
+            "question": "My teacher raised her ________ when I told her I hadn\u2019t done my homework.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "eyebrows",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "heels",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "hand",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My teacher raised her eyebrows when I told her I hadn\u2019t done my homework.",
+                "pl": "Moja nauczycielka unios\u0142a brwi, kiedy powiedzia\u0142am jej, \u017ce nie odrobi\u0142am pracy domowej."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) eyebrows - brwi, inne podpowiedzi znacz\u0105:  B) heels - pi\u0119ty, C) hand - r\u0119k\u0119."
+        },
+        {
+            "id": 77,
+            "question": "I really liked the poem, so I learned it by ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "head",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "hand",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "heart",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I really liked the poem, so I learned it by heart.",
+                "pl": "Bardzo podoba\u0142 mi si\u0119 ten wiersz, wi\u0119c nauczy\u0142em si\u0119 go na pami\u0119\u0107."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) heart - serce, inne podpowiedzi znacz\u0105: A) head - g\u0142ow\u0119, B) hand - r\u0119k\u0119."
+        },
+        {
+            "id": 78,
+            "question": "A healthy lifestyle can ________ some illnesses.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "prevent",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "avoid",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "expect",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "A healthy lifestyle can prevent some illnesses.",
+                "pl": "Zdrowy styl \u017cycia mo\u017ce zapobiega\u0107 niekt\u00f3rym chorobom."
+            },
+            "explanation": "Poprawna odpowied\u017a to A) prevent - zapobiega\u0107, inne podpowiedzi znacz\u0105: B) avoid - unika\u0107, C) expect - spodziewa\u0107 si\u0119."
+        },
+        {
+            "id": 79,
+            "question": "I can\u2019t ________ this meat. It’s too tough.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "scratch",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "chew",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "shake",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I can\u2019t chew this meat. It\u2019s too tough.",
+                "pl": "Nie mog\u0119 \u017cu\u0107 tego mi\u0119sa. Jest zbyt twarde."
+            },
+            "explanation": "Poprawna odpowied\u017a to B) chew - \u017cu\u0107, inne podpowiedzi znacz\u0105: A) scratch - drapa\u0107, C) shake - trz\u0105\u015b\u0107."
+        },
+        {
+            "id": 80,
+            "question": "They were walking quickly and they soon left the others ________.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "back",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "down",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "behind",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "They were walking quickly and they soon left the others behind.",
+                "pl": "Szli szybko i wkr\u00f3tce zostawili innych w tyle."
+            },
+            "explanation": "Poprawna odpowied\u017a to C) behind - za, z ty\u0142u, inne podpowiedzi znacz\u0105: A) back - z ty\u0142u, B) down - w d\u00f3\u0142."
+        }
+    ]
+}

@@ -1,0 +1,1174 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "question": "I don't go running but I ______ yoga twice a week.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "go",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "play",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "do",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I don't go running but I do yoga twice a week.",
+                "pl": "Nie biegam, ale \u0107wicz\u0119 jog\u0119 dwa razy w tygodniu."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 2,
+            "question": "I went out with Tessa last night and she paid ______ everythink!",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "with",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "for",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "at",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I went out with Tessa last night and she paid for everythink!",
+                "pl": "Wyszed\u0142em wczoraj z Tess\u0105 i zap\u0142aci\u0142a za wszystko!"
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 3,
+            "question": "Laura usually has two ______ eggs for breakfast.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "grilled",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "steamed",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "boiled",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Laura usually has two boiled eggs for breakfast.",
+                "pl": "Laura zwykle je na \u015bniadanie dwa jajka na twardo."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 4,
+            "question": "Their football ______ makes them train every day for four hours.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "coach",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "fans",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "referee",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Their football coach makes them train every day for four hours.",
+                "pl": "Ich trener pi\u0142ki no\u017cnej ka\u017ce im trenowa\u0107 codziennie przez cztery godziny."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 5,
+            "question": "Some of the students ______ , in the exam, so everybody had to do it again.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "revised",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "studied",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "cheated",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Some of the students cheated, in the exam, so everybody had to do it again.",
+                "pl": "Niekt\u00f3rzy studenci oszukiwali na egzaminie, wi\u0119c wszyscy musieli to robi\u0107 jeszcze raz."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 6,
+            "question": "Mark ______ because he stole some money from thye office.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "retired",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "got sacked",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "applied",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Mark got sacked because he stole some money from thye office.",
+                "pl": "Mark zosta\u0142 zwolniony, poniewa\u017c ukrad\u0142 troch\u0119 pieni\u0119dzy z biura."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 7,
+            "question": "The footballer ______, the ball and scored the winning goal.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "capped",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "kicked",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "pointed",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The footballer kicked, the ball and scored the winning goal.",
+                "pl": "Pi\u0142karz kopn\u0105\u0142 pi\u0142k\u0119 i zdoby\u0142 zwyci\u0119skiego gola."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 8,
+            "question": "The film is a ______ and it's so funny, you won't stop laughing!",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "thriller",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "horror",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "comedy",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "The film is a comedy and it's so funny, you won't stop laughing!",
+                "pl": "Film jest komedi\u0105 i jest tak zabawny, \u017ce nie przestaniesz si\u0119 \u015bmia\u0107!"
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 9,
+            "question": "We must stop at the petrol ______ on our way to the supermarket.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "station",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "rank",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "area",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We must stop at the petrol station on our way to the supermarket.",
+                "pl": "W drodze do supermarketu musimy zatrzyma\u0107 si\u0119 na stacji benzynowej."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 10,
+            "question": "That horror film is ______! Don't watch it late at night.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "frustrating",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "annoying",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "terrifying",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "That horror film is terrifying! Don't watch it late at night.",
+                "pl": "Ten horror jest przera\u017caj\u0105cy! Nie ogl\u0105daj tego p\u00f3\u017ano w nocy."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 11,
+            "question": "Sarah's so ______! She never changes her opinion about anything.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "affectionate",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "stabborn",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "moody",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Sarah's so stabborn! She never changes her opinion about anything.",
+                "pl": "Sara jest taka uparta! Nigdy nie zmienia zdania na \u017caden temat."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 12,
+            "question": "My garden has a long ______. Leading to a pond.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "path",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "balcony",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "gate",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My garden has a long path. leading to a pond.",
+                "pl": "M\u00f3j ogr\u00f3d ma d\u0142ug\u0105 \u015bcie\u017ck\u0119. prowadzi do stawu."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 13,
+            "question": "There's a taxi ______ at the main entrance to the airport.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "stop",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "rank",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "station",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "There's a taxi rank at the main entrance to the airport.",
+                "pl": "Przy g\u0142\u00f3wnym wej\u015bciu na lotnisko znajduje si\u0119 post\u00f3j taks\u00f3wek."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 14,
+            "question": "I showed my student card and got a 20% ______ on the books.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "discount",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "bargain",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "refund",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I showed my student card and got a 20% discount on the books.",
+                "pl": "Pokaza\u0142em legitymacj\u0119 studenck\u0105 i dosta\u0142em 20% zni\u017cki na ksi\u0105\u017cki."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 15,
+            "question": "When Lindsey won some money on the lottery, she ______ it in his business.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "earned",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "spent",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "invested",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "When Lindsey won some money on the lottery, she invested it in his business.",
+                "pl": "Kiedy Lindsey wygra\u0142a troch\u0119 pieni\u0119dzy na loterii, zainwestowa\u0142a je w jego biznes."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 16,
+            "question": "He's quite tall and well- ______ with short, brown hair.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "built",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "build",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "bald",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "He's quite tall and well- built with short, brown hair.",
+                "pl": "Jest do\u015b\u0107 wysoki i dobrze zbudowany, ma kr\u00f3tkie, br\u0105zowe w\u0142osy."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 17,
+            "question": "John's very ______. He always tells the truth.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "honest",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "hard",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "genreous",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "John's very honest. He always tells the truth.",
+                "pl": "John jest bardzo szczery. On zawsze m\u00f3wi prawd\u0119."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 18,
+            "question": "My parents will be very angry with me if I don't ______ my exams.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "win",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "succed",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "pass",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "My parents will be very angry with me if I don't pass my exams.",
+                "pl": "Moi rodzice b\u0119d\u0105 na mnie bardzo \u017ali, je\u015bli nie zdam egzamin\u00f3w."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 19,
+            "question": "Nina often argues ______, her husband about money.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "to",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "with",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "in",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Nina often argues with, her husband about money.",
+                "pl": "Nina cz\u0119sto k\u0142\u00f3ci si\u0119 z m\u0119\u017cem o pieni\u0105dze."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 20,
+            "question": "You won't have to pay much ______ this year as you haven't cured much money.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "earnings",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "tax",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "credit",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You won't have to pay much tax this year as you haven't cured much money.",
+                "pl": "Nie b\u0119dziesz musia\u0142 p\u0142aci\u0107 du\u017co podatku w tym roku, poniewa\u017c nie wyleczy\u0142e\u015b du\u017co pieni\u0119dzy."
+            },
+            "explanation": ""
+        },
+        {
+            "id": 21,
+            "question": "Sorry! I can't speak now. Can I call you _____ later?",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "back",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "from",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "down",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Sorry! I can't speak now. Can I call you back later?",
+                "pl": "Przepraszam! Nie mog\u0119 teraz m\u00f3wi\u0107. Czy mog\u0119 oddzwoni\u0107 p\u00f3\u017aniej?"
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 22,
+            "question": "I wanted to buy some tickets for the play, but they'd sold ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "out",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "in",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "up",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I wanted to buy some tickets for the play, but they'd sold out.",
+                "pl": "Chcia\u0142em kupi\u0107 bilety na przedstawienie, ale zosta\u0142y wyprzedane."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 23,
+            "question": "I worked at the film company for four months and got lots of useful ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "courses",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "qualifications",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "experience",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I worked at the film company for four months and got lots of useful experience.",
+                "pl": "Pracowa\u0142em w firmie filmowej przez cztery miesi\u0105ce i zdoby\u0142em du\u017co przydatnego do\u015bwiadczenia."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 24,
+            "question": "My parents have moved to a ______ just outside the city.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "suburb",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "centre",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "pedestrian",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "My parents have moved to a suburb just outside the city.",
+                "pl": "Moi rodzice przeprowadzili si\u0119 na przedmie\u015bcia na obrze\u017cach miasta."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 25,
+            "question": "If you want to complain, you should speak to the ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "manager",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "assistant",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "newsagent",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "If you want to complain, you should speak to the manager.",
+                "pl": "Je\u015bli chcesz z\u0142o\u017cy\u0107 skarg\u0119, powiniene\u015b porozmawia\u0107 z kierownikiem."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 26,
+            "question": "People who look after you during a flight.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "customs officials",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "cabin crew",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "check",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "People who look after you during a flight. - cabin crew.",
+                "pl": "Osoby, kt\u00f3re opiekuj\u0105 si\u0119 Tob\u0105 podczas lotu. - za\u0142oga."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 27,
+            "question": "To get on a plane.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "board",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "take off",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "land",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "To get on a plane. - board.",
+                "pl": "Aby wsi\u0105\u015b\u0107 do samolotu. - deska."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 28,
+            "question": "Late.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "on time",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "landing",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "delayed",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "late. - delayed.",
+                "pl": "p\u00f3\u017ano. - op\u00f3\u017aniony."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 29,
+            "question": "A flight which takes you to where you can catch your next flight.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "dirct flight",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "connecting flight",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "long",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "A flight which takes you to where you can catch your next flight. - connecting flight.",
+                "pl": "Lot, kt\u00f3ry zabierze Ci\u0119 do miejsca, w kt\u00f3rym mo\u017cesz z\u0142apa\u0107 nast\u0119pny lot. - lot \u0142\u0105cz\u0105cy."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 30,
+            "question": "The place where you pick up your suitcase.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "baggage reclaim",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "passport control",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "baggage drop off",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The place where you pick up your suitcase. - baggage reclaim.",
+                "pl": "miejsce, na kt\u00f3rej odbierasz walizk\u0119. - odbi\u00f3r baga\u017cu."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 31,
+            "question": "The thing you walk down between the seats on a plane.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "runway",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "aisale",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "board",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The thing you walk down between the seats on a plane. - aisale.",
+                "pl": "rzecz, kt\u00f3r\u0105 przechodzisz mi\u0119dzy siedzeniami w samolocie. - przej\u015bcie."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 32,
+            "question": "I didn't have any luggage to ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "fill in",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "check in",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "get off",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I didn't have any luggage to check in.",
+                "pl": "Nie mia\u0142em baga\u017cu do odprawy."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 33,
+            "question": "The plane ______, twenty minutes late, but we still arrived on time.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "picked up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "took off",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "dropped off",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "The plane took off, twenty minutes late, but we still arrived on time.",
+                "pl": "Samolot wystartowa\u0142 z dwudziestominutowym op\u00f3\u017anieniem, ale i tak dotarli\u015bmy na czas."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 34,
+            "question": "You have to ______ your US immigration form carefully.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "fill in",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "pick up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "check in",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "You have to fill in your US immigration form carefully.",
+                "pl": "Musisz dok\u0142adnie wype\u0142ni\u0107 formularz imigracyjny do USA."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 35,
+            "question": "I'll ______ my luggage at baggage reclaim, and then meet you outside the airport.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "drop off",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "check in",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "pick up",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I'll pick up my luggage at baggage reclaim, and then meet you outside the airport.",
+                "pl": "Odbior\u0119 baga\u017c w punkcie odbioru baga\u017cu, a potem spotkamy si\u0119 przed lotniskiem."
+            },
+            "explanation": "none"
+        },
+        {
+            "id": 36,
+            "question": "Could you ______ just outside Departures at 10.30? My flight's at 12.15.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "drop me off",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "pick me up",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "get me off",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Could you drop me off just outside Departures at 10.30? My flight's at 12.15.",
+                "pl": "Czy m\u00f3g\u0142by\u015b mnie podrzuci\u0107 przed hal\u0105 odlot\u00f3w o 10:30? M\u00f3j lot jest o 12:15."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 37,
+            "question": "We had to ______ the plane and go back to the departure lounge.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "get on",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "get off",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "drop off",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "We had to get off the plane and go back to the departure lounge.",
+                "pl": "Musieli\u015bmy wysi\u0105\u015b\u0107 z samolotu i wr\u00f3ci\u0107 do hali odlot\u00f3w."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 38,
+            "question": "______ we'd like a flat in the city centre, but just outside would be OK too.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Eventually",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "Apparently",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "Ideally",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Ideally we'd like a flat in the city centre. but just outside would be OK too.",
+                "pl": "Idealnie chcieliby\u015bmy mie\u0107 mieszkanie w centrum miasta, ale tylko na zewn\u0105trz te\u017c by\u0142oby OK."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 39,
+            "question": "Have you heard about Jane and Trevor? ______ they've split up.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "Apparently",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "Obviously",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "In fact",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "Have you heard about Jane and Trevor? Apparently they've split up.",
+                "pl": "S\u0142ysza\u0142e\u015b o Jane i Trevorze? Najwyra\u017aniej si\u0119 rozstali."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 40,
+            "question": "I thought the workshop was at the weekend but ______ it's on a Thursday",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "obviously",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "in fact",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "hardly",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I thought the workshop was at the weekend but in fact it's on a Thursday.",
+                "pl": "My\u015bla\u0142em, \u017ce warsztaty s\u0105 w weekend, ale tak naprawd\u0119 s\u0105 w czwartek."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 41,
+            "question": "I've been learning piano for two months so ______ can't play much yet.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "obviously",
+                    "is_correct": true
+                },
+                {
+                    "choice": "B",
+                    "text": "apparently",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "gradually",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I've been learning piano for two months so obviously. can't play much yet.",
+                "pl": "Ucz\u0119 si\u0119 gry na pianinie od dw\u00f3ch miesi\u0119cy, wi\u0119c oczywi\u015bcie. nie mog\u0119 jeszcze du\u017co gra\u0107."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 42,
+            "question": "I love swimming in the sea. ______ when it's a really hot day.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "obviously",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "actually",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "especially",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "I love swimming in the sea. Especially when it's a really hot day.",
+                "pl": "Uwielbiam pływać w morzu. Zwłaszcza, gdy jest naprawdę gorący dzień."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 43,
+            "question": "People usually think we're sisters, but ______ we're just good friends.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "at the moment",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "actually",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "even",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "People usually think we're sisters, but actually we're just good friends.",
+                "pl": "Ludzie zazwyczaj my\u015bl\u0105, \u017ce jeste\u015bmy siostrami, ale tak naprawd\u0119 jeste\u015bmy tylko dobrymi przyjaci\u00f3\u0142kami."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 44,
+            "question": "Jane's been very quiet ______. I think she's worried about something.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "late",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "later",
+                    "is_correct": false
+                },
+                {
+                    "choice": "C",
+                    "text": "lately",
+                    "is_correct": true
+                }
+            ],
+            "translation": {
+                "en": "Jane's been very quiet lately. I think she's worried about something.",
+                "pl": "Jane by\u0142a ostatnio bardzo cicha. My\u015bl\u0119, \u017ce si\u0119 czym\u015b martwi."
+            },
+            "explanation": "\"----\""
+        },
+        {
+            "id": 45,
+            "question": "I loved the novel, but I was very sad when John died suddenly ______.",
+            "answers": [
+                {
+                    "choice": "A",
+                    "text": "in the end",
+                    "is_correct": false
+                },
+                {
+                    "choice": "B",
+                    "text": "at the end",
+                    "is_correct": true
+                },
+                {
+                    "choice": "C",
+                    "text": "at the moment",
+                    "is_correct": false
+                }
+            ],
+            "translation": {
+                "en": "I loved the novel, but I was very sad when John died suddenly at the end.",
+                "pl": "Jane by\u0142a ostatnio bardzo cicha. My\u015bl\u0119, \u017ce si\u0119 czym\u015b martwi."
+            },
+            "explanation": "\"----\""
+        }
+    ]
+}
